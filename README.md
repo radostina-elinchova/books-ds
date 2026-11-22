@@ -42,8 +42,21 @@ statistical conclusions.
 
 ## Reproducibility
 
-Detailed execution instructions and dependency versions
-will be added as the workflow is implemented and tested.
+The pilot requires Python, pandas and JupyterLab or Jupyter Notebook.
+
+1. Open books_project.ipynb from the project root directory.
+2. Ensure these input files are available:
+   - data/raw/kaggle_pilot.csv
+   - data/raw/openlibrary_pilot.csv
+3. Restart the kernel and run all cells in order.
+
+The notebook creates:
+data/processed/books_pilot_merged.csv
+
+The pilot uses saved input files and does not require live
+Open Library API requests.
+
+Tested dependency versions will be documented as the project develops.
 
 ## Limitations
 
