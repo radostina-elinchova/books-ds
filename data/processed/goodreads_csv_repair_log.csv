@@ -1,0 +1,5 @@
+csv_record_number,book_id,original_field_count,repaired_field_count,original_author_fragment_1,original_author_fragment_2,repaired_authors,action
+3350,12224,13,12,Sam Bass Warner, Jr./Sam B. Warner,"Sam Bass Warner, Jr./Sam B. Warner",Joined author fragments with the original comma
+4704,16914,13,12,David E. Smith (Turgon of TheOneRing.net, one of the founding members of this Tolkien website)/Verlyn Flieger/Turgon (=David E. Smith),"David E. Smith (Turgon of TheOneRing.net, one of the founding members of this Tolkien website)/Verlyn Flieger/Turgon (=David E. Smith)",Joined author fragments with the original comma
+5879,22128,13,12,James Wesley, Rawles,"James Wesley, Rawles",Joined author fragments with the original comma
+8981,34889,13,12,Brown, Son & Ferguson,"Brown, Son & Ferguson",Joined author fragments with the original comma
