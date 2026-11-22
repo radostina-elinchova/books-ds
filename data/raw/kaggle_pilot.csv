@@ -1,0 +1,6 @@
+﻿bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_count,text_reviews_count,publication_date,publisher
+1888,Pride and Prejudice,Jane Austen,4.26,0192802380,9780192802385,eng,333,2399,253,2/11/2004,Oxford University Press
+2619,Great Expectations,Charles Dickens/David Trotter/Charlotte Mitchell,3.77,0141439564,9780141439563,eng,512,14228,668,12/31/2002,Penguin Books
+6184,Wuthering Heights,Emily Brontë,3.85,0140620125,9780140620122,eng,279,2155,182,1/13/2007,Penguin Books
+10210,Jane Eyre,Charlotte Brontë/Michael Mason,4.12,0142437204,9780142437209,eng,532,1409369,27884,2/4/2003,Penguin
+33532,Dracula,Bram Stoker,3.99,014062063X,9780140620634,eng,449,1683,120,4/28/1994,Penguin Books
