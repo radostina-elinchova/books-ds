@@ -1,0 +1,422 @@
+bookID,isbn13,title,authors,average_rating,ratings_count,openlibrary_work_id,openlibrary_title,openlibrary_authors,edition_count,retrieved_at_utc,match_status,validated_records_for_work
+30336,9780440229407,Shattered Mirror,Amelia Atwater-Rhodes,4.03,9408,OL100073W,Shattered mirror,Amelia Atwater-Rhodes,5,2026-11-24T03:06:50.701424+00:00,accepted_rule,1
+35134,9780727845641,Nor Crystal Tears (Humanx Commonwealth  #9),Alan Dean Foster,4.03,2278,OL102594W,Nor Crystal Tears,Alan Dean Foster,6,2026-11-24T03:07:24.172987+00:00,accepted_rule,1
+9633,9780743474764,The Best of Ray Bradbury,Ray Bradbury/Dave Gibbons/Richard Corben/Mike Mignola,4.07,308,OL103151W,The Best of Ray Bradbury,Richard Corben; Mike Mignola; Kent Williams; John Van Fleet; P. Craig Russell; Daniel Torres; Mark Chiarello; Dave Gibbons; Michael Lark; Harvey Kurtzman; Matt Wagner; Jon J. Muth; Wayne Douglas Barlowe; Ray Bradbury,4,2026-11-24T03:07:27.451815+00:00,accepted_rule,1
+9632,9780553112443,Switch on the Night,Ray Bradbury/Leo Dillon/Diane Dillon,4.13,198,OL103181W,Switch on the Night,Ray Bradbury,11,2026-11-24T03:06:59.202061+00:00,accepted_rule,1
+42213,9780143104827,Life Is a Dream,Pedro Calderón de la Barca/Gregary Racz,3.98,168,OL10341555W,Vida es sueño,Pedro Calderón de la Barca,30,2026-11-24T03:06:32.883449+00:00,accepted_manual,1
+5700,9780375719004,The Adolescent,Fyodor Dostoyevsky/Richard Pevear/Larissa Volokhonsky,3.94,3568,OL10419085W,Подросток,Фёдор Достоевский,79,2026-11-24T03:06:43.628475+00:00,accepted_manual,1
+4940,9781593080457,The Brothers Karamazov,Fyodor Dostoyevsky/Constance Garnett/Maire Jaanus,4.32,1089,OL10432709W,Братья Карамазовы,Fiódor Dostoievski,394,2026-11-24T03:07:45.879117+00:00,accepted_manual,1
+23060,9780520071773,The Fashion System,Roland Barthes/Matthew    Ward/Richard Howard,3.54,228,OL10445944W,Système de la mode,Roland Barthes,13,2026-11-24T03:06:59.202061+00:00,accepted_manual,1
+28764,9780810117303,The Chain of Chance,Stanisław Lem/Louis Iribarne,3.7,505,OL109521W,Katar,Stanisław Lem,12,2026-11-24T03:07:31.196369+00:00,accepted_manual,1
+12210,9781883011062,Collected Poems  Prose  and Plays,Robert Frost/Richard Poirier/Mark   Richardson,4.32,6188,OL1108064W,"Collected poems, prose & plays",Robert Frost,3,2026-11-24T03:07:49.178805+00:00,accepted_manual,1
+26047,9780373285433,Rebellion (The MacGregors  #0.1),Nora Roberts,3.92,6650,OL111560W,Rebellion,Nora Roberts,13,2026-11-24T03:06:43.628475+00:00,accepted_manual,1
+32507,9780446611626,Chasing the Dime,Michael Connelly,3.96,26998,OL111736W,Chasing the dime,Michael Connelly,9,2026-11-24T03:06:54.612911+00:00,accepted_rule,1
+21544,9781596009202,The Concrete Blonde (Harry Bosch  #3),Michael Connelly/Dick Hill,4.16,132,OL111751W,The Concrete Blonde (Harry Bosch),Michael Connelly,14,2026-11-24T03:07:49.178805+00:00,accepted_manual,1
+13982,9780373802456,The Fairy Godmother (Five Hundred Kingdoms  #1),Mercedes Lackey,3.97,15813,OL112569W,The Fairy Godmother,Mercedes Lackey,7,2026-11-24T03:06:43.628475+00:00,accepted_rule,1
+12589,9780156360906,The Golden Apples,Eudora Welty,3.88,830,OL113980W,The golden apples,Eudora Welty,12,2026-11-24T03:06:32.883449+00:00,accepted_rule,1
+4953,9780375725784,A Heartbreaking Work of Staggering Genius,Dave Eggers,3.68,157572,OL114661W,A heartbreaking work of staggering genius,Dave Eggers; Dion Graham,24,2026-11-24T03:06:43.628475+00:00,accepted_rule,1
+14959,9780156031394,Strange Fits of Passion,Anita Shreve,3.76,7423,OL116677W,Strange Fits of Passion,Anita Shreve,11,2026-11-24T03:06:32.883449+00:00,accepted_rule,1
+17030,9780192805980,Flatland,Edwin A. Abbott/Rosemary Jann,3.82,314,OL118388W,Flatland,Edwin Abbott Abbott,585,2026-11-24T03:06:32.883449+00:00,accepted_manual,1
+44613,9780701125592,Remembrance of Things Past (Boxed Set),Marcel Proust/C.K. Scott Moncrieff/Frederick A. Blossom/Joseph Wood Crutch,4.34,6,OL1190163W,"Proust, Marcel Remembrance Things Past(boxed",Marcel Proust,1,2026-11-24T03:07:24.172987+00:00,accepted_manual,1
+3985,9780312282998,The Amazing Adventures of Kavalier & Clay,Michael Chabon,4.18,165862,OL119436W,The Amazing Adventures of Kavalier & Clay,Michael Chabon,36,2026-11-24T03:06:36.687388+00:00,accepted_rule,1
+8801,9780486428406,The Burgess Bird Book for Children,Thornton W. Burgess/Louis Agassiz Fuertes,4.31,1253,OL121263W,The Burgess bird book for children,Thornton W. Burgess; Louis Agassiz Fuertes; CrossReach Publications,44,2026-11-24T03:06:59.202061+00:00,accepted_rule,1
+23785,9780393048858,The Complete Plays,Anton Chekhov/Laurence Senelick,4.47,222,OL12129718W,The complete plays,Антон Павлович Чехов; Laurence Senelick,5,2026-11-24T03:06:46.899655+00:00,accepted_manual,1
+15692,9780394702452,The Possessed,Albert Camus/Justin O'Brien,3.83,325,OL1230669W,Les Possédés,Albert Camus,31,2026-11-24T03:06:46.899655+00:00,accepted_manual,1
+44164,9780156028479,Maigret Loses His Temper (Maigret  #61),Georges Simenon,3.83,370,OL1242793W,La Colère de Maigret,Georges Simenon,18,2026-11-24T03:06:32.883449+00:00,accepted_manual,1
+41485,9780743264914,I Heard That Song Before,Mary Higgins Clark,3.82,545,OL13056W,I Heard That Song Before,Mary Higgins Clark,29,2026-11-24T03:07:27.451815+00:00,accepted_rule,1
+43332,9780671014919,My Gal Sunday,Mary Higgins Clark,3.57,5355,OL13057W,My Gal Sunday,Mary Higgins Clark,19,2026-11-24T03:07:21.000537+00:00,accepted_rule,1
+11235,9780140024760,The Unicorn,Iris Murdoch,3.63,1846,OL1326349W,The Unicorn,Iris Murdoch,43,2026-11-24T03:06:25.087603+00:00,accepted_rule,1
+16388,9781585672776,Lord Emsworth and Others (Blandings Castle  #5.5),P.G. Wodehouse,4.16,1099,OL1337066W,Lord Emsworth and others,P. G. Wodehouse,12,2026-11-24T03:07:45.879117+00:00,accepted_manual,1
+43491,9781416500506,Child of Darkness (Gemini  #3),V.C. Andrews,3.81,19,OL134865W,Child of Darkness,V.C. Andrews,13,2026-11-24T03:07:37.798916+00:00,accepted_rule,1
+28375,9780811204835,The Flight of Icarus,Raymond Queneau/Barbara Wright,3.99,339,OL1364482W,Vol d'Icare,Raymond Queneau,6,2026-11-24T03:07:31.196369+00:00,accepted_manual,1
+23010,9780060977085,Prisoner's Dilemma,Richard Powers,3.87,543,OL138009W,Prisoner's dilemma,Richard Powers,10,2026-11-24T03:06:25.087603+00:00,accepted_rule,1
+12076,9780024288103,Philosophical Investigations,Ludwig Wittgenstein/G.E.M. Anscombe,4.23,224,OL1410380W,Philosophische Untersuchungen,Ludwig Wittgenstein,40,2026-11-24T03:06:21.718463+00:00,accepted_manual,1
+30162,9780451206121,Jade Star (Star  #4),Catherine Coulter,3.83,896,OL14696W,Jade Star,Catherine Coulter,9,2026-11-24T03:06:54.612911+00:00,accepted_rule,1
+2928,9780385321983,Brian's Winter,Gary Paulsen,4.01,76,OL14850197W,Brian's Winter,Gary Paulsen,21,2026-11-24T03:06:46.899655+00:00,accepted_rule,1
+11166,9780809037728,Dawn (The Night Trilogy  #2),Elie Wiesel/Frances Frenaye,3.87,12576,OL14856833W,Dawn,Elie Wiesel; Frances Frenaye,17,2026-11-24T03:07:31.196369+00:00,accepted_rule,1
+12528,9780060915186,An American Childhood,Annie Dillard,3.91,7102,OL14857922W,An American childhood,Annie Dillard,13,2026-11-24T03:06:25.087603+00:00,accepted_rule,1
+5877,9780670869299,The Regeneration Trilogy (Regeneration  #1-3),Pat Barker,4.38,1588,OL14865030W,The Regeneration Trilogy,Pat Barker,6,2026-11-24T03:07:21.000537+00:00,accepted_manual,1
+5304,9780140430899,De Profundis and Other Writings,Oscar Wilde/Hesketh Pearson,4.21,2298,OL14877813W,De Profundis and Other Writings,Oscar Wilde,4,2026-11-24T03:06:29.196031+00:00,accepted_rule,1
+2678,9781416500391,Gulliver's Travels / A Modest Proposal,Jonathan Swift/Jesse Gale,3.79,2161,OL14905051W,Gulliver's Travels and A Modest Proposal,Jonathan Swift,1,2026-11-24T03:07:37.798916+00:00,accepted_manual,1
+21969,9781594832284,The Book of the Dead  (Pendergast  #7; Diogenes  #3),Douglas Preston/Lincoln Child/Scott Brick,4.13,112,OL14907333W,The Book of the Dead,Lincoln Child,7,2026-11-24T03:07:45.879117+00:00,accepted_manual,1
+19911,9780425207758,Captive Dreams,Angela Knight/Diane Whiteside,3.91,1354,OL14909439W,Captive Dreams,Angela Knight,2,2026-11-24T03:06:50.701424+00:00,accepted_rule,1
+14009,9780886778040,Owlflight (Owl Mage Trilogy  #1),Mercedes Lackey/Larry Dixon,3.98,9217,OL14913409W,Owlflight (Valdemar,Mercedes Lackey,5,2026-11-24T03:07:34.223144+00:00,accepted_manual,1
+13991,9780743499095,This Rough Magic (Heirs of Alexandria  #2),Mercedes Lackey/Eric Flint/Dave Freer,3.86,1189,OL14913444W,This Rough Magic (Heirs of Alexandria),Mercedes Lackey,1,2026-11-24T03:07:27.451815+00:00,accepted_manual,1
+34296,9781902602684,The Builders,Maeve Binchy,3.97,664,OL14915296W,The Builders (Open Door),Maeve Binchy,4,2026-11-24T03:07:49.178805+00:00,accepted_manual,1
+32667,9780671046170,Blood and Smoke,Stephen King,3.92,6221,OL14916745W,Blood and Smoke (1408 / In the Deathroom / Lunch at the Gotham Cafe),Stephen King,6,2026-11-24T03:07:21.000537+00:00,accepted_manual,1
+20076,9780345470041,Maelstrom,Anne McCaffrey/Elizabeth Ann Scarborough,3.88,1088,OL14919396W,Maelstrom,Elizabeth Ann Scarborough; Anne McCaffrey,8,2026-11-24T03:06:39.940557+00:00,accepted_rule,1
+3738,9780940450004,Typee / Omoo / Mardi,Herman Melville/G. Thomas Tanselle,3.55,644,OL14953686W,Mardi / Omoo / Typee,Herman Melville,6,2026-11-24T03:07:37.798916+00:00,accepted_manual,1
+43437,9781932416480,McSweeney's #19,Dave Eggers/T. Coraghessan Boyle/Adam Golaski/Sean Casey/Brendan Connell,3.8,305,OL14957719W,McSweeney's Issue 19 (McSweeney's Quarterly Concern),Dave Eggers,2,2026-11-24T03:07:49.178805+00:00,accepted_manual,1
+15962,9780452265813,Because It Is Bitter  and Because It Is My Heart,Joyce Carol Oates,3.89,2690,OL14958423W,"Because it is bitter, and because it is my heart",Joyce Carol Oates,5,2026-11-24T03:06:54.612911+00:00,accepted_rule,1
+19685,9780425187050,Cutting Edge (Tom Clancy's Power Plays  #6),Jerome Preisler/Tom Clancy/Martin Greenberg,3.86,1218,OL15012285W,Cutting Edge,Jerome Preisler,6,2026-11-24T03:06:46.899655+00:00,accepted_rule,1
+28821,9780940450721,Writings 1878–1899: Psychology: Briefer Course / The Will to Believe / Talks to Teachers and to Students / Essays,William  James/Gerald Eugene Myers,4.25,92,OL1502029W,"Writings, 1878-1899",William James,2,2026-11-24T03:07:37.798916+00:00,accepted_manual,1
+24124,9780803724624,William Shakespeare’s: Romeo and Juliet (Shakespeare Retellings  #4),Bruce Coville/Dennis Nolan,3.97,179,OL15025827W,William Shakespeare's Romeo and Juliet,Bruce Coville,4,2026-11-24T03:07:31.196369+00:00,accepted_rule,1
+14367,9780307243164,Island of the Blue Dolphins,Scott O'Dell/Tantoo Cardinal,3.83,205,OL1503145W,Island of the Blue Dolphins,Scott O’Dell,89,2026-11-24T03:06:36.687388+00:00,accepted_rule,1
+41460,9780689849121,Voting Rights Days (Hitty's Travels  #3),Ellen Weiss/Betina Ogden,4.27,10,OL15068382W,Voting rights days,Ellen Weiss,1,2026-11-24T03:07:24.172987+00:00,accepted_rule,1
+16726,9780738543390,Cypress Gardens (Images of America: Florida),Mary M. Flekke/Sarah E. MacDonald/Randall M. MacDonald,3.0,5,OL15082214W,"Cypress Gardens, FL  (Images of America)",Randall M. MacDonald,1,2026-11-24T03:07:24.172987+00:00,accepted_manual,1
+15111,9780385607018,The French Kitchen: A Cookbook,Joanne Harris/Fran Warde,4.09,35,OL15100840W,The French Kitchen,Joanne Harris,1,2026-11-24T03:06:46.899655+00:00,accepted_manual,1
+9479,9780807555385,The Midnight Mystery (The Boxcar Children  #95),Gertrude Chandler Warner,3.9,312,OL15101W,The Midnight Mystery,Gertrude Chandler Warner,14,2026-11-24T03:07:31.196369+00:00,accepted_rule,1
+19768,9780316140584,Tough to Tackle,Matt Christopher/Harvey Kidder,3.87,389,OL15108829W,Tough to tackle,Matt Christopher,5,2026-11-24T03:06:39.940557+00:00,accepted_rule,1
+22065,9780425198056,The London Blitz Murders (Disaster Series  #5),Max Allan Collins,3.72,209,OL15119277W,The London Blitz murders,Max Allan Collins,1,2026-11-24T03:06:50.701424+00:00,accepted_rule,1
+24330,9781417629763,Knowledge Is Power (The Amazing Days of Abby Hayes: #15),Anne Mazer,3.97,23,OL15123488W,the amazing days of abby hayes knowlege is power,Anne Mazer,1,2026-11-24T03:07:37.798916+00:00,accepted_manual,1
+13519,9780312421687,The Journey to the East,Hermann Hesse/Hilda Rosner,3.7,8071,OL15143953W,Morgenlandfahrt,Hermann Hesse,25,2026-11-24T03:06:36.687388+00:00,accepted_manual,1
+5698,9780375719011,The Double and The Gambler,Fyodor Dostoyevsky/Richard Pevear/Larissa Volokhonsky,4.16,2486,OL15192021W,Novels (Двойник / Игрокъ),Fiódor Dostoievski,4,2026-11-24T03:06:43.628475+00:00,accepted_manual,1
+36264,9780520040243,The Whole World Is Watching: Mass Media in the Making & Unmaking of the New Left,Todd Gitlin,3.73,10,OL15215145W,The Whole World Is Watching,Todd Gitlin,3,2026-11-24T03:06:59.202061+00:00,accepted_manual,1
+36310,9780143039914,The Portable Edgar Allan Poe,Edgar Allan Poe/J. Gerald Kennedy,4.31,234,OL15215431W,The Portable Edgar Allan Poe,Edgar Allan Poe; J. Gerald Kennedy,4,2026-11-24T03:06:32.883449+00:00,accepted_rule,1
+10,9780439827607,Harry Potter Collection (Harry Potter  #1-6),J.K. Rowling,4.73,28242,OL15267565W,Harry Potter (series) 1-6,J. K. Rowling,4,2026-11-24T03:06:50.701424+00:00,accepted_manual,1
+18413,9780300084290,Utopia,Thomas More/Clarence H. Miller,3.53,438,OL15366912W,Utopia,Thomas More,198,2026-11-24T03:06:36.687388+00:00,accepted_rule,1
+16059,9780375727139,The Dive From Clausen's Pier,Ann Packer,3.42,19844,OL15392262W,The dive from Clausen's pier,Ann Packer,1,2026-11-24T03:06:43.628475+00:00,accepted_manual,1
+27669,9780333904916,Bury the Chains,Adam Hochschild,4.28,13,OL15825553W,Bury the Chains,Adam Hochschild; Derek Perkins; José Luis Gil Aristu,17,2026-11-24T03:06:39.940557+00:00,accepted_rule,1
+21245,9780812532470,Orion (Orion  #1),Ben Bova,3.72,1386,OL15826W,Orion,Ben Bova,8,2026-11-24T03:07:31.196369+00:00,accepted_rule,1
+43682,9780451218292,The Death Collectors (Carson Ryder  #2),Jack Kerley,3.94,1088,OL15835696W,The death collectors,Jack Kerley,13,2026-11-24T03:06:54.612911+00:00,accepted_rule,1
+26780,9780871239327,Mandie and the Abandoned Mine (Mandie  #8),Lois Gladys Leppard,3.96,1369,OL15838154W,Mandie and the abandoned mine (Mandie books 8),Lois Gladys Leppard,2,2026-11-24T03:07:34.223144+00:00,accepted_manual,1
+7388,9780671624972,My Pride and Joy: An Autobiography,George  Adamson,4.23,134,OL15844208W,My pride and joy,George Adamson,7,2026-11-24T03:07:21.000537+00:00,accepted_manual,1
+36198,9780373771257,Tell Me No Lies,Elizabeth Lowell,3.99,2221,OL15890W,Tell Me No Lies,Ann Maxwell,13,2026-11-24T03:06:43.628475+00:00,accepted_manual,1
+16996,9781563894473,Underworld Unleashed,Mark Waid/Scott Peterson/Howard Porter/Dennis Janke/Phil Jimenez/J.H. Williams III/John Stokes/Mick Gray/Dan           Green,3.12,111,OL1646663W,Underworld unleashed,Mark Waid,1,2026-11-24T03:07:41.461634+00:00,accepted_rule,1
+39733,9781879965034,Almond Cookies & Dragon Well Tea,Cynthia Chin-Lee/Youshan Tang,3.89,9,OL16622448W,Almond cookies & dragon well tea,Cynthia Chin-Lee,1,2026-11-24T03:07:49.178805+00:00,accepted_rule,1
+40219,9780786885596,Dirty Jokes and Beer: Stories of the Unrefined,Drew Carey,3.53,1944,OL1666426W,Dirty Jokes and Beer - Stories Of The Unrefined,Drew Carey,8,2026-11-24T03:07:31.196369+00:00,accepted_rule,1
+7515,9780316969680,The Beach House,James Patterson/Peter de Jonge,3.84,717,OL167183W,The beach house,James Patterson; Peter De Jonge,41,2026-11-24T03:06:39.940557+00:00,accepted_rule,1
+13140,9780446692656,Jack & Jill (Alex Cross  #3),James Patterson,3.96,58414,OL167185W,Jack & Jill,James Patterson,56,2026-11-24T03:06:54.612911+00:00,accepted_rule,1
+19485,9780571212187,The Book of Illusions,Paul Auster,3.85,486,OL1682230W,The Book of Illusions,Paul Auster,45,2026-11-24T03:07:21.000537+00:00,accepted_rule,1
+35052,9780310217602,Trial by Fire (Newpointe 911 #4),Terri Blackstock,4.36,3248,OL16892W,Trial by Fire,Terri Blackstock,3,2026-11-24T03:06:36.687388+00:00,accepted_rule,1
+37231,9780521476768,The Cambridge Companion to Plotinus,Lloyd P. Gerson,4.36,21,OL16925945W,The Cambridge companion to Plotinus,Lloyd P. Gerson,2,2026-11-24T03:06:59.202061+00:00,accepted_rule,1
+2731,9781568813073,Advanced Global Illumination,Philip Dutre,4.5,17,OL16939622W,Advanced global illumination,Philip Dutre; Philippe Bekaert; Kavita Bala,6,2026-11-24T03:07:41.461634+00:00,accepted_rule,1
+6568,9780449227947,Asylum (Blackstone Chronicles  #6),John Saul,4.1,932,OL1728946W,Asylum,John Saul,1,2026-11-24T03:06:54.612911+00:00,accepted_rule,1
+6273,9780811201322,The Collected Poems of Wilfred Owen,Wilfred Owen/Cecil Day-Lewis,4.34,3151,OL17376640W,The Collected Poems Of Wilfred Owen,Cecil Day-Lewis,4,2026-11-24T03:07:31.196369+00:00,accepted_manual,1
+21832,9780446691925,The League of Night and Fog (Mortalis  #3),David Morrell,4.1,2564,OL175572W,The League of Night and Fog,David Morrell,8,2026-11-24T03:06:54.612911+00:00,accepted_rule,1
+44231,9780563525691,The Silver Pigs,Lindsey Davis/Mary Cutler/Anton Lesser/Fritha Goodey,3.94,5,OL176300W,The Silver Pigs,Lindsey Davis,25,2026-11-24T03:07:21.000537+00:00,accepted_manual,1
+21665,9780618497423,The Best American Mystery Stories 2004,Nelson DeMille/Otto Penzler,3.55,3,OL17705840W,The Best American Mystery Stories 2004,Nelson DeMille; Otto Penzler; Stephen King,4,2026-11-24T03:07:21.000537+00:00,accepted_rule,1
+20749,9780310929550,Study Bible: NIV,Anonymous,4.7,4166,OL17732W,Bible,Bible,6116,2026-11-24T03:06:36.687388+00:00,accepted_manual,1
+16374,9780743203586,The Most of P.G. Wodehouse,P.G. Wodehouse,4.48,1872,OL17733443W,The most of P.G. Wodehouse,P. G. Wodehouse,1,2026-11-24T03:07:24.172987+00:00,accepted_rule,1
+10907,9780060744878,The Pursuit of Happyness,Chris Gardner,4.19,21292,OL17737402W,The pursuit of happyness,Chris Gardner,1,2026-11-24T03:06:21.718463+00:00,accepted_rule,1
+1252,9780446394598,Lincoln on Leadership: Executive Strategies for Tough Times,Donald T. Phillips,4.14,5354,OL1807678W,Lincoln on Leadership,Donald T. Phillips,3,2026-11-24T03:06:54.612911+00:00,accepted_manual,1
+19254,9780571210916,Finders Keepers: Selected Prose  1971-2001,Seamus Heaney,4.15,16,OL1810094W,Finders Keepers,Seamus Heaney,4,2026-11-24T03:07:21.000537+00:00,accepted_manual,1
+13506,9780312869595,Jack of Kinrowan: Jack the Giant-Killer / Drink Down the Moon,Charles de Lint,4.12,3685,OL1819844W,Jack of Kinrowan,Charles de Lint,5,2026-11-24T03:06:36.687388+00:00,accepted_manual,1
+22514,9780812696066,The Beatles and Philosophy: Nothing You Can Think that Can't Be Thunk,Michael Baur/Steven Baur/James S. Spiegel,3.63,157,OL18207571W,The Beatles and philosophy,Michael Baur,2,2026-11-24T03:07:34.223144+00:00,accepted_manual,1
+15529,9780385048644,II Maccabees,Anonymous/Jonathan  A. Goldstein,4.04,24,OL18234829W,II Maccabees,Jonathan A. Goldstein,2,2026-11-24T03:06:43.628475+00:00,accepted_manual,1
+26638,9781423601746,Kokopelli: The Magic  Mirth  and Mischief of an Ancient Symbol,Dennis Slifer/R. Carlos Nakai,3.69,19,OL1824131W,Kokopelli,Dennis Slifer,2,2026-11-24T03:07:41.461634+00:00,accepted_manual,1
+12820,9780744586466,Sir Gawain And The Green Knight,Michael Morpurgo/Michael Foreman,3.94,21,OL18355129W,Sir Gawain and the Green Knight,Michael Morpurgo; Michael Foreman; Michael Foreman,9,2026-11-24T03:07:27.451815+00:00,accepted_rule,1
+37743,9780330397803,Forever . . .,Judy Blume,3.62,45863,OL1838409W,Forever,Judy Blume,44,2026-11-24T03:06:39.940557+00:00,accepted_rule,1
+25013,9780060572006,A Crack in the Edge of the World,Simon Winchester,3.78,5413,OL1839989W,A Crack in the Edge of the World,Simon Winchester,13,2026-11-24T03:06:21.718463+00:00,accepted_rule,1
+4352,9780439944397,Hello! Is That Grandma?,Ian Whybrow/Deborah Allwright,3.53,57,OL18466W,Hello! Is That Grandma?,Ian Whybrow,4,2026-11-24T03:06:50.701424+00:00,accepted_rule,1
+14248,9780060504083,Small Wonder,Barbara Kingsolver,4.01,8965,OL1846856W,Small Wonder_display,Barbara Kingsolver,17,2026-11-24T03:06:21.718463+00:00,accepted_manual,1
+26481,9780439435406,The Cats In Krasinski Square,Karen Hesse/Wendy Watson,4.13,955,OL1847152W,The cats in Krasinski Square,Karen Hesse,3,2026-11-24T03:06:50.701424+00:00,accepted_rule,1
+21223,9780521629249,The Cambridge Companion to Schopenhauer,Christopher Janaway,3.83,23,OL18541820W,The Cambridge companion to Schopenhauer,Christopher Janaway,4,2026-11-24T03:06:59.202061+00:00,accepted_rule,1
+929,9781400096893,Memoirs of a Geisha,Arthur Golden,4.11,280309,OL1856675W,Memoirs of a Geisha,Arthur Golden,103,2026-11-24T03:07:37.798916+00:00,accepted_rule,1
+20001,9781931520249,Interfictions: An Anthology of Interstitial Writing,Delia Sherman/Theodora Goss/K. Tempest Bradford/Karen Jordan Allen/Rachel Pollack/Veronica Schanoes/Mikal Trimm/Colin Greenland/Vandana Singh/Matthew Cheney/Léa Silhol/Adrián Ferrero/Holly Phillips/Catherynne M. Valente/Christopher Barzak/Leslie What/Anna Tambour/Joy Marchand/Jon Singer/Csilla Kleinheincz/Michael J. DeLuca,3.77,229,OL18650118W,Interfictions,Delia Sherman; Theodora Goss,3,2026-11-24T03:07:49.178805+00:00,accepted_manual,1
+38465,9780060916497,Tell My Horse: Voodoo and Life in Haiti and Jamaica,Zora Neale Hurston,3.96,1450,OL1890339W,Tell my horse,Zora Neale Hurston,15,2026-11-24T03:06:25.087603+00:00,accepted_manual,1
+3717,9780385722223,Stranger than Fiction,Chuck Palahniuk,3.57,18210,OL18932W,Stranger Than Fiction,Chuck Palahniuk,12,2026-11-24T03:06:46.899655+00:00,accepted_rule,1
+11472,9780312243357,We Wish to Inform You That Tomorrow We Will Be Killed with Our Families,Philip Gourevitch,4.24,24862,OL1894071W,We wish to inform you that tomorrow we will be killed with our families,Philip Gourevitch,29,2026-11-24T03:06:36.687388+00:00,accepted_rule,1
+5759,9780393327342,Fight Club,Chuck Palahniuk,4.19,388782,OL18941W,Fight Club,Chuck Palahniuk,40,2026-11-24T03:06:46.899655+00:00,accepted_rule,1
+26842,9780783502007,Pies and Tarts,Chuck Williams/Laurie Wertz/John Phillip Carroll,3.82,18,OL1894236W,Pies & tarts,John Phillip Carroll,1,2026-11-24T03:07:27.451815+00:00,accepted_manual,1
+29658,9780143037750,Postwar: A History of Europe Since 1945,Tony Judt,4.34,8017,OL1894813W,Postwar,Tony Judt,22,2026-11-24T03:06:32.883449+00:00,accepted_manual,1
+15888,9781573227957,An Instance of the Fingerpost,Iain Pears,3.94,19134,OL1900868W,An Instance of the Fingerpost,Iain Pears; Iain Pears,19,2026-11-24T03:07:45.879117+00:00,accepted_rule,1
+22877,9780553562606,The Gap Into Power: A Dark and Hungry God Arises (Gap  #3),Stephen R. Donaldson,4.08,5460,OL1902780W,A dark and hungry god arises,Stephen R. Donaldson,4,2026-11-24T03:06:59.202061+00:00,accepted_manual,1
+10701,9780436205491,Birds Without Wings,Louis de Bernières,4.16,48,OL1912225W,Birds Without Wings,Louis de Bernières,26,2026-11-24T03:06:50.701424+00:00,accepted_rule,1
+1290,9780735200302,How to Succeed with Women,Ron  Louis/David Copeland,3.76,82,OL1914634W,How to succeed with women,Ron Louis,2,2026-11-24T03:07:24.172987+00:00,accepted_rule,1
+15050,9780802135780,Sexing the Cherry,Jeanette Winterson,3.81,12684,OL1918802W,Sexing the Cherry,Jeanette Winterson,28,2026-11-24T03:07:31.196369+00:00,accepted_rule,1
+15046,9781841957180,Weight: The Myth of Atlas and Heracles,Jeanette Winterson,3.77,4326,OL1918806W,Weight,Jeanette Winterson,27,2026-11-24T03:07:49.178805+00:00,accepted_manual,1
+15052,9780156032896,Lighthousekeeping,Jeanette Winterson,3.85,6229,OL1918807W,Lighthousekeeping,Jeanette Winterson,18,2026-11-24T03:06:32.883449+00:00,accepted_rule,1
+11762,9780140283303,White Noise,Don DeLillo,3.87,55821,OL1921196W,White Noise,Don DeLillo; Mosche Hana'ami,41,2026-11-24T03:06:25.087603+00:00,accepted_rule,1
+22691,9781562802349,The Other Woman,Ann  O'Leary,3.64,77,OL1932453W,La Otra Mujer/ the Other Woman,Ann O'Leary,2,2026-11-24T03:07:41.461634+00:00,accepted_manual,1
+3047,9780465081424,A Conflict of Visions: Ideological Origins of Political Struggles,Thomas Sowell,4.31,1797,OL1935795W,A conflict of visions,Thomas Sowell,8,2026-11-24T03:06:54.612911+00:00,accepted_manual,1
+3068,9780374504847,The Assistant,Bernard Malamud/Jonathan Rosen,3.89,8073,OL1937852W,The Assistant,Bernard Malamud,74,2026-11-24T03:06:43.628475+00:00,accepted_rule,1
+35268,9780684850627,The Walrus Was Paul: The Great Beatle Death Clues,R. Gary Patterson/Jay Fox,3.72,441,OL1941144W,The walrus was Paul,R. Gary Patterson,3,2026-11-24T03:07:24.172987+00:00,accepted_manual,1
+18837,9780764544576,Cliffs Notes on Woolf's Mrs. Dalloway,Gary K. Carey,3.09,10,OL1943684W,CliffsNotes on Woolf's Mrs. Dalloway,Gary Carey,3,2026-11-24T03:07:27.451815+00:00,accepted_manual,1
+43365,9780393324945,American Slavery  American Freedom,Edmund S. Morgan,4.11,3008,OL1943966W,"American slavery, American freedom",Edmund Sears Morgan,3,2026-11-24T03:06:46.899655+00:00,accepted_manual,1
+23265,9780472064847,Feminist Measures: Soundings in Poetry and Theory,Lynn Keller/Lynn Keller,4.4,5,OL19468164W,Feminist measures,Lynn Keller; Cristanne Miller,3,2026-11-24T03:06:59.202061+00:00,accepted_manual,1
+1506,9780822004240,CliffsNotes on Euripides' Medea and Electra,Robert J. Milch,4.2,5,OL19540616W,Euripides' Electra and Medea,Robert J. Milch,1,2026-11-24T03:07:34.223144+00:00,accepted_manual,1
+5595,9780521290609,Problems of the Self: Philosophical Papers 1956 1972,Bernard Williams,3.97,57,OL19559607W,Problems of the self,Bernard Williams,1,2026-11-24T03:06:59.202061+00:00,accepted_manual,1
+31833,9780812695830,Star Wars and Philosophy: More Powerful than You Can Possibly Imagine,Kevin S. Decker/Jason T. Eberl/William Irwin/George Lucas/William O. Stephens/Walter Ritoku Robinson/Richard H. Dees/Judith A. Barad/Elizabeth F. Cooke/Richard Hanley/Jerold J. Abrams/Robert Arp/Jan-Erik Jones,4.05,1774,OL19619160W,Star wars and philosophy,Kevin S. Decker; Jason T. Eberl,3,2026-11-24T03:07:34.223144+00:00,accepted_manual,1
+35427,9781593076405,Star Wars: Knights of the Old Republic  Vol. 1: Commencement (Star Wars: Knights of the Old Republic  #1),John Jackson Miller/Travis Charest/Michael Atiyeh/Brian Ching/Travel Foreman,4.07,1791,OL19667076W,Star wars - Knights of the Old Republic - Commencement,John Jackson Miller; Harvey Tolibao; Michael Atiyeh; Brian Ching; Travel Foreman; Travis Charest,2,2026-11-24T03:07:45.879117+00:00,accepted_manual,1
+1894,9781400032808,Under the Banner of Heaven: A Story of Violent Faith,Jon Krakauer,4.0,7481,OL1974545W,Under the Banner of Heaven,Jon Krakauer,23,2026-11-24T03:07:37.798916+00:00,accepted_manual,1
+2287,9780679745648,Other Voices  Other Rooms,Truman Capote,3.8,10635,OL1992206W,"Other Voices, Other Rooms",Truman Capote,51,2026-11-24T03:07:21.000537+00:00,accepted_rule,1
+20367,9780859652766,Ewan McGregor: From Junkie to Jedi,Brian J. Robb,2.8,10,OL1994332W,Ewan McGregor,Brian J. Robb,1,2026-11-24T03:07:34.223144+00:00,accepted_manual,1
+12482,9781933372198,Amazing Disgrace (Gerald Samper #2),James Hamilton-Paterson,3.8,221,OL1998159W,Amazing Disgrace,James Hamilton-Paterson,3,2026-11-24T03:07:49.178805+00:00,accepted_rule,1
+43475,9780060092726,Criss Cross,Lynne Rae Perkins,3.34,7752,OL1998843W,Criss cross,Lynne Rae Perkins,6,2026-11-24T03:06:21.718463+00:00,accepted_rule,1
+5439,9780618101368,Interpreter of Maladies,Jhumpa Lahiri,4.15,131876,OL2001058W,Interpreter of Maladies,Jhumpa Lahiri,29,2026-11-24T03:07:21.000537+00:00,accepted_rule,1
+34191,9780805069372,John Adams,John Patrick Diggins/Arthur M. Schlesinger Jr.,3.88,383,OL2007690W,John Adams,John P. Diggins,1,2026-11-24T03:07:31.196369+00:00,accepted_manual,1
+18757,9781400078417,Last Night: Stories,James Salter,3.9,1825,OL2009201W,Last Night,James Salter,11,2026-11-24T03:07:37.798916+00:00,accepted_manual,1
+27168,9780786016051,Island Of Bones (Louis Kincaid  #5),P.J. Parrish,4.02,586,OL2018824W,Island of bones,P. J. Parrish,3,2026-11-24T03:07:27.451815+00:00,accepted_rule,1
+2022,9781420926712,The Frogs,Aristophanes/B.B. Rogers,3.8,3,OL20246W,Frogs,Aristophanes,110,2026-11-24T03:07:37.798916+00:00,accepted_manual,1
+12370,9781582343891,Supermob: How Sidney Korshak and His Criminal Associates Became America's Hidden Power Brokers,Gus Russo,3.88,89,OL2025876W,Supermob,Gus Russo,2,2026-11-24T03:07:45.879117+00:00,accepted_manual,1
+22128,9781563841552,Patriots (The Coming Collapse),"James Wesley, Rawles",3.63,38,OL2030315W,Patriots: Surviving the Coming Collapse,James Wesley Rawles; Dick Hill,11,2026-11-24T03:07:41.461634+00:00,accepted_manual,1
+28666,9780061054686,Fugitive Prince (Wars of Light and Shadow  #4),Janny Wurts,3.89,62,OL20314W,Fugitive Prince (Wars of Light & Shadow),Janny Wurts,7,2026-11-24T03:06:25.087603+00:00,accepted_manual,1
+35499,9781596432949,Side Effects,Amy Goldman Koss,3.87,904,OL20831713W,Side Effects,Amy Goldman Koss,3,2026-11-24T03:07:49.178805+00:00,accepted_rule,1
+20564,9780141439624,The Mill on the Floss,George Eliot/A.S. Byatt,3.79,41816,OL20938W,The Mill on the Floss,George Eliot; Rosalyn Landor; Sue Saunders; Julius Frese,763,2026-11-24T03:06:29.196031+00:00,accepted_rule,1
+26821,9780810982192,The National Geographic Society: 100 Years of Adventure & Discovery,C.D.B. Bryan,4.11,10,OL20990743W,National Geographic Society,C. D. B. Bryan; Robert Morton; Samuel N. Antupit,1,2026-11-24T03:07:31.196369+00:00,accepted_manual,1
+29519,9780767911795,Conspiracy of Fools,Kurt Eichenwald,4.23,4511,OL21002142W,Conspiracy of Fools,Kurt Eichenwald,2,2026-11-24T03:07:27.451815+00:00,accepted_rule,1
+6184,9780140620122,Wuthering Heights,Emily Brontë,3.85,2155,OL21177W,Wuthering Heights,Emily Brontë,2889,2026-11-24T03:06:29.196031+00:00,accepted_rule,2
+18956,9780805080759,Homicide: A Year on the Killing Streets,David Simon,4.38,12071,OL2157541W,Homicide,David Simon,18,2026-11-24T03:07:31.196369+00:00,accepted_manual,1
+22595,9781400030125,Vulcan's Hammer,Philip K. Dick,3.52,1561,OL2172499W,Vulcan's hammer,Philip K. Dick,11,2026-11-24T03:07:37.798916+00:00,accepted_rule,1
+16616,9781585670987,The Book of Leviathan,Peter Blegvad,4.16,631,OL221957W,The book of Leviathan,Peter Blegvad,3,2026-11-24T03:07:45.879117+00:00,accepted_rule,1
+33824,9780751531206,The Talbot Odyssey,Nelson DeMille,3.85,28,OL22906W,The Talbot odyssey,Nelson DeMille,27,2026-11-24T03:07:27.451815+00:00,accepted_rule,1
+29390,9780750934008,Boudicca: The Warrior Queen,M.J. Trow,3.57,71,OL23095557W,Boudicca,M. J Trow,1,2026-11-24T03:07:27.451815+00:00,accepted_manual,1
+17011,9780821758267,A Devilish Dilemma,Judith A. Lansdowne,4.02,54,OL23098073W,A Devilish Dilemma,Judith A. Lansdowne,1,2026-11-24T03:07:34.223144+00:00,accepted_rule,1
+42854,9780822560562,Barack Obama: Working to Make a Difference,Marlene Targ Brill/Lerner Publishing Group,3.96,19,OL23098104W,Barack Obama,Marlene Targ Brill,1,2026-11-24T03:07:34.223144+00:00,accepted_manual,1
+5071,9781421504339,Battle Angel Alita - Last Order : Guilty Angel  Vol. 07,Yukito Kishiro,4.12,340,OL23538712W,銃夢Last Order 7,Yukito Kishiro,2,2026-11-24T03:07:41.461634+00:00,accepted_manual,1
+17067,9780375812934,Jurassic Park Institute Dinosaur Field Guide,Michael K. Brett-Surman/Thomas R. Holtz Jr./Bob Walters,4.15,2,OL23743342W,Jurassic Park Institute dinosaur field guide,Thomas R. Holtz; Michael Dr Brett-Surman,1,2026-11-24T03:06:43.628475+00:00,accepted_manual,1
+7895,9780971316829,Maud Hart Lovelace's Deep Valley: A Guidebook of Mankato Places in the Betsy-Tacy Series,Julie A. Schrader,4.29,58,OL23790359W,Maud Hart Lovelace's Deep Valley,Julie A. Schrader,1,2026-11-24T03:07:37.798916+00:00,accepted_manual,1
+12822,9780822008934,Cliffs Notes on Wiesel's Night,Maryam Riess,3.4,5,OL2572887W,Night,Maryam Riess,2,2026-11-24T03:07:34.223144+00:00,accepted_manual,1
+7439,9780007204441,Naked Lunch: The Restored Text,William S. Burroughs,3.46,509,OL258134W,Naked Lunch,William S. Burroughs; William Burroughs,54,2026-11-24T03:06:21.718463+00:00,accepted_manual,1
+7011,9780198321507,A Midsummer Night's Dream,William Shakespeare/Roma Gill/B. Litt,3.94,126,OL259010W,A Midsummer Night's Dream,William Shakespeare,1505,2026-11-24T03:06:36.687388+00:00,accepted_rule,1
+37301,9780425205815,Rules of Prey (Lucas Davenport  #1),John Sandford,4.11,62767,OL261504W,Rules of Prey (Lucas Davenport Mysteries),John Sandford,15,2026-11-24T03:06:50.701424+00:00,accepted_manual,1
+16892,9780700610389,A Hole in the World: An American Boyhood,Richard Rhodes,3.9,182,OL2617748W,A hole in the world,Richard Rhodes,7,2026-11-24T03:07:24.172987+00:00,accepted_manual,1
+16891,9780375708220,Masters of Death: The SS-Einsatzgruppen and the Invention of the Holocaust,Richard Rhodes,4.05,1864,OL2617749W,Masters of Death,Richard Rhodes,7,2026-11-24T03:06:43.628475+00:00,accepted_manual,1
+247,9780802130167,Quiet Days in Clichy,Henry Miller,3.69,3381,OL261864W,Quiet Days in Clichy,Henry Miller,16,2026-11-24T03:07:31.196369+00:00,accepted_rule,1
+35417,9781569719626,Star Wars: Clone Wars  Volume 1: The Defense of Kamino and Other Tales,John Ostrander/W. Haden Blackman,3.85,911,OL26196069W,Star wars,John Ostrander; W. Haden Blackman; Jan Duursema; Tomas Giorello,3,2026-11-24T03:07:41.461634+00:00,accepted_manual,1
+36639,9780006754893,A Small Pinch of Weather,Joan Aiken,4.26,122,OL262040W,A Small Pinch of Weather,Joan Aiken,4,2026-11-24T03:06:21.718463+00:00,accepted_rule,1
+38977,9780006906018,The Princess of the Chalet School,Elinor M. Brent-Dyer,4.08,465,OL262281W,The Princess of the Chalet School,Elinor M. Brent-Dyer,2,2026-11-24T03:06:21.718463+00:00,accepted_rule,1
+8660,9780142002728,The Lost World (TV Tie-in),Arthur Conan Doyle/Philip Gooden,3.92,18,OL262460W,The Lost World,Arthur Conan Doyle,747,2026-11-24T03:06:29.196031+00:00,accepted_manual,1
+9833,9781400044610,Blind Willow  Sleeping Woman,Haruki Murakami/Philip Gabriel/Jay Rubin,3.84,22847,OL2625409W,めくらやなぎと眠る女,村上春樹,20,2026-11-24T03:07:37.798916+00:00,accepted_manual,1
+45314,9781400043668,Kafka on the Shore,Haruki Murakami/Philip Gabriel,4.14,1989,OL2625431W,海辺のカフカ,村上春樹,61,2026-11-24T03:07:37.798916+00:00,accepted_manual,1
+411,9780060931674,The Crying of Lot 49,Thomas Pynchon,3.69,2161,OL2636665W,The Crying of Lot 49,Thomas Pynchon; Antonio-Prometeo Moya,55,2026-11-24T03:06:25.087603+00:00,accepted_rule,1
+38723,9780393322576,The Feminine Mystique,Betty Friedan/Anna Quindlen,3.86,10108,OL2643698W,The Feminine Mystique,Betty Friedan,52,2026-11-24T03:06:46.899655+00:00,accepted_rule,1
+28466,9780801868221,ADHD in Adulthood: A Guide to Current Theory  Diagnosis  and Treatment,Margaret Weiss/Gabrielle Weiss/Lily Trokenberg Hechtman,3.4,5,OL26442674W,ADHD in adulthood,Margaret Weiss; Lily Trokenberg Hechtman; Gabrielle Weiss,2,2026-11-24T03:07:31.196369+00:00,accepted_manual,1
+28116,9780743250627,The Know-It-All: One Man's Humble Quest to Become the Smartest Person in the World,A.J. Jacobs,3.76,24243,OL2648310W,The Know-It-All,"Jacobs, A. J.",3,2026-11-24T03:07:27.451815+00:00,accepted_manual,1
+9058,9781886363069,Charles Dickens as a Legal Historian,William Holdsworth,4.0,4,OL2652001W,Charles Dickens as a legal historian,"Holdsworth, William Searle Sir",4,2026-11-24T03:07:49.178805+00:00,accepted_manual,1
+152,9780451528612,Anna Karenina,Leo Tolstoy/David Magarshack/Priscilla Meyer,4.05,109420,OL267096W,Анна Каренина,Leo Tolstoy,1317,2026-11-24T03:06:54.612911+00:00,accepted_manual,1
+16280,9780465083619,Why Are All The Black Kids Sitting Together in the Cafeteria?: A Psychologist Explains the Development of Racial Identity,Beverly Daniel Tatum,4.21,9845,OL2683670W,"""Why are all the Black kids sitting together in the cafeteria?"" and other conversations about race",Beverly Daniel Tatum,13,2026-11-24T03:06:54.612911+00:00,accepted_manual,1
+163,9780679767473,The Untouchable,John Banville,3.95,2163,OL2687256W,The untouchable,John Banville,15,2026-11-24T03:07:21.000537+00:00,accepted_rule,1
+4683,9780446608602,Personal Injuries (Kindle County Legal Thriller #5),Scott Turow,3.86,5163,OL26894W,Personal Injuries,Scott Turow,13,2026-11-24T03:06:54.612911+00:00,accepted_rule,1
+4680,9780312426453,Limitations (Kindle County Legal Thriller #7),Scott Turow,3.33,1750,OL26899W,Limitations (Kindle County Legal Thriller #7),Scott Turow,6,2026-11-24T03:06:36.687388+00:00,accepted_rule,1
+39571,9780534371098,programming.java: An Introduction to Programming Using Java: An Introduction to Programming Using Java,Rick Decker/Stuart Hirshfield,4.0,1,OL2699202W,Programming.Java,Rick Decker; Stuart Hirshfield,5,2026-11-24T03:06:59.202061+00:00,accepted_manual,1
+2836,9780060734015,Bridge to Terabithia,Katherine Paterson/Donna Diamond,4.0,1811,OL27079W,Bridge to Terabithia,Katherine Paterson,103,2026-11-24T03:06:21.718463+00:00,accepted_manual,1
+2099,9780465081981,Stephen Hawking's Universe: The Cosmos Explained,David Filkin/Stephen Hawking,4.29,1469,OL2709662W,Stephen Hawking's universe,David Filkin,7,2026-11-24T03:06:54.612911+00:00,accepted_manual,1
+18553,9780440229124,The Cay (The Cay  #1),Theodore Taylor,3.76,29126,OL270974W,The Cay,Theodore Taylor,22,2026-11-24T03:06:50.701424+00:00,accepted_manual,1
+16148,9780802131799,Empire of the Senseless,Kathy Acker,3.49,1487,OL2714394W,Empire of the Senseless,Kathy Acker,8,2026-11-24T03:07:31.196369+00:00,accepted_manual,1
+37074,9780060001445,Her Highness  My Wife (Effingtons  #5),Victoria Alexander,3.66,992,OL2719886W,"Her Highness, my wife",Victoria Alexander,6,2026-11-24T03:06:21.718463+00:00,accepted_rule,1
+40217,9780446500036,Kushiel's Justice (Imriel's Trilogy  #2),Jacqueline Carey,4.25,15897,OL2719910W,Kushiel's Justice (Kushiel's Legacy),Jacqueline Carey,8,2026-11-24T03:06:54.612911+00:00,accepted_manual,1
+18795,9780375752339,The Guermantes Way (In Search of Lost Time  #3),Marcel Proust/C.K. Scott Moncrieff/Terence Kilmartin/D.J. Enright,4.3,451,OL27213717W,Le Côté de Guermantes,Marcel Proust,329,2026-11-24T03:06:43.628475+00:00,accepted_manual,1
+8862,9780060088743,A Year in the Life of William Shakespeare: 1599,James Shapiro,4.09,2330,OL272695W,A Year in the Life of William Shakespeare,James Shapiro,3,2026-11-24T03:06:21.718463+00:00,accepted_manual,1
+16047,9780449004135,A Thread of Grace,Mary Doria Russell,4.02,11782,OL2732498W,A Thread of Grace,Mary Doria Russell,12,2026-11-24T03:06:54.612911+00:00,accepted_rule,1
+23545,9780805413991,Watchmen on the Walls,Hannah Hurnard,4.02,39,OL2733472W,Watchmen on the walls,Hannah Hurnard,1,2026-11-24T03:07:31.196369+00:00,accepted_rule,1
+1686,9780520227576,Augustine of Hippo: A Biography,Peter R.L. Brown,4.27,1643,OL2734368W,Augustine of Hippo,Peter Robert Lamont Brown,8,2026-11-24T03:06:59.202061+00:00,accepted_manual,1
+32916,9781560251149,On the Bus: The Complete Guide to the Legendary Trip of Ken Kesey and the Merry Pranksters and the Birth of Counterculture,Paul Perry/Ken Babbs,3.86,193,OL273591W,On the Bus,Paul Perry,2,2026-11-24T03:07:41.461634+00:00,accepted_manual,1
+2526,9780156007757,Blindness,José Saramago/Giovanni Pontiero,4.11,107455,OL27420W,Ensaio Sobre a Cegueira,José Saramago,43,2026-11-24T03:06:32.883449+00:00,accepted_manual,1
+35,9780618260584,The Lord of the Rings (The Lord of the Rings  #1-3),J.R.R. Tolkien/Alan  Lee,4.5,1618,OL27448W,The Lord of the Rings,J.R.R. Tolkien,253,2026-11-24T03:07:21.000537+00:00,accepted_manual,1
+33458,9780060735456,The Lust Lizard of Melancholy Cove (Pine Cove  #2),Christopher Moore,3.87,29113,OL274931W,The Lust Lizard of Melancholy Cove,Christopher Moore,3,2026-11-24T03:06:21.718463+00:00,accepted_rule,1
+44179,9780312426606,The World Made Straight,Ron Rash,3.87,2143,OL2751343W,The world made straight,Ron Rash,2,2026-11-24T03:06:36.687388+00:00,accepted_rule,1
+2686,9780192834423,The Bostonians,Henry James/R.D. Gooder,3.59,85,OL276321W,The Bostonians,Henry James; Daniel Karlin,130,2026-11-24T03:06:32.883449+00:00,accepted_rule,1
+4909,9780743243780,Teacher Man (Frank McCourt  #3),Frank McCourt,3.75,26508,OL27632W,Teacher Man,Frank McCourt,14,2026-11-24T03:07:24.172987+00:00,accepted_rule,1
+35295,9781569803103,Jimmy Stewart: The Truth Behind the Legend,Michael Munn,3.97,212,OL2764784W,Jimmy Stewart,Michael Munn,2,2026-11-24T03:07:45.879117+00:00,accepted_manual,1
+11036,9780156029049,Little Birds,Anaïs Nin,3.72,7888,OL278313W,Little Birds,Anaïs Nin,32,2026-11-24T03:06:32.883449+00:00,accepted_rule,1
+3011,9780879237905,Waiting for the Party: The Life of Frances Hodgson Burnett  1849-1924,Ann Thwaite,3.8,23,OL2818360W,Waiting for the party,Ann Thwaite,6,2026-11-24T03:07:34.223144+00:00,accepted_manual,1
+15764,9780345472458,The Amateur Marriage,Anne Tyler,3.62,12986,OL28277W,The Amateur Marriage,Anne Tyler,32,2026-11-24T03:06:39.940557+00:00,accepted_rule,1
+18025,9781585676583,Something Fresh (Blandings Castle  #1),P.G. Wodehouse,4.16,5311,OL286548W,Something Fresh,P. G. Wodehouse,49,2026-11-24T03:07:45.879117+00:00,accepted_rule,1
+4454,9780743243155,The Road Less Traveled: A New Psychology of Love  Traditional Values  and Spiritual Growth,M. Scott Peck,4.05,1314,OL2868901W,"The Road Less Traveled, 25th Anniversary Edition",M. Scott Peck,3,2026-11-24T03:07:24.172987+00:00,accepted_manual,1
+33028,9780439681360,Underworld (Star Wars: The Last of the Jedi  #3),Jude Watson,3.96,840,OL2915105W,Star Wars - The Last of the Jedi - Underworld,Jude Watson,1,2026-11-24T03:06:50.701424+00:00,accepted_manual,1
+13837,9780689878572,Lioness Rampant (Song of the Lioness  #4),Tamora Pierce,4.28,72386,OL29251W,Lioness Rampant,Tamora Pierce,25,2026-11-24T03:07:24.172987+00:00,accepted_rule,1
+24711,9780060645892,The Dance of the Dissident Daughter,Sue Monk Kidd,3.95,5645,OL2941504W,The dance of the dissident daughter,Sue Monk Kidd,4,2026-11-24T03:06:21.718463+00:00,accepted_rule,1
+32915,9780140139976,Sailor Song,Ken Kesey,3.58,2015,OL2944476W,Sailor Song,Ken Kesey,7,2026-11-24T03:06:25.087603+00:00,accepted_rule,1
+9484,9780375752193,Within a Budding Grove (In Search of Lost Time  #2),Marcel Proust/C.K. Scott Moncrieff/Terence Kilmartin/D.J. Enright,4.4,1032,OL29549062W,À l'ombre des jeunes filles en fleurs,Marcel Proust,251,2026-11-24T03:06:43.628475+00:00,accepted_manual,1
+2136,9780312425029,Specimen Days,Michael Cunningham,3.58,4462,OL30836W,Specimen Days,Michael Cunningham,14,2026-11-24T03:06:36.687388+00:00,accepted_rule,1
+41071,9780781723053,Study Guide to Accompany Brunner and Suddarth's Textbook of Medical-Surgical Nursing,Suzanne C. O'Connell Smeltzer/Brenda G. Bare/Mary Jo Boyer,4.0,2,OL31313611W,Study Guide to Accompany Brunner and Suddarth's Textbook of Medical Surgical Nursing,Mary Jo Boyer; Suzanne C. Smelter; Brenda G. Bare,1,2026-11-24T03:07:27.451815+00:00,accepted_manual,1
+39357,9780425200742,Bride & Groom (A Dog Lover's Mystery  #16),Susan Conant/Maxwell Award,3.78,263,OL31785742W,Bride and Groom,Susan Conant,1,2026-11-24T03:06:50.701424+00:00,accepted_manual,1
+10967,9780440221661,The Fiery Cross (Outlander  #5),Diana Gabaldon/Janos Farkas,4.27,128901,OL3261123W,The Fiery Cross,Diana Gabaldon,21,2026-11-24T03:06:50.701424+00:00,accepted_rule,1
+10989,9780385324137,The Outlandish Companion: Companion to Outlander  Dragonfly in Amber  Voyager  and Drums of Autumn,Diana Gabaldon,4.08,11433,OL3261148W,The Outlandish Companion,Diana Gabaldon,5,2026-11-24T03:06:46.899655+00:00,accepted_manual,1
+10990,9780770429454,Lord John and the Private Matter (Lord John Grey  #1),Diana Gabaldon,3.7,32446,OL3261151W,Lord John and the private matter,Diana Gabaldon,9,2026-11-24T03:07:27.451815+00:00,accepted_rule,1
+10969,9780385302319,Dragonfly in Amber (Outlander  #2),Diana Gabaldon,4.32,1088,OL3261153W,Dragonfly in Amber,Diana Gabaldon,45,2026-11-24T03:06:46.899655+00:00,accepted_rule,1
+10987,9780385335997,Voyager (Outlander  #3),Diana Gabaldon,4.39,198818,OL3261154W,Voyager,Diana Gabaldon,39,2026-11-24T03:06:46.899655+00:00,accepted_rule,1
+34168,9780312997830,Dakota,Matt Braun,3.72,33,OL3282168W,Dakota,Matt Braun,1,2026-11-24T03:06:39.940557+00:00,accepted_rule,1
+1634,9781576751725,Getting Things Done When You Are Not in Charge,Geoffrey M. Bellman,3.46,75,OL3289977W,Getting things done when you are not in charge,Geoffrey M. Bellman,3,2026-11-24T03:07:45.879117+00:00,accepted_rule,1
+3787,9780192752536,Party Shoes (Shoes  #5),Noel Streatfeild,3.64,430,OL3414810W,Party Shoes,Noel Streatfeild,4,2026-11-24T03:06:32.883449+00:00,accepted_rule,1
+3788,9780440486879,Thursday's Child (Margaret Thursday  #1),Noel Streatfeild,3.98,1059,OL3414828W,Thursday's child,Noel Streatfeild,8,2026-11-24T03:06:50.701424+00:00,accepted_manual,1
+32994,9780712678865,Maverick: The Success Story Behind the World's Most Unusual Workplace,Ricardo Semler,4.17,2979,OL3423577W,Virando a própria mesa,Ricardo Semler,9,2026-11-24T03:07:24.172987+00:00,accepted_manual,1
+29620,9780373771714,The Pirate / The Adventurer / The Cowboy,Jayne Ann Krentz,3.89,262,OL34263W,"The Pirate, The Adventurer & The Cowboy",Jayne Ann Krentz,1,2026-11-24T03:06:43.628475+00:00,accepted_rule,1
+14487,9780253214690,Introduction to Documentary,Bill Nichols,3.79,204,OL3455675W,Introduction to documentary,Bill Nichols,2,2026-11-24T03:06:36.687388+00:00,accepted_rule,1
+39902,9781579651602,Bittersweet: Recipes and Tales from a Life in Chocolate,Alice Medrich/Deborah Jones,4.28,359,OL3457204W,Bittersweet,Alice Medrich,1,2026-11-24T03:07:45.879117+00:00,accepted_manual,1
+13423,9780192840943,Presocratic Philosophy: A Very Short Introduction,Catherine Osborne,3.58,205,OL3478404W,Presocratic Philosophy,Catherine Osborne,2,2026-11-24T03:06:32.883449+00:00,accepted_manual,1
+18353,9780140255256,Anaïs Nin: A Biography,Deirdre Bair,3.99,632,OL3499632W,Anais Nin a Biography,Deirdre Bair,6,2026-11-24T03:06:25.087603+00:00,accepted_rule,1
+28254,9780202010991,Stone Age Economics,Marshall Sahlins,3.9,281,OL3508534W,Stone age economics,Marshall Sahlins,28,2026-11-24T03:06:36.687388+00:00,accepted_rule,1
+26930,9780060927196,Success Stories,Russell Banks,3.72,155,OL35487W,Success stories,Russell Banks,4,2026-11-24T03:06:25.087603+00:00,accepted_rule,1
+23848,9780843951424,The Hour Before Dark,Douglas Clegg,3.76,1034,OL3550883W,The hour before dark,Douglas Clegg,4,2026-11-24T03:07:34.223144+00:00,accepted_rule,1
+38597,9780553274912,Starting Over (Sweet Valley High  #33),Francine Pascal/Kate William,3.35,3,OL3551944W,Starting over,Kate William,3,2026-11-24T03:06:59.202061+00:00,accepted_manual,1
+8032,9780843124927,Mr. Jelly and the Pirates,Roger Hargreaves/Adam Hargreaves,3.82,87,OL3657332W,Mr. Jelly and the Pirates,Roger Hargreaves,1,2026-11-24T03:07:34.223144+00:00,accepted_rule,1
+8021,9780843175042,Little Miss Lucky,Roger Hargreaves,3.82,291,OL3657501W,Little Miss Lucky,Roger Hargreaves,6,2026-11-24T03:07:34.223144+00:00,accepted_rule,1
+12873,9781844080380,Rebecca,Daphne du Maurier/Sally Beauman,4.23,179639,OL36633W,Rebecca,Daphne du Maurier,200,2026-11-24T03:07:49.178805+00:00,accepted_rule,1
+29393,9780316787536,Our Band Could Be Your Life: Scenes from the American Indie Underground  1981-1991,Michael Azerrad,4.18,12472,OL3693477W,Our Band Could Be Your Life,Michael Azerrad,7,2026-11-24T03:06:39.940557+00:00,accepted_manual,1
+1595,9780521774338,Genres in Dialogue: Plato and the Construct of Philosophy,Andrea Wilson Nightingale,4.33,5,OL3745949W,Genres in Dialogue,Andrea Wilson Nightingale,6,2026-11-24T03:06:59.202061+00:00,accepted_manual,1
+22470,9780679731184,The Origin of Satan: How Christians Demonized Jews  Pagans and Heretics,Elaine Pagels,3.9,5729,OL3748809W,The origin of Satan,Elaine Pagels        ,6,2026-11-24T03:07:21.000537+00:00,accepted_manual,1
+1338,9780872207882,On Love: Lysis/Symposium/Phaedrus/Alcibiades/Selections from Republic & Laws,Plato/C.D.C. Reeve,4.06,154,OL380208W,Plato on love,Πλάτων,1,2026-11-24T03:07:34.223144+00:00,accepted_manual,1
+29052,9781878823236,Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible,Jorge Cervantes,4.39,431,OL3807654W,Marijuana Horticulture,Jorge Cervantes,1,2026-11-24T03:07:49.178805+00:00,accepted_manual,1
+28815,9780061241895,Influence: The Psychology of Persuasion,Robert B. Cialdini,4.19,76314,OL3902892W,Influence,Robert B. Cialdini,28,2026-11-24T03:06:25.087603+00:00,accepted_manual,1
+31849,9780226066660,Philosophy in a Time of Terror: Dialogues with Jürgen Habermas and Jacques Derrida,Jürgen Habermas/Jacques Derrida/Giovanna Borradori,3.89,439,OL3906572W,Philosophy in a Time of Terror,Giovanna Borradori,1,2026-11-24T03:06:36.687388+00:00,accepted_manual,1
+10285,9780062508119,The World's Religions,Huston Smith,4.07,8741,OL3930654W,The World's Religions,Huston Smith,8,2026-11-24T03:06:25.087603+00:00,accepted_rule,1
+17679,9780805832891,Writing the Qualitative Dissertation: Understanding by Doing,Judith M. Meloy,3.73,9,OL3946242W,Writing the Qualitative Dissertation,Judith M. Meloy,12,2026-11-24T03:07:31.196369+00:00,accepted_manual,1
+31638,9781844164035,The Ultramarines Omnibus (Ultramarines #1-3),Graham McNeill,3.97,1691,OL3990217W,"The Ultramarines Omnibus (Warhammer 40,000 Omnibus)",Graham McNeill,1,2026-11-24T03:07:49.178805+00:00,accepted_manual,1
+20019,9780380732029,Killing Time,Cynthia Harrod-Eagles,3.98,12,OL40017W,Killing time,Cynthia Harrod-Eagles,2,2026-11-24T03:06:43.628475+00:00,accepted_rule,1
+34199,9780140192070,The I Ching or Book of Changes,Richard Wilhelm/Cary F. Baynes/C.G. Jung,4.19,126,OL403974W,I Ching,Richard Wilhelm; Cary F. Baynes; Carl Gustav Jung,32,2026-11-24T03:06:25.087603+00:00,accepted_manual,1
+26420,9780596527334,CSS: The Definitive Guide,Eric A. Meyer,4.0,961,OL4039767W,Cascading Style Sheets,Eric A. Meyer; Estelle Weyl,12,2026-11-24T03:07:21.000537+00:00,accepted_manual,1
+43255,9780552152167,Not Without My Daughter,Betty Mahmoody,4.1,19790,OL4064350W,Not Without My Daughter,Betty Mahmoody; William Hoffer,27,2026-11-24T03:06:59.202061+00:00,accepted_rule,1
+43650,9780786500734,Something Borrowed,Rebecca Hagan Lee,4.14,38,OL4067297W,Something Borrowed (Homespun),Rebecca Hagan Lee,1,2026-11-24T03:07:27.451815+00:00,accepted_manual,1
+3805,9781841156736,The Corrections,Jonathan Franzen,3.79,133237,OL4082696W,The Corrections,Jonathan Franzen,72,2026-11-24T03:07:49.178805+00:00,accepted_rule,1
+37395,9780140435191,The Pursuit of the Well-Beloved & The Well-Beloved,Thomas Hardy/Patricia Ingham,3.61,127,OL411285W,The pursuit of the well-beloved ; & The well-beloved,Thomas Hardy,3,2026-11-24T03:06:29.196031+00:00,accepted_rule,1
+2817,9780877880202,A Full House: An Austin Family Christmas (Austin Family  #5.6),Madeleine L'Engle/Mary Chambers,3.98,235,OL41453W,A Full House,Madeleine L'Engle,2,2026-11-24T03:07:34.223144+00:00,accepted_manual,1
+181,9780821925324,A Wrinkle in Time: With Related Readings (A Wrinkle in Time Quintet #1),Madeleine L'Engle,4.0,36,OL41495W,A Wrinkle in Time,Madeleine L'Engle,106,2026-11-24T03:07:34.223144+00:00,accepted_manual,1
+9106,9780749934422,Portrait in Death (In Death  #16),J.D. Robb,4.39,142,OL446035W,Portrait in death,Nora Roberts,21,2026-11-24T03:07:27.451815+00:00,accepted_manual,1
+19571,9780156709903,Paris Was Yesterday  1925-1939,Janet Flanner/Irving Drutman,3.85,257,OL4470819W,Paris was yesterday,Janet Flanner,10,2026-11-24T03:06:32.883449+00:00,accepted_manual,1
+19689,9780425157701,Airborne: A Guided Tour Of An Airborne Task Force,Tom Clancy,3.77,448,OL448984W,Airborne,Tom Clancy,5,2026-11-24T03:06:46.899655+00:00,accepted_manual,1
+25286,9780064435185,The Dragon Prince: A Chinese Beauty & the Beast Tale,Laurence Yep/Kam Mak,3.93,355,OL451163W,The Dragon Prince,Laurence Yep,7,2026-11-24T03:06:25.087603+00:00,accepted_manual,1
+34539,9780060013134,Going Postal (Discworld  #33),Terry Pratchett,4.38,969,OL453733W,Going Postal,Terry Pratchett,32,2026-11-24T03:06:21.718463+00:00,accepted_rule,1
+34501,9780552552646,A Hat Full of Sky (Discworld  #32; Tiffany Aching  #2),Terry Pratchett,4.3,51562,OL453737W,A Hat Full of Sky,Terry Pratchett,48,2026-11-24T03:06:59.202061+00:00,accepted_rule,1
+28004,9781580175203,Cider,Annie Proulx/Lew Nichols,3.64,182,OL456074W,Sweet & Hard Cider,Annie Proulx; Lew Nichols,9,2026-11-24T03:07:45.879117+00:00,accepted_manual,1
+42641,9780735102866,Resurrection,Leo Tolstoy/Louise Maude/Aylmer Maude,4.13,11468,OL457760W,Voskresenīe,Лев Толстой,251,2026-11-24T03:07:24.172987+00:00,accepted_manual,1
+34605,9780425188934,The Damnation Game,Clive Barker,3.82,15857,OL457862W,The damnation game,Clive Barker,9,2026-11-24T03:06:46.899655+00:00,accepted_rule,1
+44528,9780141805627,Matilda,Roald Dahl/Rula Lenska/Sian Thomas/Christopher Timothy,4.31,6,OL45846W,Matilda,Roald Dahl,184,2026-11-24T03:06:29.196031+00:00,accepted_rule,1
+16007,9781400049479,Last Train to Paradise: Henry Flagler and the Spectacular Rise and Fall of the Railroad that Crossed an Ocean,Les Standiford,4.03,1776,OL459775W,Last Train to Paradise,Les Standiford,8,2026-11-24T03:07:37.798916+00:00,accepted_manual,1
+42146,9780312873127,Bones of the Moon (Answered Prayers  #1),Jonathan Carroll,3.89,2046,OL461372W,Bones of the moon,Jonathan Carroll,7,2026-11-24T03:06:39.940557+00:00,accepted_rule,1
+29581,9780553803723,Foundation and Empire (Foundation #2),Isaac Asimov,4.22,126226,OL46224W,Foundation and Empire,Isaac Asimov,83,2026-11-24T03:07:21.000537+00:00,accepted_rule,1
+11666,9780449911945,Rabbit at Rest (Rabbit Angstrom #4),John Updike,3.97,13361,OL463809W,Rabbit at rest,John Updike,8,2026-11-24T03:06:54.612911+00:00,accepted_rule,1
+29290,9780140502015,Time of Wonder,Robert McCloskey,4.08,4380,OL4638373W,Time of Wonder,Robert McCloskey,15,2026-11-24T03:06:29.196031+00:00,accepted_rule,1
+41821,9781857989342,The Gods Themselves,Isaac Asimov,4.09,42770,OL46395W,The Gods Themselves,Isaac Asimov,49,2026-11-24T03:07:49.178805+00:00,accepted_rule,1
+7445,9780743247542,The Glass Castle,Jeannette Walls,4.27,808656,OL46760W,The Glass Castle,Jeannette Walls,32,2026-11-24T03:07:24.172987+00:00,accepted_rule,1
+14235,9780891906797,The Great Gatsby,F. Scott Fitzgerald,3.91,149,OL468431W,The Great Gatsby,F. Scott Fitzgerald,1181,2026-11-24T03:07:37.798916+00:00,accepted_rule,1
+20694,9780688143886,Julius  the Baby of the World,Kevin Henkes,4.28,6697,OL469279W,"Julius, the Baby of the World",Kevin Henkes,37,2026-11-24T03:07:24.172987+00:00,accepted_rule,1
+31299,9781572705647,Hickory Dickory Dock (Hercule Poirot  #32),Agatha Christie/Hugh Fraser,3.75,13515,OL471577W,Hickory Dickory Death,Agatha Christie,89,2026-11-24T03:07:45.879117+00:00,accepted_manual,1
+14046,9781596921535,The Time Traveler's Wife,Audrey Niffenegger,3.97,1005,OL4720160W,The Time Traveler's Wife,Audrey Niffenegger,37,2026-11-24T03:07:49.178805+00:00,accepted_rule,1
+16300,9780002317856,Sleeping Murder (Miss Marple  #13),Agatha Christie,3.95,19657,OL472250W,Sleeping Murder,Agatha Christie,118,2026-11-24T03:06:21.718463+00:00,accepted_rule,1
+6422,9780312966973,Four to Score (Stephanie Plum  #4),Janet Evanovich,4.17,117541,OL48018W,Four to score,Janet Evanovich,19,2026-11-24T03:06:39.940557+00:00,accepted_rule,1
+13033,9780140153170,The Alexandria Quartet  (The Alexandria Quartet #1-4),Lawrence Durrell,4.17,10050,OL48286W,The Alexandria Quartet,Lawrence Durrell,32,2026-11-24T03:06:25.087603+00:00,accepted_manual,1
+35987,9780571214266,The Greek Islands,Lawrence Durrell,3.89,25,OL48292W,The Greek Islands,Lawrence Durrell,9,2026-11-24T03:07:21.000537+00:00,accepted_rule,1
+39506,9780060731250,The Burglar Who Liked to Quote Kipling (Bernie Rhodenbarr  #3),Lawrence Block,3.83,2473,OL48326W,"Burglar Who Liked to Quote Kipling, The",Lawrence Block,22,2026-11-24T03:06:21.718463+00:00,accepted_manual,1
+37726,9780060882600,The Annotated Charlotte's Web,E.B. White/Garth Williams/Peter F. Neumeyer,4.17,43,OL483391W,Charlotte's Web,E. B. White,211,2026-11-24T03:06:25.087603+00:00,accepted_manual,1
+39501,9780060872793,The Burglar Who Thought He Was Bogart (Bernie Rhodenbarr  #7),Lawrence Block,3.89,2134,OL48415W,The burglar who thought he was Bogart,Lawrence Block,17,2026-11-24T03:06:25.087603+00:00,accepted_rule,1
+22892,9780316154093,The Foretelling,Alice Hoffman,3.84,2646,OL48943W,The foretelling,Alice Hoffman,8,2026-11-24T03:06:39.940557+00:00,accepted_rule,1
+5671,9780961180027,The Ethics of Rhetoric,Richard M. Weaver,4.14,65,OL492174W,The ethics of rhetoric,Richard M. Weaver,6,2026-11-24T03:07:37.798916+00:00,accepted_rule,1
+7971,9780812532616,The Call of Earth (Homecoming  #2),Orson Scott Card,3.58,10268,OL49458W,The call of earth,Orson Scott Card,22,2026-11-24T03:07:34.223144+00:00,accepted_manual,1
+40284,9780312930400,Earthborn (Homecoming Saga #5),Orson Scott Card,3.41,64,OL49474W,Earthborn,Orson Scott Card,14,2026-11-24T03:06:39.940557+00:00,accepted_rule,1
+17692,9780805209990,The Trial,Franz Kafka/Breon Mitchell/Arthur H. Samuelson,3.98,4086,OL498463W,Der Proceß,Franz Kafka,783,2026-11-24T03:07:31.196369+00:00,accepted_manual,1
+39773,9780060577049,Slouching Toward Nirvana,Charles Bukowski/John   Martin,3.99,1937,OL50438W,Slouching Toward Nirvana,Charles Bukowski,4,2026-11-24T03:06:21.718463+00:00,accepted_rule,1
+7637,9781593082680,The Good Soldier,Ford Madox Ford/Frank Kermode,3.72,264,OL509889W,The Good Soldier,Ford Madox Ford,355,2026-11-24T03:07:45.879117+00:00,accepted_rule,1
+18373,9780156030304,Flowers for Algernon,Daniel Keyes,4.12,337596,OL515754W,Flowers for Algernon,Daniel Keyes,79,2026-11-24T03:06:32.883449+00:00,accepted_rule,1
+30300,9780140449280,The Last Days of Socrates,Plato/Hugh Tredennick/Harold Tarrant,4.08,1686,OL51784W,Εὐθύφρων / Κρίτων / Φαίδων / Ἀπολογία Σωκράτους,Plato,126,2026-11-24T03:06:29.196031+00:00,accepted_manual,1
+1351,9780872204621,Statesman,Plato/C.J. Rowe,3.85,28,OL51848W,Πολιτικός,Plato,93,2026-11-24T03:07:34.223144+00:00,accepted_manual,1
+39836,9781565892156,How to Be Happy All the Time,Paramahansa Yogananda,4.36,317,OL528061W,How to be happy all the time,Yogananda Paramahansa,2,2026-11-24T03:07:41.461634+00:00,accepted_manual,1
+21759,9781593555603,Tripwire (Jack Reacher  #3),Lee Child/Dick Hill,4.09,11,OL52946W,Tripwire,Lee Child,46,2026-11-24T03:07:45.879117+00:00,accepted_rule,1
+4944,9780399226908,The Very Hungry Caterpillar,Eric Carle,4.29,3945,OL52987W,The Very Hungry Caterpillar,Eric Carle,178,2026-11-24T03:06:46.899655+00:00,accepted_rule,1
+13164,9780316000611,SantaKid,James Patterson/Michael Garland,3.88,862,OL5337375W,SantaKid,James Patterson,6,2026-11-24T03:06:39.940557+00:00,accepted_rule,1
+2956,9780142437179,The Adventures of Huckleberry Finn (Adventures of Tom and Huck  #2),Mark Twain/Guy Cardwell/John Seelye/Walter Trier,3.82,1049912,OL53908W,Adventures of Huckleberry Finn,Mark Twain,2623,2026-11-24T03:06:29.196031+00:00,accepted_manual,3
+25190,9780452281455,Beauty's Release (Sleeping Beauty  #3),A.N. Roquelaure/Anne Rice,3.71,23970,OL5473519W,Beauty's release,Anne Rice,22,2026-11-24T03:06:54.612911+00:00,accepted_manual,1
+4488,9780142000212,Bridget Jones's Guide to Life,Helen Fielding,3.49,1104,OL547734W,Bridget Jones's guide to life,Helen Fielding,2,2026-11-24T03:06:29.196031+00:00,accepted_rule,1
+23791,9781593080037,Ward No. 6 and Other Stories,Anton Chekhov/David Plante/Constance Garnett,4.33,6988,OL55450W,Ward No. 6 and Other Stories [23 stories],Антон Павлович Чехов,6,2026-11-24T03:07:45.879117+00:00,accepted_manual,1
+24875,9780140345803,House of Stairs,William Sleator,3.85,3423,OL55603W,House of Stairs,William Sleator,9,2026-11-24T03:06:29.196031+00:00,accepted_rule,1
+7344,9781587680267,Tolkien and C.S. Lewis: The Gift of a Friendship,Colin Duriez,4.01,1354,OL56265W,Tolkien and C. S. Lewis,Colin Duriez,2,2026-11-24T03:07:45.879117+00:00,accepted_manual,1
+23236,9780505524744,Aphrodite's Passion (Superhero Central #2),Julie Kenner,3.62,534,OL5682566W,Aphrodite's passion,Julie Kenner,1,2026-11-24T03:06:59.202061+00:00,accepted_rule,1
+38928,9780743496124,Three Little Secrets (MacLachlan Family  #4),Liz Carlyle,3.84,1181,OL5684748W,Three Little Secrets,Liz Carlyle,3,2026-11-24T03:07:27.451815+00:00,accepted_rule,1
+4817,9780373764211,Dr. Desirable,Kristi Gold,3.27,20,OL5690728W,Dr. Desirable (Marrying An M.D.),Kristi Gold,1,2026-11-24T03:06:43.628475+00:00,accepted_manual,1
+39624,9780312935733,The Dark One (Wild Wulfs of London  #1),Ronda Thompson,3.87,1734,OL5693091W,The Dark One,Ronda Thompson,1,2026-11-24T03:06:39.940557+00:00,accepted_rule,1
+29324,9780060765408,The Catswold Portal,Shirley Rousseau Murphy,4.06,888,OL56959W,The Catswold Portal,Shirley Rousseau Murphy,6,2026-11-24T03:06:21.718463+00:00,accepted_rule,1
+45440,9780786855018,The Legend of Spud Murphy,Eoin Colfer/Glenn McCoy,3.88,92,OL5725996W,The Legend of Spud Murphy,Eoin Colfer,18,2026-11-24T03:07:27.451815+00:00,accepted_rule,1
+45436,9780439443364,The Wish List,Eoin Colfer,3.77,13988,OL5726006W,The Wish List (Infinite),Eoin Colfer,20,2026-11-24T03:06:50.701424+00:00,accepted_manual,1
+8960,9780316905749,Vampire Mountain (Cirque Du Freak  #4),Darren Shan,4.16,26461,OL5727120W,Vampire Mountain,Darren Shan,12,2026-11-24T03:06:39.940557+00:00,accepted_manual,1
+43028,9780312936600,Sorrow's Anthem (Lincoln Perry  #2),Michael Koryta,3.89,62,OL5728433W,Sorrow's anthem,Michael Koryta,3,2026-11-24T03:06:39.940557+00:00,accepted_rule,1
+27001,9780143034353,The Well of Lost Plots (Thursday Next #3),Jasper Fforde,4.1,31540,OL5730207W,Well of Lost Plots,Jasper Fforde,22,2026-11-24T03:06:29.196031+00:00,accepted_manual,1
+32590,9780141180670,Pan,Knut Hamsun/Sverre Lyngstad,3.9,5833,OL573192W,Pan,Knut Hamsun,96,2026-11-24T03:06:29.196031+00:00,accepted_rule,1
+21277,9780345478245,Already Dead (Joe Pitt  #1),Charlie Huston,3.79,8447,OL5732037W,Already dead,Charlie Huston,3,2026-11-24T03:06:43.628475+00:00,accepted_rule,1
+29587,9780765309532,Down and Out in the Magic Kingdom,Cory Doctorow,3.56,10810,OL5734712W,Down and out in the Magic Kingdom,Cory Doctorow,53,2026-11-24T03:07:27.451815+00:00,accepted_rule,1
+8927,9781596792500,Sherlock Holmes and the Case of the Hound of the Baskervilles (Great Illustrated Classics),Malvina G. Vogel/Arthur Conan Doyle,4.51,33,OL5737371W,Sherlock Holmes and the Case of the Hound of the Baskervilles,Malvina G. Vogel,3,2026-11-24T03:07:49.178805+00:00,accepted_manual,1
+100,9781581805635,Simply Beautiful Beading: 53 Quick and Easy Projects,Heidi Boyd,3.78,78,OL5738334W,Simply Beautiful Beading,Heidi Boyd,4,2026-11-24T03:07:45.879117+00:00,accepted_manual,1
+41595,9780201748673,Robin Williams Web Design Workshop,Robin P. Williams/John Tollett/Dave Rohr,3.8,54,OL5745731W,Robin Williams Web design workshop,John Tollett,1,2026-11-24T03:06:36.687388+00:00,accepted_manual,1
+2140,9780316172325,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,3.93,4254,OL5749849W,Blink,Malcolm Gladwell,47,2026-11-24T03:06:39.940557+00:00,accepted_manual,1
+15249,9780007116263,The Lord of the Rings: The Return of the King - Visual Companion,Jude Fisher,4.59,26,OL5753823W,The Return of the King: Visual Companion,Jude Fisher,3,2026-11-24T03:06:21.718463+00:00,accepted_manual,1
+40460,9780385339728,Ragtime in Simla (Joe Sandilands  #2),Barbara Cleverly,3.84,60,OL5755283W,Ragtime in Simla,Barbara Cleverly,3,2026-11-24T03:06:46.899655+00:00,accepted_rule,1
+36606,9780142300848,Oliver and Albert  Friends Forever (Easy-to-Read  Puffin),Jean Van Leeuwen/Ann Schweninger,3.61,23,OL57594W,"Oliver and Albert, friends forever",Jean Van Leeuwen,2,2026-11-24T03:06:29.196031+00:00,accepted_manual,1
+9931,9780792274575,Cruelest Journey: Six Hundred Miles To Timbuktu,Kira Salak,3.93,542,OL5789987W,Cruelest Journey,Kira Salak,2,2026-11-24T03:07:31.196369+00:00,accepted_manual,1
+26768,9780373274482,In Dark Waters,Mary Burton,3.81,95,OL5805594W,In dark waters,Mary Burton,1,2026-11-24T03:06:43.628475+00:00,accepted_rule,1
+25059,9780553573305,Brightness Reef (Uplift Storm Trilogy  #1),David Brin,3.9,8963,OL58695W,Brightness reef,David Brin,13,2026-11-24T03:07:21.000537+00:00,accepted_rule,1
+31486,9780439738613,Ruby the Red Fairy (Rainbow Magic  #1),Daisy Meadows/Georgie Ripper,3.84,4334,OL5886978W,Ruby the Red Fairy,Daisy Meadows,25,2026-11-24T03:06:50.701424+00:00,accepted_rule,1
+34003,9780231054751,Genetics and the Origin of Species,Theodosius Dobzhansky/Niles Eldredge/Stephen Jay Gould,4.14,26,OL5898468W,Genetics and the origin of species,Theodosius Grigorievich Dobzhansky,17,2026-11-24T03:06:36.687388+00:00,accepted_manual,1
+29394,9780441014347,Cursor's Fury (Codex Alera  #3),Jim Butcher,4.36,50427,OL5961770W,Cursor's Fury (Codex Alera),Jim Butcher,1,2026-11-24T03:06:50.701424+00:00,accepted_manual,1
+38988,9780439933384,Awakening (Chasing Yesterday  #1),Robin Wasserman,3.95,2569,OL5972462W,Awakening (Chasing Yesterday #1),Robin Wasserman,1,2026-11-24T03:06:50.701424+00:00,accepted_rule,1
+348,9780345413994,The Door Into Summer,Robert A. Heinlein,4.01,17232,OL59733W,The Door into Summer,Robert A. Heinlein,50,2026-11-24T03:06:39.940557+00:00,accepted_rule,1
+35434,9780345475824,The Star Wars Trilogy,George Lucas/Donald F. Glut/James Kahn,4.25,4365,OL61921W,Star Wars Trilogy,George Lucas; Donald F. Glut; James Kahn; G. Lucas,23,2026-11-24T03:06:39.940557+00:00,accepted_manual,1
+7606,9780679727293,The Annotated Lolita,Vladimir Nabokov/Alfred Appel,4.28,2965,OL627084W,Lolita,Vladimir Nabokov,229,2026-11-24T03:07:21.000537+00:00,accepted_manual,1
+4627,9780099481560,For Whom The Bell Tolls,Ernest Hemingway,3.97,162,OL63009W,For Whom the Bell Tolls,Ernest Hemingway,185,2026-11-24T03:06:25.087603+00:00,accepted_rule,1
+4631,9780099285045,A Moveable Feast,Ernest Hemingway,4.04,82993,OL63064W,A Moveable Feast,Ernest Hemingway,25,2026-11-24T03:06:25.087603+00:00,accepted_rule,1
+33555,9780765308702,What Dreams May Come,Richard Matheson,3.95,9298,OL64221W,What Dreams May Come,Richard Matheson,17,2026-11-24T03:07:27.451815+00:00,accepted_rule,1
+5485,9780060850524,Brave New World,Aldous Huxley,3.99,13353,OL64365W,Brave New World,Aldous Huxley,723,2026-11-24T03:06:21.718463+00:00,accepted_rule,1
+43177,9780195156324,Brown V. Board of Education: A Civil Rights Milestone and Its Troubled Legacy,James T. Patterson,3.85,159,OL64769W,Brown v. Board of Education,James T. Patterson; William W. Freehling,5,2026-11-24T03:06:32.883449+00:00,accepted_manual,1
+2552,9780141182674,On the Road,Jack Kerouac/Ann Charters,3.63,5575,OL65906W,On The Road,Jack Kerouac,155,2026-11-24T03:06:29.196031+00:00,accepted_rule,1
+1167,9780679838869,Junie B. Jones and a Little Monkey Business (Junie B. Jones  #2),Barbara Park/Denise Brunkus,3.99,11178,OL66253W,Junie B. Jones and a little monkey business,Barbara Park,26,2026-11-24T03:07:24.172987+00:00,accepted_rule,1
+13876,9780679853954,Dear God  Help!!! Love  Earl,Barbara Park/Kenneth Lafreniere,3.97,37,OL66271W,"Dear God, Help!!! Love, Earl",Barbara Park,4,2026-11-24T03:07:24.172987+00:00,accepted_rule,1
+2156,9780192802637,Persuasion,Jane Austen/James Kinsley/Anna Massey/Richard S. Hartmetz/Maurgaux Motin/Deidre Shauna Lynch,4.14,441462,OL66544W,Persuasion,Jane Austen,1237,2026-11-24T03:06:32.883449+00:00,accepted_rule,1
+1893,9781593083243,Pride and Prejudice,Jane Austen/Carol Howard,4.26,1628,OL66554W,Pride and Prejudice,Jane Austen,4042,2026-11-24T03:07:45.879117+00:00,accepted_rule,2
+36530,9780312257378,Narrative of the Life of Frederick Douglass: An American Slave  Written by Himself,Frederick Douglass/David W. Blight,4.02,501,OL69178W,Narrative of the life of Frederick Douglass,Frederick Douglass,1032,2026-11-24T03:06:36.687388+00:00,accepted_manual,1
+36252,9781556526008,Avalon,Anya Seton/Philippa Gregory,3.87,2857,OL7017002W,Avalon,Anya Seton,9,2026-11-24T03:07:41.461634+00:00,accepted_rule,1
+11154,9780800783365,The Screwtape Letters/Book & Study Guide,C.S. Lewis,4.22,96,OL71072W,The Screwtape Letters,C. S. Lewis,88,2026-11-24T03:07:31.196369+00:00,accepted_manual,1
+30616,9780060652852,Readings for Meditation and Reflection,C.S. Lewis/Walter Hooper,4.32,272,OL71095W,Daily readings with C.S. Lewis,C. S. Lewis,4,2026-11-24T03:06:21.718463+00:00,accepted_manual,1
+8202,9780060885526,Laura Ingalls Wilder: A Biography,William   Anderson,4.2,4144,OL7135048W,Laura Ingalls Wilder,William Anderson,6,2026-11-24T03:06:25.087603+00:00,accepted_manual,1
+4829,9780140072143,Before The Mayflower A History of Black America,Lerone Bennett Jr.,4.44,26,OL71587W,Before the Mayflower,"Lerone Bennett; Jr. Lerone Bennett; Lerone Bennett Jr.; Lerone Bennett; Bennett, Lerone, Jr.; Bennett, Jr., Lerone",50,2026-11-24T03:06:25.087603+00:00,accepted_manual,1
+38341,9781583225479,The Umbrella of US Power: The Universal Declaration of Human Rights & the Contradictions of US Policy,Noam Chomsky/Greg Ruggiero,3.96,155,OL71674W,The umbrella of U.S. power,Noam Chomsky,2,2026-11-24T03:07:45.879117+00:00,accepted_manual,1
+2081,9780553345841,The Mind’s I: Fantasies and Reflections on Self and Soul,Douglas R. Hofstadter/Daniel C. Dennett,4.14,4786,OL716849W,The Mind's I,Douglas R. Hofstadter; Daniel C. Dennett,23,2026-11-24T03:06:59.202061+00:00,accepted_manual,1
+24115,9780140289206,Gödel  Escher  Bach: An Eternal Golden Braid,Douglas R. Hofstadter,4.29,330,OL716850W,"Gödel, Escher, Bach",Douglas R. Hofstadter,30,2026-11-24T03:06:25.087603+00:00,accepted_manual,1
+38340,9783110172799,Syntactic Structures,Noam Chomsky/David W. Lightfoot,3.84,609,OL71733W,Syntactic structures,Noam Chomsky,43,2026-11-24T03:07:49.178805+00:00,accepted_rule,1
+22991,9781559360807,Blood Wedding and Yerma,Federico García Lorca/W.S. Merwin/Langston Hughes,3.84,885,OL722375W,"Blood wedding ; and, Yerma",Federico García Lorca,1,2026-11-24T03:07:41.461634+00:00,accepted_rule,1
+31580,9780811213769,In Search of Duende,Federico García Lorca/Norman Thomas di Giovanni,4.3,616,OL722414W,In search of duende,Federico García Lorca,1,2026-11-24T03:07:31.196369+00:00,accepted_rule,1
+16920,9780727859624,Hidden World,Graham Masterton,3.47,58,OL744635W,Hidden World,Graham Masterton,1,2026-11-24T03:07:24.172987+00:00,accepted_rule,1
+40465,9780812976526,Thank You for Smoking,Christopher Buckley,3.93,9900,OL7464075W,Thank You for Smoking,Christopher Buckley,4,2026-11-24T03:07:34.223144+00:00,accepted_rule,1
+42714,9780439993852,The Giggler Treatment,Roddy Doyle/Brian Ajhar,4.17,1425,OL762607W,The Giggler Treatment,Roddy Doyle,15,2026-11-24T03:06:50.701424+00:00,accepted_rule,1
+42719,9780436200526,The Van,Roddy Doyle,3.94,30,OL762614W,The Van,Roddy Doyle,18,2026-11-24T03:06:50.701424+00:00,accepted_manual,1
+32499,9780385339704,The Pelican Brief,John Grisham,4.0,340714,OL76965W,The Pelican Brief,John Grisham,82,2026-11-24T03:06:46.899655+00:00,accepted_rule,1
+18750,9780452281431,Beauty's Punishment (Sleeping Beauty  #2),A.N. Roquelaure/Anne Rice,3.62,22255,OL77793W,Beauty's Punishment,Anne Rice,26,2026-11-24T03:06:54.612911+00:00,accepted_manual,1
+1312,9780812590104,The Gate of Fire (Oath Of Empire Book Two),Thomas Harlan,3.58,146,OL7827838W,The Gate of Fire (Oath Of Empire),Thomas Harlan,1,2026-11-24T03:07:34.223144+00:00,accepted_manual,1
+27252,9780345416261,Pope Joan,Donna Woolfolk Cross,4.08,56471,OL7909783W,Pope Joan,Donna Cross,1,2026-11-24T03:06:39.940557+00:00,accepted_manual,1
+43933,9780440236702,Tell No One,Harlan Coben,4.11,95220,OL79319W,Tell No One,Harlan Coben,63,2026-11-24T03:06:50.701424+00:00,accepted_rule,1
+24733,9780140299946,Descent of Man,T. Coraghessan Boyle,3.96,605,OL7971270W,Descent of Man,T. Coraghessan Boyle,1,2026-11-24T03:06:29.196031+00:00,accepted_rule,1
+25142,9781840680737,Fucked By Rock + Cd,Mark Manning,3.96,1,OL7975953W,Fucked by Rock + CD,Mark Manning,1,2026-11-24T03:07:49.178805+00:00,accepted_rule,1
+81,9780374516000,Giving Good Weight,John McPhee,4.23,542,OL7986799W,Giving Good Weight,John McPhee,8,2026-11-24T03:06:43.628475+00:00,accepted_rule,1
+44531,9780141805641,Fantastic Mr Fox and Other Animal Stories,Roald Dahl,3.95,25,OL7987986W,Fantastic Mr Fox and Other Animal Stories (Enormous Crocodile / Esio Trot / Fantastic Mr. Fox / Giraffe and the Pelly and Me),Roald Dahl,1,2026-11-24T03:06:29.196031+00:00,accepted_manual,1
+10208,9780393323856,Miracle Fair: Selected Poems,Wisława Szymborska/Joanna Trzeciak/Czesław Miłosz,4.42,482,OL7990158W,Miracle Fair,Wisława Szymborska,2,2026-11-24T03:06:46.899655+00:00,accepted_manual,1
+31839,9780195145816,Philosophy of Mind: Classical and Contemporary Readings,David J. Chalmers,4.08,435,OL8003351W,Philosophy of Mind,David J. Chalmers,4,2026-11-24T03:06:32.883449+00:00,accepted_manual,1
+17780,9780141001821,In the Heart of the Sea: The Tragedy of the Whaleship Essex,Nathaniel Philbrick,4.16,72656,OL800722W,In the Heart of the Sea,Nathaniel Philbrick,38,2026-11-24T03:06:29.196031+00:00,accepted_manual,1
+12083,9780300093056,Long Day's Journey into Night,Eugene O'Neill/Harold Bloom,4.07,32178,OL8026199W,Long Day's Journey into Night,Eugene O'Neill,10,2026-11-24T03:06:36.687388+00:00,accepted_rule,1
+33293,9780393324860,Naked Economics: Undressing the Dismal Science,Charles Wheelan,4.03,5719,OL8061775W,Naked Economics,Charles J. Wheelan,7,2026-11-24T03:06:46.899655+00:00,accepted_manual,1
+12807,9780434010530,The Crazed,Ha Jin,3.5,15,OL8112151W,The Crazed,Jin Ha,1,2026-11-24T03:06:50.701424+00:00,accepted_manual,1
+19125,9781550373967,From Far Away,Robert Munsch/Michael Martchenko/Saoussan Askar,4.0,219,OL8119870W,From Far Away,Robert N. Munsch; Saoussan Askar,6,2026-11-24T03:07:41.461634+00:00,accepted_manual,1
+13442,9780385129916,Night Shift,Stephen King,4.0,486,OL81608W,Night Shift,Stephen King,66,2026-11-24T03:06:46.899655+00:00,accepted_rule,1
+34084,9780670032563,The Waste Lands (The Dark Tower  #3),Stephen King/Ned Dameron,4.24,145740,OL81625W,A Torre Negra,Stephen King,71,2026-11-24T03:07:21.000537+00:00,accepted_manual,1
+5413,9780385516488,'Salem's Lot,Stephen King/Jerry N. Uelsmann,4.25,84123,OL81632W,'Salem’s Lot,Stephen King; Stephen King,112,2026-11-24T03:06:46.899655+00:00,accepted_rule,1
+1052,9780451205360,The Richest Man in Babylon,George S. Clason,4.26,76451,OL8165007W,The Richest Man in Babylon,George S. Clason,262,2026-11-24T03:06:54.612911+00:00,accepted_rule,1
+18314,9781557424297,The Picture of Dorian Gray,Oscar Wilde,4.08,329,OL8193416W,The Picture of Dorian Gray,Oscar Wilde,3013,2026-11-24T03:07:41.461634+00:00,accepted_rule,1
+18255,9780486424538,Oliver Twist,Charles Dickens,3.86,2077,OL8193478W,Oliver Twist,Charles Dickens,2211,2026-11-24T03:06:59.202061+00:00,accepted_rule,1
+27588,9780375725975,Acts of Faith,Philip Caputo,3.94,1617,OL81990W,Acts of faith,Philip Caputo,4,2026-11-24T03:06:43.628475+00:00,accepted_rule,1
+22831,9781569310359,The Return of Lum  Volume 1: Urusei Yatsura (Urusei Yatsura  #2),Rumiko Takahashi,4.11,72,OL8212063W,"The Return of Lum, Volume 1",高橋留美子,2,2026-11-24T03:07:41.461634+00:00,accepted_manual,1
+4,9780439554893,Harry Potter and the Chamber of Secrets (Harry Potter  #2),J.K. Rowling,4.42,6333,OL82537W,Harry Potter and the Chamber of Secrets,J. K. Rowling,306,2026-11-24T03:06:50.701424+00:00,accepted_rule,1
+38244,9780792238935,National Geographic Traveler: Australia,Roff Smith,3.8,9,OL8360021W,National Geographic Traveler,Roff Smith,1,2026-11-24T03:07:31.196369+00:00,accepted_manual,1
+24006,9780307336132,Rule #1: The Simple Strategy for Successful Investing in Only 15 Minutes a Week!,Phil Town,4.02,1373,OL8423465W,Rule #1,Phil Town,6,2026-11-24T03:06:36.687388+00:00,accepted_manual,1
+35424,9780756623432,You Can Draw: Star Wars,Bonnie Burton/Matt Busch/Tom Hodges,4.05,48,OL8480218W,You Can Draw Star Wars (You Can Draw),Bonnie Burton,1,2026-11-24T03:07:27.451815+00:00,accepted_manual,1
+41702,9780399154195,The Navigator (NUMA Files  #7),Clive Cussler/Paul Kemprecos,3.94,6152,OL84879W,The Navigator,Clive Cussler; Paul Kemprecos,25,2026-11-24T03:06:46.899655+00:00,accepted_rule,1
+35054,9781416513414,Sahara (Dirk Pitt  #11),Clive Cussler,3.96,47,OL84925W,Sahara,Clive Cussler,57,2026-11-24T03:07:37.798916+00:00,accepted_rule,1
+32302,9781595328410,Blame!  Vol. 8,Tsutomu Nihei,4.26,762,OL8548253W,BLAME! Volume 8,Tsutomu Nihei,4,2026-11-24T03:07:49.178805+00:00,accepted_manual,1
+25032,9780823006571,Classical Drawing Atelier: A Contemporary Guide to Traditional Studio Practice,Juliette Aristides,4.12,3686,OL8557502W,Classical Drawing Atelier,Juliette Aristides,2,2026-11-24T03:07:34.223144+00:00,accepted_manual,1
+4593,9780879697129,Bioinformatics: Sequence and Genome Analysis,David W. Mount,3.86,63,OL8564647W,Bioinformatics,David W. Mount,5,2026-11-24T03:07:34.223144+00:00,accepted_manual,1
+37564,9780316831116,A Different Mirror: A History of Multicultural America,Ronald Takaki,4.13,3389,OL85714W,A different mirror,Ronald Takaki,7,2026-11-24T03:06:39.940557+00:00,accepted_manual,1
+11006,9780517618875,The Portable James Joyce,James Joyce/Harry Levin,4.17,20,OL86334W,The Portable James Joyce,James Joyce,28,2026-11-24T03:06:59.202061+00:00,accepted_rule,1
+5309,9780911903966,The Life and Times of Scrooge McDuck,Don Rosa,4.67,2467,OL8672531W,The Life and Times of Scrooge McDuck,Don Rosa,1,2026-11-24T03:07:37.798916+00:00,accepted_rule,1
+869,9781421504599,Fullmetal Alchemist  Vol. 8 (Fullmetal Alchemist  #8),Hiromu Arakawa/Akira Watanabe,4.57,11451,OL8756252W,鋼の錬金術師 8,荒川弘,11,2026-11-24T03:07:41.461634+00:00,accepted_manual,1
+13620,9781421506272,Death Note  Vol. 6: Give-and-Take (Death Note  #6),Tsugumi Ohba/Takeshi Obata/Alexis Kirsch,4.39,18291,OL8756322W,"Death Note, Vol. 6",Tsugumi Ohba; Takeshi Obata,4,2026-11-24T03:07:41.461634+00:00,accepted_manual,1
+24438,9781421502953,Video Girl Ai  Vol. 15: Len's Story,Masakazu Katsura,3.75,134,OL8782798W,電影少女 15,Masakazu Katsura,1,2026-11-24T03:07:37.798916+00:00,accepted_manual,1
+13764,9781421505565,Red River  Vol. 14 (Red River  #14),Chie Shinohara,4.44,1030,OL8783024W,"Red River, Vol. 14",Chie Shinohara,1,2026-11-24T03:07:41.461634+00:00,accepted_rule,1
+35878,9781421513942,Ghost in the Shell 2: Innocence: After The Long Goodbye,Masaki Yamada/Yuji Oniki/Carl Gustav Horn/Daigo Shinma/Keita Saeki/Mamoru Oshii/Shinji Maki,3.97,21,OL8783377W,Ghost in the Shell 2: Innocence (Novel - Paperback): After The Long Goodbye (Ghost in the Shell 2: Innocence),Masaki Yamada,1,2026-11-24T03:07:41.461634+00:00,accepted_manual,1
+34816,9781933110332,A Matter of Trust (Justice  #0),Radclyffe,4.21,942,OL8826524W,A Matter of Trust,Radclyffe,2,2026-11-24T03:07:49.178805+00:00,accepted_manual,1
+2338,9780670910618,Matthew Flinders' Cat,Bryce Courtenay,3.8,2737,OL883462W,Matthew Flinders Cat,Bryce Courtenay,2,2026-11-24T03:07:21.000537+00:00,accepted_rule,1
+122,9780345410054,The Power of One (The Power of One  #1),Bryce Courtenay,4.35,69167,OL883475W,The power of one,Bryce Courtenay,18,2026-11-24T03:06:39.940557+00:00,accepted_rule,1
+30859,9780975306628,My Woman His Wife,Anna J.,4.38,971,OL8842248W,My Woman His Wife,Anna J.,6,2026-11-24T03:07:37.798916+00:00,accepted_rule,1
+9,9780976540601,"Unauthorized Harry Potter Book Seven News: ""Half-Blood Prince"" Analysis and Speculation",W. Frederick Zimmerman,3.74,19,OL8842692W,Unauthorized Harry Potter and the Deathly Hallows News,W. Frederick Zimmerman,1,2026-11-24T03:07:37.798916+00:00,accepted_manual,1
+25153,9781591160335,Uzumaki: Spiral into Horror  Vol. 2.,Junji Ito/伊藤潤二,4.33,7275,OL8897695W,"Uzumaki, Volume 2",Junji Itō,1,2026-11-24T03:07:45.879117+00:00,accepted_manual,1
+5486,9781594201042,Andrew Carnegie,David Nasaw,3.99,2580,OL891762W,Andrew Carnegie,David Nasaw,4,2026-11-24T03:07:45.879117+00:00,accepted_rule,1
+37772,9780385086165,A Man of the People,Chinua Achebe,3.87,3294,OL891787W,A Man of the People,Chinua Achebe,40,2026-11-24T03:06:43.628475+00:00,accepted_rule,1
+14604,9781901447705,The Day the Country Died: A History of Anarcho-Punk  1980-1984,Ian Glasper,3.99,206,OL8932022W,The Day the Country Died,Ian Glasper,8,2026-11-24T03:07:49.178805+00:00,accepted_manual,1
+106,9780441172696,Dune Messiah (Dune Chronicles #2),Frank Herbert,3.88,97494,OL893461W,Dune Messiah,Frank Herbert,101,2026-11-24T03:06:50.701424+00:00,accepted_rule,1
+2178,9780140435825,Flaubert in Egypt: A Sensibility on Tour,Gustave Flaubert/Francis Steegmuller,3.62,378,OL893940W,Flaubert in Egypt,Gustave Flaubert,8,2026-11-24T03:06:29.196031+00:00,accepted_manual,1
+23475,9781583332054,The Hip Chick's Guide to Macrobiotics: A Philosophy for Achieving a Radiant Mind and a Fabulous Body,Jessica Porter/Michio Kushi,3.69,424,OL8946258W,The hip chick's guide to macrobiotics,Jessica Porter,3,2026-11-24T03:07:45.879117+00:00,accepted_manual,1
+22235,9781583372920,Stargirl LitPlans on CD,Mary B. Collins,4.86,5,OL8946388W,LitPlans on CD,Mary B. Collins,2,2026-11-24T03:07:45.879117+00:00,accepted_manual,1
+17841,9780156032971,Foucault's Pendulum,Umberto Eco/William Weaver,3.89,46598,OL8996438W,Il pendolo di Foucault,Umberto Eco,81,2026-11-24T03:06:32.883449+00:00,accepted_manual,1
+27297,9780140443486,The Analects,Confucius/D.C. Lau,3.83,12131,OL9056207W,Lunyu,Confucius,54,2026-11-24T03:06:29.196031+00:00,accepted_manual,1
+17075,9780285633148,Lost World of Agharti: The Mystery of Vril Power,Alec MacLellan,3.84,24,OL9171739W,The Lost World of Agharti,Alec MacLellan,1,2026-11-24T03:06:36.687388+00:00,accepted_manual,1
+19166,9780142437544,The Portable Dante,Dante Alighieri/Mark Musa,4.22,278,OL93213W,The portable Dante,Dante Alighieri,21,2026-11-24T03:06:29.196031+00:00,accepted_rule,1
+5966,9781888297010,Edward Lear's Book of Nonsense: With Lear's Original Illustrations,Edward Lear/Simcha Shtull,3.65,71,OL937390W,A book of nonsense,Edward Lear,31,2026-11-24T03:07:49.178805+00:00,accepted_manual,1
+28193,9780439782043,When Santa Fell to Earth,Cornelia Funke/Paul   Howard/Oliver G. Latsch,3.76,1840,OL941670W,Als der Weihnachtsmann vom Himmel fiel,Cornelia Funke,12,2026-11-24T03:06:50.701424+00:00,accepted_manual,1
+35332,9780842356299,Remember (Redemption  #2),Karen Kingsbury/Gary Smalley,4.43,18445,OL94269W,Remember,Karen Kingsbury; Gary Smalley; Gary Smalley,15,2026-11-24T03:07:34.223144+00:00,accepted_rule,1
+8675,9780553383539,Wild Ducks Flying Backward,Tom Robbins,3.55,5768,OL94856W,Wild ducks flying backward,Tom Robbins,4,2026-11-24T03:06:59.202061+00:00,accepted_rule,1
