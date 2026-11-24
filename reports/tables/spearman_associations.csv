@@ -1,0 +1,3 @@
+research_question,x,y,n,spearman_rho
+RQ1,edition_count,ratings_count,421,0.42673325874273965
+RQ2,ratings_count,average_rating,421,0.14363223832704258
