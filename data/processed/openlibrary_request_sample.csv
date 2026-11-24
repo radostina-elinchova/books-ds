@@ -1,0 +1,501 @@
+bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_count,text_reviews_count,publication_date,publisher,isbn13_valid,eligible_english_edition,eligible_valid_isbn13,eligible_positive_integer_rating_count,eligible_usable_average_rating,eligible_title_and_authors_present,eligible_unique_isbn13,eligible_for_request
+16300,Sleeping Murder (Miss Marple  #13),Agatha Christie,3.95,0002317850,9780002317856,eng,242,19657,884,8/4/2003,Dodd Mead; 1st edition (September 1976),True,True,True,True,True,True,True,True
+36639,A Small Pinch of Weather,Joan Aiken,4.26,0006754899,9780006754893,eng,239,122,11,1/1/2000,HarperCollins Publishers,True,True,True,True,True,True,True,True
+38977,The Princess of the Chalet School,Elinor M. Brent-Dyer,4.08,000690601X,9780006906018,eng,159,465,21,1/1/2000,HarperCollins,True,True,True,True,True,True,True,True
+35002,The One Minute Minute Sales Person,Spencer Johnson,3.78,0007104847,9780007104840,eng,109,68,7,6/1/2000,HarperCollins Publishers,True,True,True,True,True,True,True,True
+15249,The Lord of the Rings: The Return of the King - Visual Companion,Jude Fisher,4.59,0007116268,9780007116263,eng,72,26,3,11/6/2003,HarperCollins,True,True,True,True,True,True,True,True
+7439,Naked Lunch: The Restored Text,William S. Burroughs,3.46,0007204442,9780007204441,eng,289,509,65,5/3/2005,HarperCollins Publishers,True,True,True,True,True,True,True,True
+12076,Philosophical Investigations,Ludwig Wittgenstein/G.E.M. Anscombe,4.23,0024288101,9780024288103,eng,256,224,35,3/11/1973,Pearson,True,True,True,True,True,True,True,True
+37074,Her Highness  My Wife (Effingtons  #5),Victoria Alexander,3.66,0060001445,9780060001445,eng,362,992,47,7/30/2002,Avon HarperCollins,True,True,True,True,True,True,True,True
+34539,Going Postal (Discworld  #33),Terry Pratchett,4.38,0060013133,9780060013134,en-US,377,969,114,9/28/2004,Harper,True,True,True,True,True,True,True,True
+8862,A Year in the Life of William Shakespeare: 1599,James Shapiro,4.09,0060088745,9780060088743,eng,333,2330,252,6/13/2006,Harper Perennial,True,True,True,True,True,True,True,True
+43475,Criss Cross,Lynne Rae Perkins,3.34,0060092726,9780060092726,en-US,337,7752,1056,8/30/2005,Greenwillow Books,True,True,True,True,True,True,True,True
+14248,Small Wonder,Barbara Kingsolver,4.01,0060504080,9780060504083,eng,264,8965,623,4/15/2003,Harper Perennial,True,True,True,True,True,True,True,True
+25013,A Crack in the Edge of the World,Simon Winchester,3.78,0060572000,9780060572006,eng,419,5413,499,10/10/2006,Harper Perennial,True,True,True,True,True,True,True,True
+39773,Slouching Toward Nirvana,Charles Bukowski/John   Martin,3.99,0060577045,9780060577049,eng,288,1937,105,1/3/2006,Ecco,True,True,True,True,True,True,True,True
+24711,The Dance of the Dissident Daughter,Sue Monk Kidd,3.95,006064589X,9780060645892,eng,256,5645,603,8/20/2002,HarperOne,True,True,True,True,True,True,True,True
+30616,Readings for Meditation and Reflection,C.S. Lewis/Walter Hooper,4.32,0060652853,9780060652852,eng,176,272,27,1/5/1996,HarperOne,True,True,True,True,True,True,True,True
+43717,Crooked Little Vein,Warren Ellis,3.82,0060723939,9780060723934,en-US,288,7811,991,7/24/2007,William Morrow,True,True,True,True,True,True,True,True
+23224,Darkest Hour (The Mediator  #4),Meg Cabot,4.17,0060725141,9780060725143,eng,316,30471,671,12/28/2004,HarperCollins,True,True,True,True,True,True,True,True
+30622,The Collected Letters of C.S. Lewis  Volume 1: Family Letters  1905-1931,C.S. Lewis/Walter Hooper,4.36,0060727632,9780060727635,eng,1072,121,21,6/29/2004,HarperOne,True,True,True,True,True,True,True,True
+39506,The Burglar Who Liked to Quote Kipling (Bernie Rhodenbarr  #3),Lawrence Block,3.83,0060731257,9780060731250,eng,304,2473,138,3/1/2005,HarperTorch,True,True,True,True,True,True,True,True
+2836,Bridge to Terabithia,Katherine Paterson/Donna Diamond,4.0,0060734019,9780060734015,en-US,191,1811,152,7/1/2008,HarperTeen,True,True,True,True,True,True,True,True
+33458,The Lust Lizard of Melancholy Cove (Pine Cove  #2),Christopher Moore,3.87,0060735457,9780060735456,en-US,304,29113,1203,5/25/2004,William Morrow Paperbacks,True,True,True,True,True,True,True,True
+10907,The Pursuit of Happyness,Chris Gardner,4.19,0060744871,9780060744878,eng,320,21292,756,10/24/2006,Amistad,True,True,True,True,True,True,True,True
+29324,The Catswold Portal,Shirley Rousseau Murphy,4.06,0060765402,9780060765408,eng,432,888,69,1/25/2005,Harper Voyager,True,True,True,True,True,True,True,True
+5485,Brave New World,Aldous Huxley,3.99,0060850523,9780060850524,eng,259,13353,1286,10/17/2006,HarperCollins,True,True,True,True,True,True,True,True
+39501,The Burglar Who Thought He Was Bogart (Bernie Rhodenbarr  #7),Lawrence Block,3.89,0060872799,9780060872793,en-US,400,2134,99,10/31/2006,HarperTorch,True,True,True,True,True,True,True,True
+37726,The Annotated Charlotte's Web,E.B. White/Garth Williams/Peter F. Neumeyer,4.17,0060882603,9780060882600,eng,320,43,2,10/31/2006,HarperCollins,True,True,True,True,True,True,True,True
+8202,Laura Ingalls Wilder: A Biography,William   Anderson,4.2,0060885521,9780060885526,eng,256,4144,98,1/2/2007,HarperCollins,True,True,True,True,True,True,True,True
+12528,An American Childhood,Annie Dillard,3.91,0060915188,9780060915186,eng,255,7102,604,10/15/2013,Harper Perennial,True,True,True,True,True,True,True,True
+38465,Tell My Horse: Voodoo and Life in Haiti and Jamaica,Zora Neale Hurston,3.96,0060916494,9780060916497,eng,311,1450,105,2/28/1990,HarperCollins,True,True,True,True,True,True,True,True
+26930,Success Stories,Russell Banks,3.72,0060927194,9780060927196,en-US,192,155,11,4/26/1996,Harper Perennial,True,True,True,True,True,True,True,True
+411,The Crying of Lot 49,Thomas Pynchon,3.69,0060931671,9780060931674,eng,152,2161,230,4/1/1999,Harper Perennial,True,True,True,True,True,True,True,True
+43278,Creating a Life Worth Living,Carol Lloyd,4.02,0060952431,9780060952433,eng,336,353,24,8/2/1997,William Morrow Paperbacks,True,True,True,True,True,True,True,True
+23010,Prisoner's Dilemma,Richard Powers,3.87,0060977086,9780060977085,en-US,352,543,45,4/2/2002,Harper Perennial,True,True,True,True,True,True,True,True
+28666,Fugitive Prince (Wars of Light and Shadow  #4),Janny Wurts,3.89,0061054682,9780061054686,eng,704,62,4,9/8/1998,HarperCollins Publishers,True,True,True,True,True,True,True,True
+28815,Influence: The Psychology of Persuasion,Robert B. Cialdini,4.19,006124189X,9780061241895,eng,320,76314,2580,12/26/2006,Harper Business,True,True,True,True,True,True,True,True
+10285,The World's Religions,Huston Smith,4.07,0062508113,9780062508119,eng,416,8741,306,9/13/1991,HarperOne,True,True,True,True,True,True,True,True
+25286,The Dragon Prince: A Chinese Beauty & the Beast Tale,Laurence Yep/Kam Mak,3.93,0064435180,9780064435185,eng,32,355,44,1/9/1999,HarperCollins,True,True,True,True,True,True,True,True
+2595,Marketing Warfare,Al Ries/Jack Trout,4.11,0071460829,9780071460828,eng,216,942,59,12/13/2005,McGraw-Hill Education,True,True,True,True,True,True,True,True
+4631,A Moveable Feast,Ernest Hemingway,4.04,0099285045,9780099285045,eng,192,82993,4808,9/6/2012,Vintage,True,True,True,True,True,True,True,True
+4627,For Whom The Bell Tolls,Ernest Hemingway,3.97,0099481561,9780099481560,en-GB,490,162,7,5/5/2005,Vintage Classics,True,True,True,True,True,True,True,True
+26800,C++ Programmer's Notebook,Jim Keogh/John Shapley Gray,3.0,0130887013,9780130887016,eng,528,3,0,8/16/2001,Prentice Hall PTR,True,True,True,True,True,True,True,True
+11235,The Unicorn,Iris Murdoch,3.63,014002476X,9780140024760,eng,270,1846,159,1/6/1987,Penguin Books,True,True,True,True,True,True,True,True
+4829,Before The Mayflower A History of Black America,Lerone Bennett Jr.,4.44,0140072144,9780140072143,en-US,70,26,1,5/1/1984,Penguin Books,True,True,True,True,True,True,True,True
+32915,Sailor Song,Ken Kesey,3.58,0140139974,9780140139976,eng,533,2015,105,7/1/1993,Penguin Books,True,True,True,True,True,True,True,True
+13033,The Alexandria Quartet  (The Alexandria Quartet #1-4),Lawrence Durrell,4.17,0140153179,9780140153170,eng,884,10050,294,12/1/1991,Penguin Books,True,True,True,True,True,True,True,True
+34199,The I Ching or Book of Changes,Richard Wilhelm/Cary F. Baynes/C.G. Jung,4.19,0140192077,9780140192070,eng,739,126,12,6/29/1989,Penguin Books,True,True,True,True,True,True,True,True
+18353,Anaïs Nin: A Biography,Deirdre Bair,3.99,0140255257,9780140255256,eng,672,632,37,7/1/1996,Penguin Books,True,True,True,True,True,True,True,True
+11762,White Noise,Don DeLillo,3.87,0140283307,9780140283303,eng,320,55821,2523,6/1/1999,Penguin Books,True,True,True,True,True,True,True,True
+24115,Gödel  Escher  Bach: An Eternal Golden Braid,Douglas R. Hofstadter,4.29,0140289208,9780140289206,eng,777,330,26,3/30/2000,Penguin Books,True,True,True,True,True,True,True,True
+24733,Descent of Man,T. Coraghessan Boyle,3.96,0140299947,9780140299946,eng,240,605,44,7/27/1990,Penguin Books,True,True,True,True,True,True,True,True
+24875,House of Stairs,William Sleator,3.85,0140345809,9780140345803,eng,176,3423,447,4/1/1991,Puffin Books,True,True,True,True,True,True,True,True
+5304,De Profundis and Other Writings,Oscar Wilde/Hesketh Pearson,4.21,014043089X,9780140430899,eng,252,2298,91,8/26/1976,Penguin Books,True,True,True,True,True,True,True,True
+37395,The Pursuit of the Well-Beloved & The Well-Beloved,Thomas Hardy/Patricia Ingham,3.61,0140435190,9780140435191,eng,416,127,10,8/28/1997,Penguin Classics,True,True,True,True,True,True,True,True
+2178,Flaubert in Egypt: A Sensibility on Tour,Gustave Flaubert/Francis Steegmuller,3.62,0140435824,9780140435825,eng,230,378,31,3/30/1996,Penguin Books (Penguin Classics),True,True,True,True,True,True,True,True
+27297,The Analects,Confucius/D.C. Lau,3.83,0140443487,9780140443486,eng,249,12131,319,9/27/1979,Penguin Books Ltd,True,True,True,True,True,True,True,True
+1542,The Three Theban Plays: Antigone  Oedipus the King  Oedipus at Colonus,Sophocles/Robert Fagles/Bernard Knox,3.97,0140444254,9780140444254,eng,430,2979,288,1/3/2000,Penguin Books,True,True,True,True,True,True,True,True
+28407,Germinal,Émile Zola/Roger Pearson,4.13,0140447423,9780140447422,eng,592,23134,750,1/29/2004,Penguin Classics,True,True,True,True,True,True,True,True
+30300,The Last Days of Socrates,Plato/Hugh Tredennick/Harold Tarrant,4.08,0140449280,9780140449280,eng,256,1686,111,3/27/2003,Penguin Classics,True,True,True,True,True,True,True,True
+29290,Time of Wonder,Robert McCloskey,4.08,0140502017,9780140502015,en-US,64,4380,308,6/15/1985,Puffin Books,True,True,True,True,True,True,True,True
+6184,Wuthering Heights,Emily Brontë,3.85,0140620125,9780140620122,eng,279,2155,182,1/13/2007,Penguin Books,True,True,True,True,True,True,True,True
+17780,In the Heart of the Sea: The Tragedy of the Whaleship Essex,Nathaniel Philbrick,4.16,0141001828,9780141001821,eng,302,72656,4930,5/1/2001,Penguin Books,True,True,True,True,True,True,True,True
+32590,Pan,Knut Hamsun/Sverre Lyngstad,3.9,0141180676,9780141180670,eng,181,5833,255,9/1/1998,Penguin Classics,True,True,True,True,True,True,True,True
+2552,On the Road,Jack Kerouac/Ann Charters,3.63,0141182679,9780141182674,eng,281,5575,502,2/24/2000,Penguin Books,True,True,True,True,True,True,True,True
+20564,The Mill on the Floss,George Eliot/A.S. Byatt,3.79,0141439629,9780141439624,eng,579,41816,1337,2/27/2003,Penguin Classics,True,True,True,True,True,True,True,True
+44528,Matilda,Roald Dahl/Rula Lenska/Sian Thomas/Christopher Timothy,4.31,0141805625,9780141805627,eng,1,6,0,3/3/2005,Puffin Audiobooks,True,True,True,True,True,True,True,True
+44531,Fantastic Mr Fox and Other Animal Stories,Roald Dahl,3.95,0141805641,9780141805641,eng,4,25,1,11/25/2004,Puffin,True,True,True,True,True,True,True,True
+4488,Bridget Jones's Guide to Life,Helen Fielding,3.49,0142000213,9780142000212,en-US,64,1104,34,4/1/2001,Penguin Books,True,True,True,True,True,True,True,True
+8660,The Lost World (TV Tie-in),Arthur Conan Doyle/Philip Gooden,3.92,0142002720,9780142002728,eng,224,18,4,9/3/2002,Penguin Books,True,True,True,True,True,True,True,True
+36606,Oliver and Albert  Friends Forever (Easy-to-Read  Puffin),Jean Van Leeuwen/Ann Schweninger,3.61,0142300845,9780142300848,eng,48,23,2,3/18/2002,Puffin,True,True,True,True,True,True,True,True
+41573,The BFG: A Set of Plays,Roald Dahl/David Wood,4.26,0142407925,9780142407929,eng,128,518,48,2/1/2007,Puffin Books,True,True,True,True,True,True,True,True
+2956,The Adventures of Huckleberry Finn (Adventures of Tom and Huck  #2),Mark Twain/Guy Cardwell/John Seelye/Walter Trier,3.82,0142437174,9780142437179,eng,327,1049912,11391,12/31/2002,Penguin Classics,True,True,True,True,True,True,True,True
+19166,The Portable Dante,Dante Alighieri/Mark Musa,4.22,0142437549,9780142437544,eng,654,278,38,7/29/2003,Penguin Books,True,True,True,True,True,True,True,True
+27001,The Well of Lost Plots (Thursday Next #3),Jasper Fforde,4.1,0143034359,9780143034353,eng,375,31540,1434,8/3/2004,Penguin Books,True,True,True,True,True,True,True,True
+6976,The Mermaid Chair,Sue Monk Kidd,3.13,0143036696,9780143036692,eng,368,68363,5816,3/7/2006,Penguin Books,True,True,True,True,True,True,True,True
+10441,The Memory Keeper's Daughter,Kim Edwards,3.67,0143037145,9780143037149,eng,401,535636,17550,5/30/2006,Penguin Books,True,True,True,True,True,True,True,True
+29658,Postwar: A History of Europe Since 1945,Tony Judt,4.34,0143037757,9780143037750,eng,933,8017,571,9/5/2006,Penguin Books,True,True,True,True,True,True,True,True
+36310,The Portable Edgar Allan Poe,Edgar Allan Poe/J. Gerald Kennedy,4.31,0143039911,9780143039914,eng,672,234,20,9/28/2006,Penguin Books,True,True,True,True,True,True,True,True
+42213,Life Is a Dream,Pedro Calderón de la Barca/Gregary Racz,3.98,0143104829,9780143104827,eng,160,168,11,12/26/2006,Penguin Classics,True,True,True,True,True,True,True,True
+12880,Black Lamb and Grey Falcon,Rebecca West/Christopher Hitchens,4.23,014310490X,9780143104902,eng,1181,1623,228,1/30/2007,Penguin Classics,True,True,True,True,True,True,True,True
+2526,Blindness,José Saramago/Giovanni Pontiero,4.11,0156007754,9780156007757,eng,326,107455,7778,10/4/1999,Mariner Books,True,True,True,True,True,True,True,True
+44164,Maigret Loses His Temper (Maigret  #61),Georges Simenon,3.83,0156028476,9780156028479,eng,144,370,26,6/16/2003,Mariner Books,True,True,True,True,True,True,True,True
+11036,Little Birds,Anaïs Nin,3.72,0156029049,9780156029049,eng,148,7888,366,2/2/2004,Mariner Books,True,True,True,True,True,True,True,True
+18373,Flowers for Algernon,Daniel Keyes,4.12,0156030306,9780156030304,eng,311,337596,9949,5/1/2005,Harvest Books,True,True,True,True,True,True,True,True
+14959,Strange Fits of Passion,Anita Shreve,3.76,0156031396,9780156031394,eng,352,7423,390,10/4/2005,Mariner Books,True,True,True,True,True,True,True,True
+15052,Lighthousekeeping,Jeanette Winterson,3.85,0156032899,9780156032896,eng,232,6229,497,4/3/2006,Mariner Books,True,True,True,True,True,True,True,True
+17841,Foucault's Pendulum,Umberto Eco/William Weaver,3.89,015603297X,9780156032971,eng,623,46598,2074,3/5/2007,Mariner Books,True,True,True,True,True,True,True,True
+11044,The Diary of Anaïs Nin  Vol. 3: 1939-1944,Anaïs Nin/Gunther Stuhlmann,4.18,0156260271,9780156260275,eng,348,1392,40,3/24/1971,Mariner Books,True,True,True,True,True,True,True,True
+18362,The Diary of Anaïs Nin  Vol. 6: 1955-1966,Anaïs Nin/Gunther Stuhlmann,4.13,0156260328,9780156260329,eng,432,319,11,11/3/1977,Mariner Books,True,True,True,True,True,True,True,True
+12589,The Golden Apples,Eudora Welty,3.88,015636090X,9780156360906,eng,288,830,76,9/14/1956,Mariner Books,True,True,True,True,True,True,True,True
+19571,Paris Was Yesterday  1925-1939,Janet Flanner/Irving Drutman,3.85,0156709902,9780156709903,eng,264,257,33,4/18/1988,Mariner Books,True,True,True,True,True,True,True,True
+3787,Party Shoes (Shoes  #5),Noel Streatfeild,3.64,0192752537,9780192752536,en-US,243,430,33,9/1/2002,Oxford University Press  USA,True,True,True,True,True,True,True,True
+2156,Persuasion,Jane Austen/James Kinsley/Anna Massey/Richard S. Hartmetz/Maurgaux Motin/Deidre Shauna Lynch,4.14,0192802631,9780192802637,eng,249,441462,11308,3/18/2004,Oxford University Press,True,True,True,True,True,True,True,True
+17030,Flatland,Edwin A. Abbott/Rosemary Jann,3.82,0192805983,9780192805980,eng,176,314,43,9/1/2006,Oxford University Press,True,True,True,True,True,True,True,True
+2686,The Bostonians,Henry James/R.D. Gooder,3.59,0192834428,9780192834423,eng,504,85,12,7/23/1998,Oxford University Press,True,True,True,True,True,True,True,True
+28457,First Love and Other Stories,Ivan Turgenev/Richard Freeborn,4.14,0192836897,9780192836892,eng,304,1245,26,10/28/1999,Oxford University Press  USA,True,True,True,True,True,True,True,True
+13423,Presocratic Philosophy: A Very Short Introduction,Catherine Osborne,3.58,0192840940,9780192840943,eng,144,205,24,9/16/2004,Oxford University Press  USA,True,True,True,True,True,True,True,True
+31839,Philosophy of Mind: Classical and Contemporary Readings,David J. Chalmers,4.08,019514581X,9780195145816,eng,675,435,14,7/25/2002,Oxford University Press  USA,True,True,True,True,True,True,True,True
+43177,Brown V. Board of Education: A Civil Rights Milestone and Its Troubled Legacy,James T. Patterson,3.85,0195156323,9780195156324,eng,320,159,24,12/12/2002,Oxford University Press  USA,True,True,True,True,True,True,True,True
+1590,Peace,Aristophanes/S. Douglas Olson,3.6,0198140819,9780198140818,eng,408,262,13,2/25/1999,Oxford University Press  USA,True,True,True,True,True,True,True,True
+7011,A Midsummer Night's Dream,William Shakespeare/Roma Gill/B. Litt,3.94,0198321503,9780198321507,eng,102,126,7,7/28/2005,Oxford University Press  USA,True,True,True,True,True,True,True,True
+2705,Oxford Guides to Chaucer: The Canterbury Tales,Helen  Cooper,4.02,0198711557,9780198711551,eng,456,84,4,5/23/1996,Oxford University Press  USA,True,True,True,True,True,True,True,True
+41595,Robin Williams Web Design Workshop,Robin P. Williams/John Tollett/Dave Rohr,3.8,0201748673,9780201748673,eng,384,54,1,8/4/2001,Peachpit Press,True,True,True,True,True,True,True,True
+28254,Stone Age Economics,Marshall Sahlins,3.9,0202010996,9780202010991,eng,348,281,26,12/31/1974,Routledge,True,True,True,True,True,True,True,True
+31849,Philosophy in a Time of Terror: Dialogues with Jürgen Habermas and Jacques Derrida,Jürgen Habermas/Jacques Derrida/Giovanna Borradori,3.89,0226066665,9780226066660,eng,208,439,17,9/1/2004,University of Chicago Press,True,True,True,True,True,True,True,True
+34003,Genetics and the Origin of Species,Theodosius Dobzhansky/Niles Eldredge/Stephen Jay Gould,4.14,0231054750,9780231054751,eng,364,26,1,7/22/1982,Columbia University Press,True,True,True,True,True,True,True,True
+14487,Introduction to Documentary,Bill Nichols,3.79,0253214696,9780253214690,en-US,248,204,5,11/12/2001,Indiana University Press,True,True,True,True,True,True,True,True
+17075,Lost World of Agharti: The Mystery of Vril Power,Alec MacLellan,3.84,0285633147,9780285633148,eng,232,24,0,3/21/1996,Souvenir Press,True,True,True,True,True,True,True,True
+18413,Utopia,Thomas More/Clarence H. Miller,3.53,0300084293,9780300084290,eng,200,438,45,2/8/2001,Yale University Press,True,True,True,True,True,True,True,True
+12083,Long Day's Journey into Night,Eugene O'Neill/Harold Bloom,4.07,0300093055,9780300093056,eng,179,32178,734,2/8/2002,Yale University Press,True,True,True,True,True,True,True,True
+14367,Island of the Blue Dolphins,Scott O'Dell/Tantoo Cardinal,3.83,0307243168,9780307243164,en-US,4,205,49,5/10/2005,Listening Library (Audio),True,True,True,True,True,True,True,True
+39027,Death Match,Lincoln Child,3.79,0307275566,9780307275561,eng,388,8699,410,10/31/2006,Anchor Books,True,True,True,True,True,True,True,True
+24006,Rule #1: The Simple Strategy for Successful Investing in Only 15 Minutes a Week!,Phil Town,4.02,0307336131,9780307336132,eng,320,1373,90,3/21/2006,Crown Business,True,True,True,True,True,True,True,True
+35052,Trial by Fire (Newpointe 911 #4),Terri Blackstock,4.36,0310217601,9780310217602,eng,347,3248,73,10/18/2000,Zondervan,True,True,True,True,True,True,True,True
+20749,Study Bible: NIV,Anonymous,4.7,0310929555,9780310929550,eng,2198,4166,186,10/1/2002,Zondervan Publishing House,True,True,True,True,True,True,True,True
+11472,We Wish to Inform You That Tomorrow We Will Be Killed with Our Families,Philip Gourevitch,4.24,0312243359,9780312243357,eng,356,24862,1443,9/4/1999,Picador USA,True,True,True,True,True,True,True,True
+36530,Narrative of the Life of Frederick Douglass: An American Slave  Written by Himself,Frederick Douglass/David W. Blight,4.02,0312257376,9780312257378,eng,188,501,36,12/25/2002,Bedford Books,True,True,True,True,True,True,True,True
+3985,The Amazing Adventures of Kavalier & Clay,Michael Chabon,4.18,0312282990,9780312282998,eng,639,165862,9143,8/25/2001,Picador USA,True,True,True,True,True,True,True,True
+30247,A Stolen Season (Alex McKnight  #7),Steve Hamilton,3.96,031235360X,9780312353605,eng,304,1889,137,9/5/2006,Minotaur Books,True,True,True,True,True,True,True,True
+13485,Think Like a Guy: How to Get a Guy by Thinking Like One,Giuliana DePandi,3.15,0312354371,9780312354374,en-US,172,115,23,6/27/2006,St. Martin's Griffin,True,True,True,True,True,True,True,True
+13519,The Journey to the East,Hermann Hesse/Hilda Rosner,3.7,0312421680,9780312421687,eng,128,8071,360,2/1/2003,Picador,True,True,True,True,True,True,True,True
+2136,Specimen Days,Michael Cunningham,3.58,0312425023,9780312425029,eng,336,4462,446,4/18/2006,Picador USA,True,True,True,True,True,True,True,True
+4680,Limitations (Kindle County Legal Thriller #7),Scott Turow,3.33,0312426453,9780312426453,eng,208,1750,228,11/14/2006,Picador,True,True,True,True,True,True,True,True
+44179,The World Made Straight,Ron Rash,3.87,0312426607,9780312426606,eng,289,2143,254,3/20/2007,Picador USA,True,True,True,True,True,True,True,True
+13506,Jack of Kinrowan: Jack the Giant-Killer / Drink Down the Moon,Charles de Lint,4.12,0312869592,9780312869595,eng,412,3685,95,9/5/2000,St. Martins Press,True,True,True,True,True,True,True,True
+42146,Bones of the Moon (Answered Prayers  #1),Jonathan Carroll,3.89,0312873123,9780312873127,eng,224,2046,116,5/3/2002,Orb Books,True,True,True,True,True,True,True,True
+40284,Earthborn (Homecoming Saga #5),Orson Scott Card,3.41,0312930402,9780312930400,eng,378,64,2,5/1/1995,Tor Books,True,True,True,True,True,True,True,True
+39624,The Dark One (Wild Wulfs of London  #1),Ronda Thompson,3.87,0312935730,9780312935733,eng,341,1734,98,11/1/2005,St. Martin's Press,True,True,True,True,True,True,True,True
+43028,Sorrow's Anthem (Lincoln Perry  #2),Michael Koryta,3.89,0312936605,9780312936600,eng,330,62,7,1/2/2007,St. Martin's Paperbacks,True,True,True,True,True,True,True,True
+6422,Four to Score (Stephanie Plum  #4),Janet Evanovich,4.17,0312966970,9780312966973,eng,313,117541,2502,6/15/1999,St. Martin's Press,True,True,True,True,True,True,True,True
+34168,Dakota,Matt Braun,3.72,0312997833,9780312997830,eng,306,33,5,8/30/2005,St. Martin's Paperbacks,True,True,True,True,True,True,True,True
+13164,SantaKid,James Patterson/Michael Garland,3.88,0316000612,9780316000611,eng,48,862,53,11/1/2004,Jimmy Patterson,True,True,True,True,True,True,True,True
+19768,Tough to Tackle,Matt Christopher/Harvey Kidder,3.87,0316140589,9780316140584,eng,139,389,24,9/30/1987,Little  Brown Books for Young Readers,True,True,True,True,True,True,True,True
+22892,The Foretelling,Alice Hoffman,3.84,0316154091,9780316154093,eng,182,2646,247,9/1/2006,Little  Brown Books for Young Readers,True,True,True,True,True,True,True,True
+2140,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,3.93,0316172324,9780316172325,en-US,277,4254,355,1/11/2005,Little  Brown and Company,True,True,True,True,True,True,True,True
+29393,Our Band Could Be Your Life: Scenes from the American Indie Underground  1981-1991,Michael Azerrad,4.18,0316787531,9780316787536,eng,522,12472,573,7/2/2002,Back Bay Books,True,True,True,True,True,True,True,True
+37564,A Different Mirror: A History of Multicultural America,Ronald Takaki,4.13,0316831115,9780316831116,en-US,508,3389,212,6/1/1994,Back Bay Books,True,True,True,True,True,True,True,True
+8960,Vampire Mountain (Cirque Du Freak  #4),Darren Shan,4.16,0316905747,9780316905749,eng,208,26461,587,9/1/2003,Little  Brown Young Readers,True,True,True,True,True,True,True,True
+4424,An Unfinished Life: John F. Kennedy  1917-1963,Robert Dallek,4.07,0316907928,9780316907927,en-US,849,7981,307,5/4/2004,Back Bay Books,True,True,True,True,True,True,True,True
+7515,The Beach House,James Patterson/Peter de Jonge,3.84,0316969680,9780316969680,eng,358,717,57,6/10/2002,Little  Brown and Company,True,True,True,True,True,True,True,True
+32484,The Necessary Shakespeare,William Shakespeare,4.31,0321272501,9780321272508,eng,896,91,10,8/27/2004,Longman Publishing Group,True,True,True,True,True,True,True,True
+37743,Forever . . .,Judy Blume,3.62,033039780X,9780330397803,eng,178,45863,2952,6/3/2005,Pan Childrens,True,True,True,True,True,True,True,True
+27669,Bury the Chains,Adam Hochschild,4.28,0333904915,9780333904916,eng,467,13,1,3/18/2005,MacMillan,True,True,True,True,True,True,True,True
+41330,Metaconcert (Intervention  #2),Julian May,4.21,0345355245,9780345355249,eng,282,1389,15,1/13/1989,Del Rey,True,True,True,True,True,True,True,True
+122,The Power of One (The Power of One  #1),Bryce Courtenay,4.35,034541005X,9780345410054,eng,544,69167,4551,9/29/1996,Ballantine Books,True,True,True,True,True,True,True,True
+348,The Door Into Summer,Robert A. Heinlein,4.01,0345413997,9780345413994,eng,304,17232,649,6/17/1997,Del Rey,True,True,True,True,True,True,True,True
+27252,Pope Joan,Donna Woolfolk Cross,4.08,0345416260,9780345416261,eng,422,56471,3809,6/9/2009,Ballantine Books (NY),True,True,True,True,True,True,True,True
+20076,Maelstrom,Anne McCaffrey/Elizabeth Ann Scarborough,3.88,0345470044,9780345470041,eng,237,1088,37,1/31/2007,Del Rey Books,True,True,True,True,True,True,True,True
+15764,The Amateur Marriage,Anne Tyler,3.62,0345472454,9780345472458,eng,342,12986,1112,1/31/2006,Ballantine Books,True,True,True,True,True,True,True,True
+35434,The Star Wars Trilogy,George Lucas/Donald F. Glut/James Kahn,4.25,0345475828,9780345475824,eng,705,4365,138,8/31/2004,Del Rey,True,True,True,True,True,True,True,True
+21277,Already Dead (Joe Pitt  #1),Charlie Huston,3.79,034547824X,9780345478245,en-US,268,8447,631,12/27/2005,Del Rey,True,True,True,True,True,True,True,True
+26768,In Dark Waters,Mary Burton,3.81,0373274483,9780373274482,eng,249,95,10,6/28/2005,Silhouette Books,True,True,True,True,True,True,True,True
+26047,Rebellion (The MacGregors  #0.1),Nora Roberts,3.92,0373285434,9780373285433,eng,395,6650,150,11/21/2006,Silhouette,True,True,True,True,True,True,True,True
+4817,Dr. Desirable,Kristi Gold,3.27,0373764219,9780373764211,eng,192,20,1,1/25/2002,Silhouette Desire,True,True,True,True,True,True,True,True
+36198,Tell Me No Lies,Elizabeth Lowell,3.99,0373771258,9780373771257,en-US,576,2221,65,1/31/2006,HQN,True,True,True,True,True,True,True,True
+29620,The Pirate / The Adventurer / The Cowboy,Jayne Ann Krentz,3.89,0373771711,9780373771714,eng,362,262,7,4/25/2006,Harlequin,True,True,True,True,True,True,True,True
+13982,The Fairy Godmother (Five Hundred Kingdoms  #1),Mercedes Lackey,3.97,0373802455,9780373802456,eng,479,15813,871,10/25/2004,Luna Books,True,True,True,True,True,True,True,True
+3068,The Assistant,Bernard Malamud/Jonathan Rosen,3.89,0374504849,9780374504847,en-US,246,8073,319,7/7/2003,Farrar Straus and Giroux,True,True,True,True,True,True,True,True
+81,Giving Good Weight,John McPhee,4.23,0374516006,9780374516000,eng,288,542,36,4/1/1994,Farrar  Straus and Giroux,True,True,True,True,True,True,True,True
+22994,Selected Verse,Federico García Lorca/Christopher Maurer,4.43,0374528551,9780374528553,eng,432,189,14,6/9/2004,Farrar  Straus and Giroux,True,True,True,True,True,True,True,True
+18699,My Life,Bill Clinton,3.73,0375414576,9780375414572,en-US,957,807,49,6/22/2004,Knopf Publishing Group,True,True,True,True,True,True,True,True
+44309,Reading in the Dark,Seamus Deane,3.73,0375700234,9780375700231,en-US,256,3237,227,2/24/1998,Vintage,True,True,True,True,True,True,True,True
+16891,Masters of Death: The SS-Einsatzgruppen and the Invention of the Holocaust,Richard Rhodes,4.05,0375708227,9780375708220,en-US,335,1864,93,12/18/2003,Vintage,True,True,True,True,True,True,True,True
+5700,The Adolescent,Fyodor Dostoyevsky/Richard Pevear/Larissa Volokhonsky,3.94,0375719008,9780375719004,eng,647,3568,159,12/7/2004,Vintage,True,True,True,True,True,True,True,True
+5698,The Double and The Gambler,Fyodor Dostoyevsky/Richard Pevear/Larissa Volokhonsky,4.16,0375719016,9780375719011,eng,344,2486,99,1/16/2007,Vintage Classics,True,True,True,True,True,True,True,True
+4953,A Heartbreaking Work of Staggering Genius,Dave Eggers,3.68,0375725784,9780375725784,eng,485,157572,8463,2/13/2001,Vintage,True,True,True,True,True,True,True,True
+27588,Acts of Faith,Philip Caputo,3.94,0375725970,9780375725975,eng,688,1617,231,5/9/2006,Vintage,True,True,True,True,True,True,True,True
+16059,The Dive From Clausen's Pier,Ann Packer,3.42,0375727132,9780375727139,eng,432,19844,1747,4/8/2003,Vintage,True,True,True,True,True,True,True,True
+9484,Within a Budding Grove (In Search of Lost Time  #2),Marcel Proust/C.K. Scott Moncrieff/Terence Kilmartin/D.J. Enright,4.4,0375752196,9780375752193,eng,749,1032,162,11/3/1998,Modern Library,True,True,True,True,True,True,True,True
+18795,The Guermantes Way (In Search of Lost Time  #3),Marcel Proust/C.K. Scott Moncrieff/Terence Kilmartin/D.J. Enright,4.3,0375752331,9780375752339,eng,834,451,80,11/3/1998,The Modern Library New York,True,True,True,True,True,True,True,True
+2960,Adventures of Huckleberry Finn,Mark Twain/George Saunders,3.82,0375757376,9780375757372,eng,244,687,37,8/14/2001,The Modern Library,True,True,True,True,True,True,True,True
+17067,Jurassic Park Institute Dinosaur Field Guide,Michael K. Brett-Surman/Thomas R. Holtz Jr./Bob Walters,4.15,0375812938,9780375812934,en-US,160,2,1,6/12/2001,Random House Children's Books,True,True,True,True,True,True,True,True
+20019,Killing Time,Cynthia Harrod-Eagles,3.98,0380732025,9780380732029,en-US,280,12,1,2/1/1999,Avon Books,True,True,True,True,True,True,True,True
+15529,II Maccabees,Anonymous/Jonathan  A. Goldstein,4.04,0385048645,9780385048644,eng,595,24,2,10/11/1983,Anchor Bible,True,True,True,True,True,True,True,True
+37772,A Man of the People,Chinua Achebe,3.87,0385086164,9780385086165,eng,160,3294,208,8/16/2016,Penguin Books,True,True,True,True,True,True,True,True
+13442,Night Shift,Stephen King,4.0,0385129912,9780385129916,eng,344,486,56,10/1/1993,Doubleday Books,True,True,True,True,True,True,True,True
+10969,Dragonfly in Amber (Outlander  #2),Diana Gabaldon,4.32,0385302312,9780385302319,eng,743,1088,118,7/1/1992,Delacorte Press,True,True,True,True,True,True,True,True
+2928,Brian's Winter,Gary Paulsen,4.01,0385321988,9780385321983,en-US,133,76,12,1/1/1996,Delacorte Books for Young Readers,True,True,True,True,True,True,True,True
+10989,The Outlandish Companion: Companion to Outlander  Dragonfly in Amber  Voyager  and Drums of Autumn,Diana Gabaldon,4.08,0385324138,9780385324137,eng,577,11433,478,6/29/1999,Delacorte Press,True,True,True,True,True,True,True,True
+10987,Voyager (Outlander  #3),Diana Gabaldon,4.39,0385335997,9780385335997,eng,870,198818,8130,8/7/2001,Delta,True,True,True,True,True,True,True,True
+32499,The Pelican Brief,John Grisham,4.0,0385339704,9780385339704,eng,400,340714,1942,4/25/2006,Delta,True,True,True,True,True,True,True,True
+40460,Ragtime in Simla (Joe Sandilands  #2),Barbara Cleverly,3.84,0385339720,9780385339728,en-US,368,60,10,7/25/2006,Delta,True,True,True,True,True,True,True,True
+5413,'Salem's Lot,Stephen King/Jerry N. Uelsmann,4.25,0385516487,9780385516488,eng,594,84123,571,11/1/2005,Doubleday,True,True,True,True,True,True,True,True
+15111,The French Kitchen: A Cookbook,Joanne Harris/Fran Warde,4.09,0385607016,9780385607018,eng,256,35,0,11/3/2003,Doubleday,True,True,True,True,True,True,True,True
+3717,Stranger than Fiction,Chuck Palahniuk,3.57,0385722222,9780385722223,eng,233,18210,629,5/10/2005,Anchor,True,True,True,True,True,True,True,True
+23785,The Complete Plays,Anton Chekhov/Laurence Senelick,4.47,0393048853,9780393048858,eng,1060,222,12,1/3/2006,W. W. Norton & Company,True,True,True,True,True,True,True,True
+5558,iWoz,Steve Wozniak/Gina Smith,3.87,0393061434,9780393061437,en-GB,313,3536,375,9/17/2006,W. W. Norton  Company,True,True,True,True,True,True,True,True
+38723,The Feminine Mystique,Betty Friedan/Anna Quindlen,3.86,0393322572,9780393322576,eng,592,10108,650,9/17/2001,W. W. Norton  Company,True,True,True,True,True,True,True,True
+10208,Miracle Fair: Selected Poems,Wisława Szymborska/Joanna Trzeciak/Czesław Miłosz,4.42,0393323854,9780393323856,eng,159,482,47,11/17/2002,W. W. Norton  Company,True,True,True,True,True,True,True,True
+33293,Naked Economics: Undressing the Dismal Science,Charles Wheelan,4.03,0393324869,9780393324860,eng,288,5719,484,9/17/2003,W. W. Norton  Company,True,True,True,True,True,True,True,True
+43365,American Slavery  American Freedom,Edmund S. Morgan,4.11,039332494X,9780393324945,eng,464,3008,83,10/17/2003,W. W. Norton  Company,True,True,True,True,True,True,True,True
+5759,Fight Club,Chuck Palahniuk,4.19,0393327345,9780393327342,eng,218,388782,9654,10/17/2005,W.W. Norton & Company (NYC),True,True,True,True,True,True,True,True
+40626,A History of Modern Europe  Volume 2: From the French Revolution to the Present,John M. Merriman,4.0,0393924955,9780393924954,en-US,1040,62,4,2/1/2004,W. W. Norton & Company,True,True,True,True,True,True,True,True
+15692,The Possessed,Albert Camus/Justin O'Brien,3.83,039470245X,9780394702452,eng,190,325,22,3/12/1964,Vintage,True,True,True,True,True,True,True,True
+41702,The Navigator (NUMA Files  #7),Clive Cussler/Paul Kemprecos,3.94,0399154191,9780399154195,en-US,437,6152,248,6/5/2007,Putnam Publishing Group,True,True,True,True,True,True,True,True
+4944,The Very Hungry Caterpillar,Eric Carle,4.29,0399226907,9780399226908,eng,13,3945,262,3/23/1994,Philomel Books,True,True,True,True,True,True,True,True
+19689,Airborne: A Guided Tour Of An Airborne Task Force,Tom Clancy,3.77,0425157709,9780425157701,eng,326,448,5,11/1/1997,Berkley,True,True,True,True,True,True,True,True
+20862,Divide and Conquer (Tom Clancy's Op-Center  #7),Jeff Rovin/Tom Clancy/Steve Pieczenik,3.8,0425174808,9780425174807,eng,372,2560,30,6/12/2000,Berkley,True,True,True,True,True,True,True,True
+19685,Cutting Edge (Tom Clancy's Power Plays  #6),Jerome Preisler/Tom Clancy/Martin Greenberg,3.86,0425187055,9780425187050,eng,432,1218,11,11/5/2002,Berkley,True,True,True,True,True,True,True,True
+34605,The Damnation Game,Clive Barker,3.82,0425188930,9780425188934,eng,433,15857,350,11/5/2002,Berkley Books,True,True,True,True,True,True,True,True
+22065,The London Blitz Murders (Disaster Series  #5),Max Allan Collins,3.72,0425198057,9780425198056,eng,272,209,35,5/4/2004,Berkley,True,True,True,True,True,True,True,True
+39357,Bride & Groom (A Dog Lover's Mystery  #16),Susan Conant/Maxwell Award,3.78,0425200744,9780425200742,eng,262,263,19,1/4/2005,Berkley,True,True,True,True,True,True,True,True
+37301,Rules of Prey (Lucas Davenport  #1),John Sandford,4.11,0425205819,9780425205815,eng,479,62767,1738,8/2/2005,G.P. Putnam's Sons,True,True,True,True,True,True,True,True
+19911,Captive Dreams,Angela Knight/Diane Whiteside,3.91,0425207757,9780425207758,en-US,336,1354,60,9/5/2006,Berkley Trade,True,True,True,True,True,True,True,True
+12807,The Crazed,Ha Jin,3.5,0434010537,9780434010530,eng,336,15,1,10/3/2002,Arrow (A Division of Random House Group),True,True,True,True,True,True,True,True
+42719,The Van,Roddy Doyle,3.94,043620052X,9780436200526,eng,312,30,4,8/4/1991,Secker and Warburg,True,True,True,True,True,True,True,True
+10701,Birds Without Wings,Louis de Bernières,4.16,0436205491,9780436205491,eng,640,48,8,7/1/2004,Secker,True,True,True,True,True,True,True,True
+26481,The Cats In Krasinski Square,Karen Hesse/Wendy Watson,4.13,0439435404,9780439435406,eng,32,955,195,8/1/2004,Scholastic Press,True,True,True,True,True,True,True,True
+45436,The Wish List,Eoin Colfer,3.77,0439443369,9780439443364,eng,252,13988,589,7/1/2004,Scholastic Inc.,True,True,True,True,True,True,True,True
+4,Harry Potter and the Chamber of Secrets (Harry Potter  #2),J.K. Rowling,4.42,0439554896,9780439554893,eng,352,6333,244,11/1/2003,Scholastic,True,True,True,True,True,True,True,True
+33028,Underworld (Star Wars: The Last of the Jedi  #3),Jude Watson,3.96,0439681367,9780439681360,eng,160,840,23,12/1/2005,Scholastic Paperbacks,True,True,True,True,True,True,True,True
+31486,Ruby the Red Fairy (Rainbow Magic  #1),Daisy Meadows/Georgie Ripper,3.84,043973861X,9780439738613,en-US,65,4334,319,5/1/2005,Scholastic Inc.,True,True,True,True,True,True,True,True
+28193,When Santa Fell to Earth,Cornelia Funke/Paul   Howard/Oliver G. Latsch,3.76,043978204X,9780439782043,eng,167,1840,245,10/1/2006,Chicken House / Scholastic,True,True,True,True,True,True,True,True
+10,Harry Potter Collection (Harry Potter  #1-6),J.K. Rowling,4.73,0439827604,9780439827607,eng,3342,28242,808,9/12/2005,Scholastic,True,True,True,True,True,True,True,True
+38988,Awakening (Chasing Yesterday  #1),Robin Wasserman,3.95,0439933382,9780439933384,en-US,207,2569,297,5/1/2007,Scholastic Paperbacks,True,True,True,True,True,True,True,True
+4352,Hello! Is That Grandma?,Ian Whybrow/Deborah Allwright,3.53,0439944392,9780439944397,en-GB,32,57,14,5/7/2007,Alison Green Books,True,True,True,True,True,True,True,True
+42714,The Giggler Treatment,Roddy Doyle/Brian Ajhar,4.17,0439993857,9780439993852,en-GB,112,1425,149,7/20/2001,Scholastic  Inc.,True,True,True,True,True,True,True,True
+10967,The Fiery Cross (Outlander  #5),Diana Gabaldon/Janos Farkas,4.27,0440221668,9780440221661,eng,1443,128901,5294,8/30/2005,Dell,True,True,True,True,True,True,True,True
+18553,The Cay (The Cay  #1),Theodore Taylor,3.76,044022912X,9780440229124,en-US,156,29126,2227,4/8/2003,Laurel Leaf,True,True,True,True,True,True,True,True
+30336,Shattered Mirror,Amelia Atwater-Rhodes,4.03,0440229405,9780440229407,eng,240,9408,254,7/8/2003,Laurel Leaf,True,True,True,True,True,True,True,True
+43933,Tell No One,Harlan Coben,4.11,0440236703,9780440236702,eng,370,95220,4017,8/25/2009,Dell Publishing Company,True,True,True,True,True,True,True,True
+38680,Adventures of Huckleberry Finn,Mark Twain,3.82,0440300282,9780440300281,eng,352,90,2,11/15/1977,Laurel,True,True,True,True,True,True,True,True
+3788,Thursday's Child (Margaret Thursday  #1),Noel Streatfeild,3.98,0440486874,9780440486879,eng,256,1059,38,12/1/1985,Yearling,True,True,True,True,True,True,True,True
+29394,Cursor's Fury (Codex Alera  #3),Jim Butcher,4.36,0441014348,9780441014347,eng,442,50427,1053,12/5/2006,Ace Hardcover,True,True,True,True,True,True,True,True
+106,Dune Messiah (Dune Chronicles #2),Frank Herbert,3.88,0441172695,9780441172696,eng,331,97494,2359,7/15/1987,Ace Books,True,True,True,True,True,True,True,True
+16654,The Work of the Sun (The Green Lion Trilogy #3),Teresa Edgerton,4.0,0441909116,9780441909117,eng,258,157,5,3/1/1990,Ace,True,True,True,True,True,True,True,True
+1252,Lincoln on Leadership: Executive Strategies for Tough Times,Donald T. Phillips,4.14,0446394599,9780446394598,eng,193,5354,281,2/1/1993,Business Plus,True,True,True,True,True,True,True,True
+40217,Kushiel's Justice (Imriel's Trilogy  #2),Jacqueline Carey,4.25,0446500038,9780446500036,eng,703,15897,381,6/14/2007,Roc,True,True,True,True,True,True,True,True
+4683,Personal Injuries (Kindle County Legal Thriller #5),Scott Turow,3.86,0446608602,9780446608602,eng,528,5163,179,12/1/2000,Warner Books (NY),True,True,True,True,True,True,True,True
+32507,Chasing the Dime,Michael Connelly,3.96,044661162X,9780446611626,eng,448,26998,828,9/1/2003,Warner Books,True,True,True,True,True,True,True,True
+21832,The League of Night and Fog (Mortalis  #3),David Morrell,4.1,0446691925,9780446691925,eng,448,2564,64,4/1/2003,Grand Central Publishing,True,True,True,True,True,True,True,True
+13140,Jack & Jill (Alex Cross  #3),James Patterson,3.96,0446692654,9780446692656,eng,466,58414,1191,8/1/2003,Grand Central Publishing,True,True,True,True,True,True,True,True
+16047,A Thread of Grace,Mary Doria Russell,4.02,0449004139,9780449004135,eng,442,11782,1332,12/6/2005,Ballantine Books,True,True,True,True,True,True,True,True
+6568,Asylum (Blackstone Chronicles  #6),John Saul,4.1,0449227944,9780449227947,eng,97,932,24,6/3/1997,Fawcett,True,True,True,True,True,True,True,True
+11666,Rabbit at Rest (Rabbit Angstrom #4),John Updike,3.97,0449911942,9780449911945,eng,608,13361,395,8/27/1996,Random House Trade,True,True,True,True,True,True,True,True
+1052,The Richest Man in Babylon,George S. Clason,4.26,0451205367,9780451205360,eng,194,76451,3400,2/1/2008,Berkley Books,True,True,True,True,True,True,True,True
+30162,Jade Star (Star  #4),Catherine Coulter,3.83,0451206126,9780451206121,en-US,400,896,19,6/1/2002,Signet,True,True,True,True,True,True,True,True
+35581,The Love You Make: An Insider's Story of the Beatles,Peter     Brown/Steven Gaines/Anthony DeCurtis,4.08,0451207351,9780451207357,eng,464,2491,110,11/5/2002,NAL,True,True,True,True,True,True,True,True
+43682,The Death Collectors (Carson Ryder  #2),Jack Kerley,3.94,0451218299,9780451218292,eng,400,1088,78,5/2/2006,Signet,True,True,True,True,True,True,True,True
+152,Anna Karenina,Leo Tolstoy/David Magarshack/Priscilla Meyer,4.05,0451528611,9780451528612,eng,960,109420,5696,11/5/2002,Signet,True,True,True,True,True,True,True,True
+12703,Wuthering Heights,Emily Brontë/Alice Hoffman,3.85,0451529251,9780451529251,eng,322,1898,201,3/2/2004,Signet Classics,True,True,True,True,True,True,True,True
+15962,Because It Is Bitter  and Because It Is My Heart,Joyce Carol Oates,3.89,0452265819,9780452265813,eng,416,2690,133,3/30/1991,Plume,True,True,True,True,True,True,True,True
+18750,Beauty's Punishment (Sleeping Beauty  #2),A.N. Roquelaure/Anne Rice,3.62,0452281431,9780452281431,eng,233,22255,710,5/1/1999,Penguin Books,True,True,True,True,True,True,True,True
+25190,Beauty's Release (Sleeping Beauty  #3),A.N. Roquelaure/Anne Rice,3.71,0452281458,9780452281455,eng,238,23970,570,5/1/1999,Penguin Books,True,True,True,True,True,True,True,True
+5204,We Were the Mulvaneys,Joyce Carol Oates,3.73,0452282829,9780452282827,eng,454,87367,2553,9/1/1997,Plume,True,True,True,True,True,True,True,True
+23577,Lies & the Lying Liars Who Tell Them: A Fair & Balanced Look at the Right,Al Franken,3.81,0452285216,9780452285217,en-US,421,25235,723,7/27/2004,Plume Books,True,True,True,True,True,True,True,True
+3047,A Conflict of Visions: Ideological Origins of Political Struggles,Thomas Sowell,4.31,0465081428,9780465081424,eng,304,1797,166,1/3/2002,Basic Books,True,True,True,True,True,True,True,True
+2099,Stephen Hawking's Universe: The Cosmos Explained,David Filkin/Stephen Hawking,4.29,0465081983,9780465081981,eng,304,1469,22,10/9/1998,Basic Books,True,True,True,True,True,True,True,True
+16280,Why Are All The Black Kids Sitting Together in the Cafeteria?: A Psychologist Explains the Development of Racial Identity,Beverly Daniel Tatum,4.21,0465083617,9780465083619,en-US,320,9845,703,1/17/2003,Basic Books,True,True,True,True,True,True,True,True
+2219,Baby Signing For Dummies,Jennifer Watson,3.64,0471773867,9780471773863,eng,257,37,9,10/1/2006,John Wiley & Sons,True,True,True,True,True,True,True,True
+23265,Feminist Measures: Soundings in Poetry and Theory,Lynn Keller/Lynn Keller,4.4,0472064843,9780472064847,en-US,424,5,0,12/14/1994,University of Michigan Press,True,True,True,True,True,True,True,True
+23913,The Marriage of Heaven and Hell,William Blake,4.24,0486281221,9780486281223,eng,48,7163,245,9/1/1994,Dover Publications,True,True,True,True,True,True,True,True
+18255,Oliver Twist,Charles Dickens,3.86,0486424537,9780486424538,eng,368,2077,83,12/30/2002,Dover Publications,True,True,True,True,True,True,True,True
+8801,The Burgess Bird Book for Children,Thornton W. Burgess/Louis Agassiz Fuertes,4.31,0486428400,9780486428406,eng,260,1253,54,4/23/2003,Dover Publications,True,True,True,True,True,True,True,True
+1891,Pride and Prejudice,Jane Austen/George Saintsbury/Hugh  Thomson,4.26,0486440915,9780486440910,eng,476,1146,166,5/5/2005,Dover Publications,True,True,True,True,True,True,True,True
+23236,Aphrodite's Passion (Superhero Central #2),Julie Kenner,3.62,0505524740,9780505524744,eng,352,534,33,4/1/2002,Love Spell,True,True,True,True,True,True,True,True
+12445,The Girl in a Swing,Richard  Adams,3.52,0517391732,9780517391730,eng,339,24,3,10/1/1982,Random House,True,True,True,True,True,True,True,True
+11006,The Portable James Joyce,James Joyce/Harry Levin,4.17,0517618877,9780517618875,eng,762,20,3,8/20/1986,Random House Value Publishing/TheViking Press,True,True,True,True,True,True,True,True
+36264,The Whole World Is Watching: Mass Media in the Making & Unmaking of the New Left,Todd Gitlin,3.73,0520040244,9780520040243,eng,344,10,1,10/15/1981,University of California Press,True,True,True,True,True,True,True,True
+23060,The Fashion System,Roland Barthes/Matthew    Ward/Richard Howard,3.54,0520071778,9780520071773,eng,351,228,10,7/25/1990,University of California Press,True,True,True,True,True,True,True,True
+1686,Augustine of Hippo: A Biography,Peter R.L. Brown,4.27,0520227573,9780520227576,en-US,576,1643,97,11/24/2000,University of California Press,True,True,True,True,True,True,True,True
+33873,The Foundations of Modern Political Thought: Volume One: The Renaissance,Quentin Skinner,4.36,0521220238,9780521220231,eng,332,12,2,2/15/1979,Cambridge University Press,True,True,True,True,True,True,True,True
+5595,Problems of the Self: Philosophical Papers 1956 1972,Bernard Williams,3.97,0521290600,9780521290609,en-US,276,57,2,3/25/1976,Cambridge University Press,True,True,True,True,True,True,True,True
+17263,Mr Tompkins in Paperback (Canto),George Gamow/Roger Penrose,4.19,0521447712,9780521447713,en-US,202,580,49,3/26/1993,Cambridge University Press,True,True,True,True,True,True,True,True
+37231,The Cambridge Companion to Plotinus,Lloyd P. Gerson,4.36,0521476763,9780521476768,eng,480,21,2,11/28/1996,Cambridge University Press,True,True,True,True,True,True,True,True
+21223,The Cambridge Companion to Schopenhauer,Christopher Janaway,3.83,0521629241,9780521629249,eng,494,23,3,1/20/2000,Cambridge University Press,True,True,True,True,True,True,True,True
+1595,Genres in Dialogue: Plato and the Construct of Philosophy,Andrea Wilson Nightingale,4.33,0521774330,9780521774338,en-GB,238,5,2,4/13/2000,Cambridge University Press,True,True,True,True,True,True,True,True
+39571,programming.java: An Introduction to Programming Using Java: An Introduction to Programming Using Java,Rick Decker/Stuart Hirshfield,4.0,0534371094,9780534371098,eng,640,1,0,12/24/1999,Course Technology,True,True,True,True,True,True,True,True
+43255,Not Without My Daughter,Betty Mahmoody,4.1,0552152161,9780552152167,eng,528,19790,1042,7/5/2004,Transworld Publishers Ltd,True,True,True,True,True,True,True,True
+34501,A Hat Full of Sky (Discworld  #32; Tiffany Aching  #2),Terry Pratchett,4.3,055255264X,9780552552646,eng,352,51562,1294,5/5/2005,Corgi Childrens,True,True,True,True,True,True,True,True
+9632,Switch on the Night,Ray Bradbury/Leo Dillon/Diane Dillon,4.13,0553112449,9780553112443,en-US,40,198,12,9/14/2004,Dragonfly Books,True,True,True,True,True,True,True,True
+38597,Starting Over (Sweet Valley High  #33),Francine Pascal/Kate William,3.35,0553274910,9780553274912,eng,153,3,0,12/1/1986,Bantam Books,True,True,True,True,True,True,True,True
+2081,The Mind’s I: Fantasies and Reflections on Self and Soul,Douglas R. Hofstadter/Daniel C. Dennett,4.14,0553345842,9780553345841,eng,512,4786,92,4/1/1985,Bantam Books,True,True,True,True,True,True,True,True
+8675,Wild Ducks Flying Backward,Tom Robbins,3.55,0553383531,9780553383539,eng,272,5768,262,8/29/2006,Bantam,True,True,True,True,True,True,True,True
+22877,The Gap Into Power: A Dark and Hungry God Arises (Gap  #3),Stephen R. Donaldson,4.08,0553562606,9780553562606,eng,518,5460,89,10/21/2009,Spectra,True,True,True,True,True,True,True,True
+25059,Brightness Reef (Uplift Storm Trilogy  #1),David Brin,3.9,0553573306,9780553573305,eng,661,8963,153,10/1/1996,Spectra,True,True,True,True,True,True,True,True
+20252,House Corrino (Prelude to Dune #3),Brian Herbert/Kevin J. Anderson,3.68,0553580337,9780553580334,eng,667,12257,167,8/27/2002,Spectra Books,True,True,True,True,True,True,True,True
+29581,Foundation and Empire (Foundation #2),Isaac Asimov,4.22,0553803727,9780553803723,eng,256,126226,2034,6/1/2004,Spectra Books,True,True,True,True,True,True,True,True
+31218,The Hitchhiker's Guide to the Galaxy: The Quintessential Phase (Hitchhiker's Guide: Radio Play  #5),Douglas Adams/Dirk Maggs/Simon  Jones/Geoffrey McGivern/Mark Wing-Davey/Susan  Sheridan/Sandra Dickinson/Stephen  Moore/William Franklyn/Rula Lenska/Sam  Burke,4.37,0563504072,9780563504078,eng,3,61,1,6/20/2005,BBC Audiobooks,True,True,True,True,True,True,True,True
+44231,The Silver Pigs,Lindsey Davis/Mary Cutler/Anton Lesser/Fritha Goodey,3.94,056352569X,9780563525691,eng,2,5,0,2/7/2005,BBC Audiobooks,True,True,True,True,True,True,True,True
+19254,Finders Keepers: Selected Prose  1971-2001,Seamus Heaney,4.15,0571210910,9780571210916,en-GB,432,16,0,4/7/2003,Faber and Faber,True,True,True,True,True,True,True,True
+19485,The Book of Illusions,Paul Auster,3.85,0571212182,9780571212187,eng,336,486,57,9/4/2003,Faber and Faber,True,True,True,True,True,True,True,True
+35987,The Greek Islands,Lawrence Durrell,3.89,0571214266,9780571214266,eng,332,25,3,4/8/2002,Faber & Faber,True,True,True,True,True,True,True,True
+20126,Expository Writing: Mini-Lessons * Strategies * Activities,Tara McCarthy/Drew Hires/Jaime Lucero/Vincent Ceci,4.33,0590103873,9780590103879,eng,88,3,0,4/1/1998,Teaching Resources,True,True,True,True,True,True,True,True
+26420,CSS: The Definitive Guide,Eric A. Meyer,4.0,0596527330,9780596527334,en-US,518,961,29,11/1/2006,O'Reilly Media,True,True,True,True,True,True,True,True
+22478,The Origin of Consciousness in the Breakdown of the Bicameral Mind,Julian Jaynes,4.25,0618057072,9780618057078,eng,491,3473,426,8/15/2000,Mariner Books,True,True,True,True,True,True,True,True
+5439,Interpreter of Maladies,Jhumpa Lahiri,4.15,0618101365,9780618101368,eng,198,131876,8009,5/22/2000,Houghton Mifflin Harcourt,True,True,True,True,True,True,True,True
+35,The Lord of the Rings (The Lord of the Rings  #1-3),J.R.R. Tolkien/Alan  Lee,4.5,0618260587,9780618260584,en-US,1216,1618,140,10/1/2002,Houghton Mifflin Harcourt,True,True,True,True,True,True,True,True
+21665,The Best American Mystery Stories 2004,Nelson DeMille/Otto Penzler,3.55,0618497420,9780618497423,eng,0,3,0,10/14/2004,Mariner Books,True,True,True,True,True,True,True,True
+34084,The Waste Lands (The Dark Tower  #3),Stephen King/Ned Dameron,4.24,0670032565,9780670032563,eng,422,145740,3382,6/23/2003,Viking Adult,True,True,True,True,True,True,True,True
+5877,The Regeneration Trilogy (Regeneration  #1-3),Pat Barker,4.38,0670869295,9780670869299,eng,592,1588,95,1/1/1996,Viking Books,True,True,True,True,True,True,True,True
+2338,Matthew Flinders' Cat,Bryce Courtenay,3.8,0670910619,9780670910618,eng,611,2737,161,12/31/2002,Viking,True,True,True,True,True,True,True,True
+43332,My Gal Sunday,Mary Higgins Clark,3.57,0671014919,9780671014919,en-US,206,5355,183,2/1/2003,Pocket Books,True,True,True,True,True,True,True,True
+32667,Blood and Smoke,Stephen King,3.92,0671046179,9780671046170,eng,4,6221,155,1/1/2000,Simon & Schuster Audio,True,True,True,True,True,True,True,True
+7388,My Pride and Joy: An Autobiography,George  Adamson,4.23,0671624970,9780671624972,en-US,304,134,12,12/31/1987,Simon & Schuster,True,True,True,True,True,True,True,True
+7606,The Annotated Lolita,Vladimir Nabokov/Alfred Appel,4.28,0679727299,9780679727293,eng,457,2965,358,4/23/1991,Vintage Books,True,True,True,True,True,True,True,True
+22470,The Origin of Satan: How Christians Demonized Jews  Pagans and Heretics,Elaine Pagels,3.9,0679731180,9780679731184,eng,240,5729,209,4/30/1996,Vintage,True,True,True,True,True,True,True,True
+2287,Other Voices  Other Rooms,Truman Capote,3.8,0679745645,9780679745648,eng,232,10635,656,2/1/1994,Vintage,True,True,True,True,True,True,True,True
+6227,The Snake Pit (The Master of Hestviken  #2),Sigrid Undset/Arthur G. Chater,4.23,0679755543,9780679755548,eng,240,349,18,11/29/1994,Vintage,True,True,True,True,True,True,True,True
+163,The Untouchable,John Banville,3.95,0679767479,9780679767473,eng,367,2163,216,6/30/1998,Vintage,True,True,True,True,True,True,True,True
+1167,Junie B. Jones and a Little Monkey Business (Junie B. Jones  #2),Barbara Park/Denise Brunkus,3.99,0679838864,9780679838869,en-US,68,11178,623,2/16/1993,Random House Books for Young Readers,True,True,True,True,True,True,True,True
+13876,Dear God  Help!!! Love  Earl,Barbara Park/Kenneth Lafreniere,3.97,0679853952,9780679853954,eng,144,37,4,7/11/2006,Yearling,True,True,True,True,True,True,True,True
+19560,The Italians: A Full-Length Portrait Featuring Their Manners and Morals,Luigi Barzini/Joan Emerson,3.83,0684825007,9780684825007,eng,352,578,41,7/3/1996,Touchstone,True,True,True,True,True,True,True,True
+4641,The Short Stories,Ernest Hemingway,4.26,0684837862,9780684837864,en-US,464,219,21,7/25/2002,Scribner Classics,True,True,True,True,True,True,True,True
+35268,The Walrus Was Paul: The Great Beatle Death Clues,R. Gary Patterson/Jay Fox,3.72,0684850621,9780684850627,eng,208,441,39,10/29/1998,Touchstone,True,True,True,True,True,True,True,True
+10876,The Mutineer: Rants  Ravings  and Missives from the Mountaintop  1977-2005,Hunter S. Thompson,4.08,0684873176,9780684873176,eng,752,84,4,3/1/2013,Simon & Schuster,True,True,True,True,True,True,True,True
+20694,Julius  the Baby of the World,Kevin Henkes,4.28,0688143881,9780688143886,eng,32,6697,348,9/21/1995,Greenwillow Books,True,True,True,True,True,True,True,True
+9144,NYC Ballet Workout,Peter Martins/Paul Kolnik/Richard Corman/Howard  Kaplan,4.01,0688152023,9780688152024,eng,208,238,10,1/13/1997,William Morrow Paperbacks,True,True,True,True,True,True,True,True
+8073,Cloudy With a Chance of Meatballs (Cloudy with a Chance of Meatballs  #1),Judi Barrett/Ron Barrett,4.16,0689707495,9780689707490,eng,32,124141,2038,4/1/1982,Atheneum Books for Young Readers,True,True,True,True,True,True,True,True
+41460,Voting Rights Days (Hitty's Travels  #3),Ellen Weiss/Betina Ogden,4.27,0689849125,9780689849121,eng,75,10,2,3/1/2002,Aladdin Paperbacks,True,True,True,True,True,True,True,True
+13837,Lioness Rampant (Song of the Lioness  #4),Tamora Pierce,4.28,0689878575,9780689878572,en-US,384,72386,1230,1/1/2005,Simon Pulse,True,True,True,True,True,True,True,True
+16892,A Hole in the World: An American Boyhood,Richard Rhodes,3.9,0700610383,9780700610389,eng,288,182,24,4/26/2000,University Press of Kansas,True,True,True,True,True,True,True,True
+44613,Remembrance of Things Past (Boxed Set),Marcel Proust/C.K. Scott Moncrieff/Frederick A. Blossom/Joseph Wood Crutch,4.34,0701125594,9780701125592,eng,3400,6,1,3/5/1981,Chatto & Windus,True,True,True,True,True,True,True,True
+6107,The Middle Sea: A History of the Mediterranean,John Julius Norwich,3.85,0701176083,9780701176082,eng,588,662,53,10/31/2006,Chatto & Windus,True,True,True,True,True,True,True,True
+32994,Maverick: The Success Story Behind the World's Most Unusual Workplace,Ricardo Semler,4.17,0712678867,9780712678865,eng,336,2979,163,9/6/2001,Random House,True,True,True,True,True,True,True,True
+35134,Nor Crystal Tears (Humanx Commonwealth  #9),Alan Dean Foster,4.03,0727845640,9780727845641,eng,231,2278,29,2/1/1994,Severn House Publishers,True,True,True,True,True,True,True,True
+16920,Hidden World,Graham Masterton,3.47,0727859625,9780727859624,eng,182,58,5,3/1/2003,Severn House Publishers,True,True,True,True,True,True,True,True
+42641,Resurrection,Leo Tolstoy/Louise Maude/Aylmer Maude,4.13,0735102864,9780735102866,eng,562,11468,530,2/1/2000,Replica Books,True,True,True,True,True,True,True,True
+1290,How to Succeed with Women,Ron  Louis/David Copeland,3.76,0735200300,9780735200302,en-US,320,82,13,10/29/1998,Prentice Hall Press,True,True,True,True,True,True,True,True
+38674,Walt Disney's Peter Pan (A Little Golden Book),Walt Disney Company/Al Dempster,4.39,0736402381,9780736402385,eng,24,5661,87,1/23/2007,Golden/Disney,True,True,True,True,True,True,True,True
+16726,Cypress Gardens (Images of America: Florida),Mary M. Flekke/Sarah E. MacDonald/Randall M. MacDonald,3.0,073854339X,9780738543390,eng,128,5,1,11/27/2006,Arcadia Publishing (SC),True,True,True,True,True,True,True,True
+16374,The Most of P.G. Wodehouse,P.G. Wodehouse,4.48,0743203585,9780743203586,eng,701,1872,106,11/1/2000,Simon & Schuster,True,True,True,True,True,True,True,True
+4454,The Road Less Traveled: A New Psychology of Love  Traditional Values  and Spiritual Growth,M. Scott Peck,4.05,0743243153,9780743243155,en-US,318,1314,98,2/4/2003,Touchstone,True,True,True,True,True,True,True,True
+4909,Teacher Man (Frank McCourt  #3),Frank McCourt,3.75,0743243781,9780743243780,eng,272,26508,2019,9/19/2006,Scribner,True,True,True,True,True,True,True,True
+7445,The Glass Castle,Jeannette Walls,4.27,074324754X,9780743247542,eng,288,808656,46176,1/17/2006,Scribner,True,True,True,True,True,True,True,True
+28116,The Know-It-All: One Man's Humble Quest to Become the Smartest Person in the World,A.J. Jacobs,3.76,0743250621,9780743250627,eng,389,24243,2326,10/10/2005,Simon  Schuster,True,True,True,True,True,True,True,True
+41485,I Heard That Song Before,Mary Higgins Clark,3.82,0743264916,9780743264914,eng,318,545,69,4/3/2007,Simon & Schuster,True,True,True,True,True,True,True,True
+43995,The Footprints of God,Greg Iles,3.77,0743454146,9780743454148,eng,528,6179,516,12/28/2004,Pocket Star Books,True,True,True,True,True,True,True,True
+9633,The Best of Ray Bradbury,Ray Bradbury/Dave Gibbons/Richard Corben/Mike Mignola,4.07,0743474767,9780743474764,eng,162,308,28,6/21/2012,iBooks,True,True,True,True,True,True,True,True
+38928,Three Little Secrets (MacLachlan Family  #4),Liz Carlyle,3.84,0743496124,9780743496124,eng,384,1181,50,4/1/2006,Pocket Star,True,True,True,True,True,True,True,True
+13991,This Rough Magic (Heirs of Alexandria  #2),Mercedes Lackey/Eric Flint/Dave Freer,3.86,0743499093,9780743499095,eng,893,1189,23,6/1/2005,Baen,True,True,True,True,True,True,True,True
+12820,Sir Gawain And The Green Knight,Michael Morpurgo/Michael Foreman,3.94,0744586461,9780744586466,eng,120,21,5,11/1/2004,Walker,True,True,True,True,True,True,True,True
+34155,Political Philosophy: A Beginners' Guide for Students and Politicians,Adam Swift,3.93,0745635326,9780745635323,eng,240,175,6,8/4/2006,Polity Press,True,True,True,True,True,True,True,True
+9106,Portrait in Death (In Death  #16),J.D. Robb,4.39,0749934425,9780749934422,en-US,354,142,9,12/1/2005,Piatkus Books,True,True,True,True,True,True,True,True
+29390,Boudicca: The Warrior Queen,M.J. Trow,3.57,075093400X,9780750934008,en-US,250,71,8,2/1/2005,Sutton Publishing,True,True,True,True,True,True,True,True
+33824,The Talbot Odyssey,Nelson DeMille,3.85,0751531200,9780751531206,eng,640,28,1,11/2/2000,Sphere,True,True,True,True,True,True,True,True
+35424,You Can Draw: Star Wars,Bonnie Burton/Matt Busch/Tom Hodges,4.05,075662343X,9780756623432,eng,96,48,11,1/15/2007,DK Children,True,True,True,True,True,True,True,True
+18837,Cliffs Notes on Woolf's Mrs. Dalloway,Gary K. Carey,3.09,0764544578,9780764544576,eng,72,10,2,12/12/2003,Cliffs Notes,True,True,True,True,True,True,True,True
+3426,O'Brien's the Things They Carried,Jill Colella/CliffsNotes,3.69,0764586688,9780764586682,eng,128,24,2,12/14/2000,Cliffs Notes,True,True,True,True,True,True,True,True
+33555,What Dreams May Come,Richard Matheson,3.95,0765308703,9780765308702,eng,288,9298,830,1/1/2004,Tor Books,True,True,True,True,True,True,True,True
+29587,Down and Out in the Magic Kingdom,Cory Doctorow,3.56,076530953X,9780765309532,eng,208,10810,1068,12/5/2003,Tor Books,True,True,True,True,True,True,True,True
+29519,Conspiracy of Fools,Kurt Eichenwald,4.23,0767911792,9780767911795,eng,784,4511,309,12/27/2005,Broadway Books,True,True,True,True,True,True,True,True
+10990,Lord John and the Private Matter (Lord John Grey  #1),Diana Gabaldon,3.7,0770429459,9780770429454,eng,368,32446,1345,10/4/2005,Seal,True,True,True,True,True,True,True,True
+41071,Study Guide to Accompany Brunner and Suddarth's Textbook of Medical-Surgical Nursing,Suzanne C. O'Connell Smeltzer/Brenda G. Bare/Mary Jo Boyer,4.0,0781723051,9780781723053,eng,400,2,0,12/21/1999,LWW,True,True,True,True,True,True,True,True
+26842,Pies and Tarts,Chuck Williams/Laurie Wertz/John Phillip Carroll,3.82,0783502001,9780783502007,eng,108,18,2,5/24/1999,Time Life Medical,True,True,True,True,True,True,True,True
+30053,Only the River Runs Free (The Galway Chronicles  #1),Bodie Thoene/Brock Thoene,4.09,0785263780,9780785263784,eng,271,1387,104,1/14/1997,Thomas Nelson,True,True,True,True,True,True,True,True
+27168,Island Of Bones (Louis Kincaid  #5),P.J. Parrish,4.02,0786016051,9780786016051,eng,384,586,62,1/1/2004,Pinnacle,True,True,True,True,True,True,True,True
+30639,Mere Christianity: Abolition of Man (Bonus Feature),C.S. Lewis/Geoffrey Howard/Robert Whitefield/Robert Whitfield,4.32,0786174366,9780786174362,eng,6,43,6,5/1/2006,Blackstone Audiobooks,True,True,True,True,True,True,True,True
+43650,Something Borrowed,Rebecca Hagan Lee,4.14,0786500735,9780786500734,eng,282,38,1,2/1/1995,Diamond/Charter,True,True,True,True,True,True,True,True
+45440,The Legend of Spud Murphy,Eoin Colfer/Glenn McCoy,3.88,0786855010,9780786855018,eng,96,92,25,9/6/2004,Disney-Hyperion,True,True,True,True,True,True,True,True
+40219,Dirty Jokes and Beer: Stories of the Unrefined,Drew Carey,3.53,0786885599,9780786885596,eng,256,1944,93,3/15/2000,Hachette Books,True,True,True,True,True,True,True,True
+21343,The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,4.04,0787960756,9780787960759,eng,227,65444,2866,4/11/2002,Jossey-Bass,True,True,True,True,True,True,True,True
+38244,National Geographic Traveler: Australia,Roff Smith,3.8,0792238931,9780792238935,eng,400,9,2,10/5/1999,National Geographic,True,True,True,True,True,True,True,True
+9931,Cruelest Journey: Six Hundred Miles To Timbuktu,Kira Salak,3.93,0792274571,9780792274575,eng,320,542,65,11/1/2004,National Geographic Society,True,True,True,True,True,True,True,True
+11154,The Screwtape Letters/Book & Study Guide,C.S. Lewis,4.22,0800783360,9780800783365,en-US,172,96,12,1/1/1976,Fleming H Revell Co,True,True,True,True,True,True,True,True
+28466,ADHD in Adulthood: A Guide to Current Theory  Diagnosis  and Treatment,Margaret Weiss/Gabrielle Weiss/Lily Trokenberg Hechtman,3.4,080186822X,9780801868221,eng,376,5,0,11/6/2001,Johns Hopkins University Press,True,True,True,True,True,True,True,True
+247,Quiet Days in Clichy,Henry Miller,3.69,080213016X,9780802130167,eng,154,3381,141,1/13/1994,Grove Press,True,True,True,True,True,True,True,True
+16148,Empire of the Senseless,Kathy Acker,3.49,0802131794,9780802131799,eng,240,1487,78,1/13/1994,Grove Press,True,True,True,True,True,True,True,True
+31067,Malcolm X Speaks: Selected Speeches and Statements,Malcolm X/George Breitman,4.46,0802132138,9780802132130,en-US,240,5018,69,1/11/1994,Grove Weidenfeld,True,True,True,True,True,True,True,True
+15050,Sexing the Cherry,Jeanette Winterson,3.81,0802135781,9780802135780,eng,167,12684,627,8/10/1998,Grove Press,True,True,True,True,True,True,True,True
+24124,William Shakespeare’s: Romeo and Juliet (Shakespeare Retellings  #4),Bruce Coville/Dennis Nolan,3.97,0803724624,9780803724624,eng,40,179,17,10/1/1999,Dial Books,True,True,True,True,True,True,True,True
+34191,John Adams,John Patrick Diggins/Arthur M. Schlesinger Jr.,3.88,0805069372,9780805069372,eng,224,383,47,6/11/2003,Times Books,True,True,True,True,True,True,True,True
+18956,Homicide: A Year on the Killing Streets,David Simon,4.38,0805080759,9780805080759,eng,646,12071,837,8/22/2006,Holt McDougal,True,True,True,True,True,True,True,True
+2725,Illuminations: Essays and Reflections,Walter Benjamin/Hannah Arendt/Harry Zohn/Leon Wieseltier,4.29,0805202412,9780805202410,eng,288,9254,194,1/13/1969,Schocken,True,True,True,True,True,True,True,True
+17692,The Trial,Franz Kafka/Breon Mitchell/Arthur H. Samuelson,3.98,0805209999,9780805209990,eng,276,4086,372,5/25/1999,Schocken Books,True,True,True,True,True,True,True,True
+23545,Watchmen on the Walls,Hannah Hurnard,4.02,0805413995,9780805413991,eng,184,39,6,3/1/1998,B&H Publishing Group,True,True,True,True,True,True,True,True
+17679,Writing the Qualitative Dissertation: Understanding by Doing,Judith M. Meloy,3.73,0805832890,9780805832891,eng,242,9,0,7/3/2001,Psychology Press,True,True,True,True,True,True,True,True
+9479,The Midnight Mystery (The Boxcar Children  #95),Gertrude Chandler Warner,3.9,080755538X,9780807555385,eng,128,312,9,1/1/2003,Albert Whitman  Company,True,True,True,True,True,True,True,True
+11166,Dawn (The Night Trilogy  #2),Elie Wiesel/Frances Frenaye,3.87,0809037726,9780809037728,eng,81,12576,975,3/21/2006,Hill & Wang,True,True,True,True,True,True,True,True
+28764,The Chain of Chance,Stanisław Lem/Louis Iribarne,3.7,0810117304,9780810117303,en-US,179,505,37,3/28/2000,Northwestern University Press,True,True,True,True,True,True,True,True
+26821,The National Geographic Society: 100 Years of Adventure & Discovery,C.D.B. Bryan,4.11,0810982196,9780810982192,en-US,528,10,2,9/1/2001,Abradale Books/Harry N. Abrams,True,True,True,True,True,True,True,True
+6273,The Collected Poems of Wilfred Owen,Wilfred Owen/Cecil Day-Lewis,4.34,0811201325,9780811201322,eng,192,3151,106,1/17/1965,New Directions,True,True,True,True,True,True,True,True
+28375,The Flight of Icarus,Raymond Queneau/Barbara Wright,3.99,0811204839,9780811204835,eng,191,339,45,1/17/1973,New Directions,True,True,True,True,True,True,True,True
+31580,In Search of Duende,Federico García Lorca/Norman Thomas di Giovanni,4.3,0811213765,9780811213769,eng,99,616,36,4/17/1998,New Directions,True,True,True,True,True,True,True,True
+21245,Orion (Orion  #1),Ben Bova,3.72,0812532473,9780812532470,eng,432,1386,54,12/15/1992,Tor Science Fiction,True,True,True,True,True,True,True,True
+7971,The Call of Earth (Homecoming  #2),Orson Scott Card,3.58,0812532619,9780812532616,eng,352,10268,164,1/15/1994,Tor Books,True,True,True,True,True,True,True,True
+1312,The Gate of Fire (Oath Of Empire Book Two),Thomas Harlan,3.58,0812590104,9780812590104,en-US,721,146,4,6/18/2001,Tor Classics,True,True,True,True,True,True,True,True
+31833,Star Wars and Philosophy: More Powerful than You Can Possibly Imagine,Kevin S. Decker/Jason T. Eberl/William Irwin/George Lucas/William O. Stephens/Walter Ritoku Robinson/Richard H. Dees/Judith A. Barad/Elizabeth F. Cooke/Richard Hanley/Jerold J. Abrams/Robert Arp/Jan-Erik Jones,4.05,0812695836,9780812695830,eng,227,1774,35,3/23/2005,Open Court,True,True,True,True,True,True,True,True
+22514,The Beatles and Philosophy: Nothing You Can Think that Can't Be Thunk,Michael Baur/Steven Baur/James S. Spiegel,3.63,0812696069,9780812696066,eng,288,157,14,10/25/2006,Open Court,True,True,True,True,True,True,True,True
+40465,Thank You for Smoking,Christopher Buckley,3.93,0812976525,9780812976526,eng,272,9900,561,2/14/2006,Random House Trade Paperbacks,True,True,True,True,True,True,True,True
+17011,A Devilish Dilemma,Judith A. Lansdowne,4.02,0821758268,9780821758267,eng,288,54,6,1/1/1998,Zebra,True,True,True,True,True,True,True,True
+181,A Wrinkle in Time: With Related Readings (A Wrinkle in Time Quintet #1),Madeleine L'Engle,4.0,0821925326,9780821925324,eng,250,36,6,5/1/2002,EMC/Paradigm Publishing,True,True,True,True,True,True,True,True
+1506,CliffsNotes on Euripides' Medea and Electra,Robert J. Milch,4.2,0822004240,9780822004240,eng,69,5,0,9/13/1965,Cliffs Notes,True,True,True,True,True,True,True,True
+12822,Cliffs Notes on Wiesel's Night,Maryam Riess,3.4,0822008939,9780822008934,eng,80,5,1,8/22/1996,Cliffs Notes,True,True,True,True,True,True,True,True
+42854,Barack Obama: Working to Make a Difference,Marlene Targ Brill/Lerner Publishing Group,3.96,0822560569,9780822560562,en-US,48,19,5,4/1/2006,Lerner Publications,True,True,True,True,True,True,True,True
+25032,Classical Drawing Atelier: A Contemporary Guide to Traditional Studio Practice,Juliette Aristides,4.12,0823006573,9780823006571,eng,160,3686,24,11/1/2006,Watson-Guptill,True,True,True,True,True,True,True,True
+24813,The Calvin and Hobbes Tenth Anniversary Book,Bill Watterson,4.63,0836204387,9780836204384,eng,208,49122,368,9/5/1995,Andrews McMeel Publishing,True,True,True,True,True,True,True,True
+35332,Remember (Redemption  #2),Karen Kingsbury/Gary Smalley,4.43,0842356290,9780842356299,eng,432,18445,388,1/1/2003,Tyndale House Publishers,True,True,True,True,True,True,True,True
+8032,Mr. Jelly and the Pirates,Roger Hargreaves/Adam Hargreaves,3.82,084312492X,9780843124927,eng,32,87,12,5/10/2007,Price Stern Sloan,True,True,True,True,True,True,True,True
+8021,Little Miss Lucky,Roger Hargreaves,3.82,0843175044,9780843175042,eng,32,291,21,11/22/1999,Price Stern Sloan,True,True,True,True,True,True,True,True
+23848,The Hour Before Dark,Douglas Clegg,3.76,0843951427,9780843951424,eng,370,1034,78,9/1/2003,Leisure Books,True,True,True,True,True,True,True,True
+20367,Ewan McGregor: From Junkie to Jedi,Brian J. Robb,2.8,0859652769,9780859652766,eng,144,10,1,5/5/1999,Plexus Publishing,True,True,True,True,True,True,True,True
+26780,Mandie and the Abandoned Mine (Mandie  #8),Lois Gladys Leppard,3.96,0871239329,9780871239327,eng,160,1369,17,5/1/1987,Bethany House Publishers,True,True,True,True,True,True,True,True
+26599,Selected Poems,E.E. Cummings/Richard S. Kennedy,4.22,0871401541,9780871401540,eng,208,12438,264,8/17/2007,Liveright,True,True,True,True,True,True,True,True
+1351,Statesman,Plato/C.J. Rowe,3.85,0872204626,9780872204621,eng,128,28,7,3/15/1999,Hackett Publishing Company  Inc.,True,True,True,True,True,True,True,True
+1338,On Love: Lysis/Symposium/Phaedrus/Alcibiades/Selections from Republic & Laws,Plato/C.D.C. Reeve,4.06,0872207889,9780872207882,eng,272,154,4,6/15/2006,Hackett Publishing Company  Inc.,True,True,True,True,True,True,True,True
+2817,A Full House: An Austin Family Christmas (Austin Family  #5.6),Madeleine L'Engle/Mary Chambers,3.98,0877880204,9780877880202,eng,48,235,4,3/7/2000,Shaw,True,True,True,True,True,True,True,True
+3011,Waiting for the Party: The Life of Frances Hodgson Burnett  1849-1924,Ann Thwaite,3.8,0879237902,9780879237905,eng,274,23,7,9/1/1994,David R. Godine Publisher,True,True,True,True,True,True,True,True
+4593,Bioinformatics: Sequence and Genome Analysis,David W. Mount,3.86,0879697121,9780879697129,en-US,692,63,3,8/16/2004,Cold Spring Harbor Laboratory Press,True,True,True,True,True,True,True,True
+14009,Owlflight (Owl Mage Trilogy  #1),Mercedes Lackey/Larry Dixon,3.98,0886778042,9780886778040,eng,342,9217,168,10/1/1998,DAW,True,True,True,True,True,True,True,True
+36677,Teaching the World's Children: ESL for Ages Three to Seven (The Pippin Teacher's Library),Mary Ashworth/H. Patricia Wakefield,3.4,0887511120,9780887511127,eng,101,5,3,5/13/2004,Pippin Publishing,True,True,True,True,True,True,True,True
+14235,The Great Gatsby,F. Scott Fitzgerald,3.91,0891906797,9780891906797,eng,182,149,7,9/1/1925,Amereon Ltd,True,True,True,True,True,True,True,True
+34227,A Reader's Digest Songbook: Remembering Yesterday's Hits,William L. Simon,4.38,0895772493,9780895772497,eng,12,13,0,10/1/1987,Reader's Digest Association,True,True,True,True,True,True,True,True
+5309,The Life and Times of Scrooge McDuck,Don Rosa,4.67,0911903968,9780911903966,eng,266,2467,149,6/1/2005,Gemstone Publishing,True,True,True,True,True,True,True,True
+3738,Typee / Omoo / Mardi,Herman Melville/G. Thomas Tanselle,3.55,0940450003,9780940450004,eng,1333,644,26,5/6/1982,Library of America,True,True,True,True,True,True,True,True
+14616,The Leatherstocking Tales  Vol. 1: The Pioneers / The Last of the Mohicans / The Prairie,James Fenimore Cooper/Blake Nevius,3.88,0940450208,9780940450202,eng,1347,348,24,7/1/1985,Library of America,True,True,True,True,True,True,True,True
+28821,Writings 1878–1899: Psychology: Briefer Course / The Will to Believe / Talks to Teachers and to Students / Essays,William  James/Gerald Eugene Myers,4.25,0940450720,9780940450721,eng,1212,92,4,6/1/1992,Library of America,True,True,True,True,True,True,True,True
+5671,The Ethics of Rhetoric,Richard M. Weaver,4.14,0961180021,9780961180027,eng,240,65,9,11/3/1995,Routledge,True,True,True,True,True,True,True,True
+7895,Maud Hart Lovelace's Deep Valley: A Guidebook of Mankato Places in the Betsy-Tacy Series,Julie A. Schrader,4.29,0971316821,9780971316829,eng,325,58,8,12/31/2002,Minnesota Heritage Publishing,True,True,True,True,True,True,True,True
+30859,My Woman His Wife,Anna J.,4.38,0975306626,9780975306628,en-US,260,971,65,9/1/2006,Urban Books,True,True,True,True,True,True,True,True
+9,"Unauthorized Harry Potter Book Seven News: ""Half-Blood Prince"" Analysis and Speculation",W. Frederick Zimmerman,3.74,0976540606,9780976540601,en-US,152,19,1,4/26/2005,Nimble Books,True,True,True,True,True,True,True,True
+22595,Vulcan's Hammer,Philip K. Dick,3.52,1400030129,9781400030125,eng,165,1561,97,8/10/2004,Vintage,True,True,True,True,True,True,True,True
+1894,Under the Banner of Heaven: A Story of Violent Faith,Jon Krakauer,4.0,1400032806,9781400032808,eng,399,7481,1022,7/10/2003,Anchor Books,True,True,True,True,True,True,True,True
+45314,Kafka on the Shore,Haruki Murakami/Philip Gabriel,4.14,1400043662,9781400043668,en-US,436,1989,315,1/26/2005,Knopf Publishing Group,True,True,True,True,True,True,True,True
+9833,Blind Willow  Sleeping Woman,Haruki Murakami/Philip Gabriel/Jay Rubin,3.84,1400044618,9781400044610,eng,333,22847,1280,8/29/2006,Alfred A. Knopf,True,True,True,True,True,True,True,True
+16007,Last Train to Paradise: Henry Flagler and the Spectacular Rise and Fall of the Railroad that Crossed an Ocean,Les Standiford,4.03,1400049474,9781400049479,eng,288,1776,282,8/5/2003,Broadway Books,True,True,True,True,True,True,True,True
+18757,Last Night: Stories,James Salter,3.9,1400078415,9781400078417,eng,132,1825,186,3/14/2006,Vintage,True,True,True,True,True,True,True,True
+929,Memoirs of a Geisha,Arthur Golden,4.11,1400096898,9781400096893,eng,503,280309,3703,11/22/2005,Vintage Books USA,True,True,True,True,True,True,True,True
+22390,Doom Patrol  Vol. 4: Musclebound,Grant Morrison/Richard Case/Mike Dringenberg/Mark McKenna/Jamie Hewlett/Steve Yeowell/Rian Hughes,4.15,1401209998,9781401209995,eng,256,2322,77,8/30/2006,Vertigo,True,True,True,True,True,True,True,True
+2678,Gulliver's Travels / A Modest Proposal,Jonathan Swift/Jesse Gale,3.79,1416500391,9781416500391,eng,416,2161,50,8/1/2005,Simon  Schuster,True,True,True,True,True,True,True,True
+43491,Child of Darkness (Gemini  #3),V.C. Andrews,3.81,1416500502,9781416500506,eng,400,19,4,3/15/2005,Gallery Books,True,True,True,True,True,True,True,True
+35054,Sahara (Dirk Pitt  #11),Clive Cussler,3.96,1416513418,9781416513414,eng,576,47,6,3/1/2005,Pocket Books,True,True,True,True,True,True,True,True
+24330,Knowledge Is Power (The Amazing Days of Abby Hayes: #15),Anne Mazer,3.97,1417629762,9781417629763,eng,97,23,0,7/1/2004,Turtleback Books,True,True,True,True,True,True,True,True
+2022,The Frogs,Aristophanes/B.B. Rogers,3.8,1420926713,9781420926712,en-US,88,3,1,1/1/2005,Digireads.com,True,True,True,True,True,True,True,True
+24438,Video Girl Ai  Vol. 15: Len's Story,Masakazu Katsura,3.75,142150295X,9781421502953,en-US,208,134,0,4/4/2006,VIZ Media,True,True,True,True,True,True,True,True
+5071,Battle Angel Alita - Last Order : Guilty Angel  Vol. 07,Yukito Kishiro,4.12,1421504332,9781421504339,eng,208,340,4,6/13/2006,VIZ Media LLC,True,True,True,True,True,True,True,True
+869,Fullmetal Alchemist  Vol. 8 (Fullmetal Alchemist  #8),Hiromu Arakawa/Akira Watanabe,4.57,1421504596,9781421504599,eng,192,11451,161,7/18/2006,VIZ Media LLC,True,True,True,True,True,True,True,True
+13764,Red River  Vol. 14 (Red River  #14),Chie Shinohara,4.44,1421505568,9781421505565,eng,191,1030,13,9/12/2006,VIZ Media LLC,True,True,True,True,True,True,True,True
+13620,Death Note  Vol. 6: Give-and-Take (Death Note  #6),Tsugumi Ohba/Takeshi Obata/Alexis Kirsch,4.39,1421506270,9781421506272,eng,215,18291,491,7/5/2006,VIZ Media LLC,True,True,True,True,True,True,True,True
+29152,Yakitate!! Japan  Volume 3,Takashi Hashiguchi,3.97,1421507218,9781421507217,eng,208,297,6,1/9/2007,VIZ Media LLC,True,True,True,True,True,True,True,True
+35878,Ghost in the Shell 2: Innocence: After The Long Goodbye,Masaki Yamada/Yuji Oniki/Carl Gustav Horn/Daigo Shinma/Keita Saeki/Mamoru Oshii/Shinji Maki,3.97,1421513943,9781421513942,eng,196,21,3,7/17/2007,VIZ Media LLC,True,True,True,True,True,True,True,True
+26638,Kokopelli: The Magic  Mirth  and Mischief of an Ancient Symbol,Dennis Slifer/R. Carlos Nakai,3.69,1423601742,9781423601746,eng,240,19,4,4/5/2007,Gibbs Smith,True,True,True,True,True,True,True,True
+19125,From Far Away,Robert Munsch/Michael Martchenko/Saoussan Askar,4.0,155037396X,9781550373967,eng,33,219,21,2/1/1995,Annick Press,True,True,True,True,True,True,True,True
+10879,The Gonzo Way: A Celebration of Dr. Hunter S. Thompson,Anita Thompson,3.96,1555916228,9781555916220,en-US,112,1052,36,7/1/2007,Fulcrum Publishing,True,True,True,True,True,True,True,True
+36252,Avalon,Anya Seton/Philippa Gregory,3.87,1556526008,9781556526008,en-US,440,2857,158,5/1/2006,Chicago Review Press,True,True,True,True,True,True,True,True
+177,"A Wrinkle in Time: A Guide for Using ""A Wrinkle in Time"" in the Classroom",John Carratello/Patty Carratello/Theresa Wright,4.0,1557344035,9781557344038,eng,48,17,0,9/28/1991,Teacher Created Resources,True,True,True,True,True,True,True,True
+18314,The Picture of Dorian Gray,Oscar Wilde,4.08,1557424292,9781557424297,eng,187,329,21,10/10/2005,Wildside Press,True,True,True,True,True,True,True,True
+1423,The Compleat Works of Wllm Shkspr (abridged),Reduced Shakespeare Company/Adam Long/Daniel Singer/Jess Winfield,4.44,1557831572,9781557831576,eng,137,8159,118,2/1/1994,Applause Books,True,True,True,True,True,True,True,True
+22991,Blood Wedding and Yerma,Federico García Lorca/W.S. Merwin/Langston Hughes,3.84,1559360801,9781559360807,en-US,160,885,32,5/1/1994,Theatre Communications Group,True,True,True,True,True,True,True,True
+32916,On the Bus: The Complete Guide to the Legendary Trip of Ken Kesey and the Merry Pranksters and the Birth of Counterculture,Paul Perry/Ken Babbs,3.86,156025114X,9781560251149,eng,205,193,10,1/7/1997,Running Press,True,True,True,True,True,True,True,True
+22691,The Other Woman,Ann  O'Leary,3.64,1562802348,9781562802349,eng,213,77,6,4/28/1999,Naiad Press,True,True,True,True,True,True,True,True
+38609,Don't Wait for Your Ship to Come In... Swim Out to Meet It!: Bite-Sized Inspirations to Help You Achieve Your Dreams,John Mason,3.22,1562920588,9781562920586,eng,160,9,2,12/1/1994,Honor Books,True,True,True,True,True,True,True,True
+22128,Patriots (The Coming Collapse),"James Wesley, Rawles",3.63,156384155X,9781563841552,eng,342,38,4,1/15/1999,Huntington House Publishers,True,True,True,True,True,True,True,True
+16996,Underworld Unleashed,Mark Waid/Scott Peterson/Howard Porter/Dennis Janke/Phil Jimenez/J.H. Williams III/John Stokes/Mick Gray/Dan           Green,3.12,1563894475,9781563894473,eng,176,111,6,4/1/1998,DC Comics,True,True,True,True,True,True,True,True
+22426,Transmetropolitan  Vol. 7: Spider's Thrash,Warren Ellis/Darick Robertson/Rodney Ramos/Darren Aronofsky,4.32,1563898942,9781563898945,eng,144,12633,88,11/1/2002,Vertigo,True,True,True,True,True,True,True,True
+39836,How to Be Happy All the Time,Paramahansa Yogananda,4.36,1565892151,9781565892156,eng,167,317,19,6/1/2006,Crystal Clarity Publishers,True,True,True,True,True,True,True,True
+2731,Advanced Global Illumination,Philip Dutre,4.5,1568813074,9781568813073,eng,366,17,2,8/30/2006,A K PETERS,True,True,True,True,True,True,True,True
+22831,The Return of Lum  Volume 1: Urusei Yatsura (Urusei Yatsura  #2),Rumiko Takahashi,4.11,1569310351,9781569310359,eng,208,72,4,6/5/1995,Viz Media,True,True,True,True,True,True,True,True
+8880,Planet of the Apes  Volume 1: Old Gods,Ian Edginton,2.62,1569716684,9781569716687,eng,80,8,2,3/5/2002,Dark Horse Comics,True,True,True,True,True,True,True,True
+35417,Star Wars: Clone Wars  Volume 1: The Defense of Kamino and Other Tales,John Ostrander/W. Haden Blackman,3.85,1569719624,9781569719626,eng,128,911,38,9/15/2003,Dark Horse Books,True,True,True,True,True,True,True,True
+35295,Jimmy Stewart: The Truth Behind the Legend,Michael Munn,3.97,1569803102,9781569803103,eng,317,212,35,5/30/2006,Barricade Books,True,True,True,True,True,True,True,True
+31299,Hickory Dickory Dock (Hercule Poirot  #32),Agatha Christie/Hugh Fraser,3.75,1572705647,9781572705647,eng,196,13515,368,12/7/2006,AudioGO,True,True,True,True,True,True,True,True
+15888,An Instance of the Fingerpost,Iain Pears,3.94,1573227951,9781573227957,eng,691,19134,1081,4/1/2000,Riverhead Books,True,True,True,True,True,True,True,True
+1634,Getting Things Done When You Are Not in Charge,Geoffrey M. Bellman,3.46,1576751724,9781576751725,eng,176,75,12,8/27/2001,Berrett-Koehler Publishers,True,True,True,True,True,True,True,True
+39902,Bittersweet: Recipes and Tales from a Life in Chocolate,Alice Medrich/Deborah Jones,4.28,1579651607,9781579651602,eng,378,359,25,11/15/2003,Artisan,True,True,True,True,True,True,True,True
+44836,2006 International Building Code,International Code Council (ICC),3.27,1580012515,9781580012515,eng,664,11,1,3/6/2006,International Code Council,True,True,True,True,True,True,True,True
+28004,Cider,Annie Proulx/Lew Nichols,3.64,1580175201,9781580175203,eng,224,182,25,9/8/2003,Storey Publishing  LLC,True,True,True,True,True,True,True,True
+100,Simply Beautiful Beading: 53 Quick and Easy Projects,Heidi Boyd,3.78,1581805632,9781581805635,en-US,128,78,4,8/19/2004,North Light Books,True,True,True,True,True,True,True,True
+12370,Supermob: How Sidney Korshak and His Criminal Associates Became America's Hidden Power Brokers,Gus Russo,3.88,1582343896,9781582343891,en-US,640,89,15,9/5/2006,Bloomsbury (NYC),True,True,True,True,True,True,True,True
+38341,The Umbrella of US Power: The Universal Declaration of Human Rights & the Contradictions of US Policy,Noam Chomsky/Greg Ruggiero,3.96,1583225471,9781583225479,en-US,80,155,7,7/9/2002,Seven Stories Press,True,True,True,True,True,True,True,True
+23475,The Hip Chick's Guide to Macrobiotics: A Philosophy for Achieving a Radiant Mind and a Fabulous Body,Jessica Porter/Michio Kushi,3.69,1583332057,9781583332054,eng,289,424,53,9/9/2004,Avery Publishing Group,True,True,True,True,True,True,True,True
+22235,Stargirl LitPlans on CD,Mary B. Collins,4.86,158337292X,9781583372920,eng,210,5,0,9/15/2005,Teacher's Pet Publications,True,True,True,True,True,True,True,True
+16616,The Book of Leviathan,Peter Blegvad,4.16,1585670987,9781585670987,en-US,160,631,52,4/23/2001,Harry N. Abrams,True,True,True,True,True,True,True,True
+16388,Lord Emsworth and Others (Blandings Castle  #5.5),P.G. Wodehouse,4.16,1585672777,9781585672776,eng,268,1099,77,5/13/2002,The Overlook Press,True,True,True,True,True,True,True,True
+18025,Something Fresh (Blandings Castle  #1),P.G. Wodehouse,4.16,1585676586,9781585676583,eng,284,5311,391,4/7/2005,Harry N. Abrams,True,True,True,True,True,True,True,True
+7344,Tolkien and C.S. Lewis: The Gift of a Friendship,Colin Duriez,4.01,1587680262,9781587680267,eng,244,1354,53,10/8/2003,Paulist Press,True,True,True,True,True,True,True,True
+25153,Uzumaki: Spiral into Horror  Vol. 2.,Junji Ito/伊藤潤二,4.33,1591160332,9781591160335,eng,208,7275,286,7/6/2002,Viz Media,True,True,True,True,True,True,True,True
+35427,Star Wars: Knights of the Old Republic  Vol. 1: Commencement (Star Wars: Knights of the Old Republic  #1),John Jackson Miller/Travis Charest/Michael Atiyeh/Brian Ching/Travel Foreman,4.07,1593076401,9781593076405,eng,152,1791,100,12/5/2006,Dark Horse Comics,True,True,True,True,True,True,True,True
+23791,Ward No. 6 and Other Stories,Anton Chekhov/David Plante/Constance Garnett,4.33,1593080034,9781593080037,en-US,400,6988,173,7/1/2003,Barnes  Noble Classics,True,True,True,True,True,True,True,True
+4940,The Brothers Karamazov,Fyodor Dostoyevsky/Constance Garnett/Maire Jaanus,4.32,159308045X,9781593080457,eng,720,1089,202,7/25/2004,Barnes  Noble Classics,True,True,True,True,True,True,True,True
+7637,The Good Soldier,Ford Madox Ford/Frank Kermode,3.72,1593082681,9781593082680,eng,256,264,35,3/28/2005,Barnes  Noble Classics,True,True,True,True,True,True,True,True
+1893,Pride and Prejudice,Jane Austen/Carol Howard,4.26,1593083246,9781593083243,eng,392,1628,171,9/20/2004,Barnes  Noble Classics,True,True,True,True,True,True,True,True
+21759,Tripwire (Jack Reacher  #3),Lee Child/Dick Hill,4.09,1593555601,9781593555603,eng,14,11,1,11/25/2004,Brilliance Audio,True,True,True,True,True,True,True,True
+5486,Andrew Carnegie,David Nasaw,3.99,1594201048,9781594201042,eng,896,2580,205,10/24/2006,Penguin Press HC  The,True,True,True,True,True,True,True,True
+21969,The Book of the Dead  (Pendergast  #7; Diogenes  #3),Douglas Preston/Lincoln Child/Scott Brick,4.13,1594832285,9781594832284,eng,0,112,16,5/30/2006,Grand Central Publishing,True,True,True,True,True,True,True,True
+32302,Blame!  Vol. 8,Tsutomu Nihei,4.26,1595328416,9781595328410,eng,216,762,13,5/1/2007,TokyoPop,True,True,True,True,True,True,True,True
+21544,The Concrete Blonde (Harry Bosch  #3),Michael Connelly/Dick Hill,4.16,1596009209,9781596009202,en-US,12,132,28,5/25/2005,Brilliance Audio,True,True,True,True,True,True,True,True
+35499,Side Effects,Amy Goldman Koss,3.87,1596432942,9781596432949,eng,144,904,179,10/3/2006,Roaring Brook Press,True,True,True,True,True,True,True,True
+8927,Sherlock Holmes and the Case of the Hound of the Baskervilles (Great Illustrated Classics),Malvina G. Vogel/Arthur Conan Doyle,4.51,1596792507,9781596792500,en-US,237,33,1,1/1/2005,Abdo Publishing Company,True,True,True,True,True,True,True,True
+14046,The Time Traveler's Wife,Audrey Niffenegger,3.97,1596921536,9781596921535,eng,518,1005,253,10/1/2005,MacAdam/Cage,True,True,True,True,True,True,True,True
+25142,Fucked By Rock + Cd,Mark Manning,3.96,1840680733,9781840680737,eng,205,1,0,10/1/2001,Creation Books,True,True,True,True,True,True,True,True
+3805,The Corrections,Jonathan Franzen,3.79,1841156736,9781841156736,eng,653,133237,7468,9/2/2002,Fourth Estate Paperbacks,True,True,True,True,True,True,True,True
+15046,Weight: The Myth of Atlas and Heracles,Jeanette Winterson,3.77,1841957186,9781841957180,eng,151,4326,392,10/5/2005,Canongate U.S.,True,True,True,True,True,True,True,True
+12873,Rebecca,Daphne du Maurier/Sally Beauman,4.23,1844080382,9781844080380,en-US,441,179639,8119,12/1/2007,Virago Press (UK),True,True,True,True,True,True,True,True
+31638,The Ultramarines Omnibus (Ultramarines #1-3),Graham McNeill,3.97,1844164039,9781844164035,eng,768,1691,67,12/19/2008,Games Workshop,True,True,True,True,True,True,True,True
+41821,The Gods Themselves,Isaac Asimov,4.09,1857989341,9781857989342,eng,288,42770,1022,2/10/2000,Millenium,True,True,True,True,True,True,True,True
+28859,The Gospel According to Jesus Christ,José Saramago/Giovanni Pontiero,4.29,186046095X,9781860460951,eng,341,13919,526,12/26/1999,Harvill Press,True,True,True,True,True,True,True,True
+29052,Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible,Jorge Cervantes,4.39,187882323X,9781878823236,eng,512,431,25,3/1/2006,Van Patten Publishing,True,True,True,True,True,True,True,True
+39733,Almond Cookies & Dragon Well Tea,Cynthia Chin-Lee/Youshan Tang,3.89,1879965038,9781879965034,eng,37,9,0,5/1/1993,Polychrome Publishing Corporation,True,True,True,True,True,True,True,True
+12210,Collected Poems  Prose  and Plays,Robert Frost/Richard Poirier/Mark   Richardson,4.32,188301106X,9781883011062,eng,1036,6188,51,10/1/1995,Library of America,True,True,True,True,True,True,True,True
+9058,Charles Dickens as a Legal Historian,William Holdsworth,4.0,1886363064,9781886363069,eng,166,4,2,2/1/2010,Lawbook Exchange  Ltd.,True,True,True,True,True,True,True,True
+5966,Edward Lear's Book of Nonsense: With Lear's Original Illustrations,Edward Lear/Simcha Shtull,3.65,1888297018,9781888297010,eng,46,71,8,11/1/1995,Maxima New Media,True,True,True,True,True,True,True,True
+14604,The Day the Country Died: A History of Anarcho-Punk  1980-1984,Ian Glasper,3.99,1901447707,9781901447705,eng,375,206,16,3/1/2007,Cherry Red Books,True,True,True,True,True,True,True,True
+34296,The Builders,Maeve Binchy,3.97,1902602684,9781902602684,eng,87,664,82,11/1/2006,New Island Books,True,True,True,True,True,True,True,True
+34187,The Brooklyn Bridge (Wonders of the World),Elizabeth Mann/Alan Witschonke,4.44,1931414165,9781931414166,eng,46,37,6,9/12/2006,Mikaya Press,True,True,True,True,True,True,True,True
+20001,Interfictions: An Anthology of Interstitial Writing,Delia Sherman/Theodora Goss/K. Tempest Bradford/Karen Jordan Allen/Rachel Pollack/Veronica Schanoes/Mikal Trimm/Colin Greenland/Vandana Singh/Matthew Cheney/Léa Silhol/Adrián Ferrero/Holly Phillips/Catherynne M. Valente/Christopher Barzak/Leslie What/Anna Tambour/Joy Marchand/Jon Singer/Csilla Kleinheincz/Michael J. DeLuca,3.77,1931520240,9781931520249,eng,291,229,20,4/1/2007,Small Beer Press,True,True,True,True,True,True,True,True
+43437,McSweeney's #19,Dave Eggers/T. Coraghessan Boyle/Adam Golaski/Sean Casey/Brendan Connell,3.8,193241648X,9781932416480,en-GB,250,305,15,4/10/2006,McSweeney's,True,True,True,True,True,True,True,True
+34816,A Matter of Trust (Justice  #0),Radclyffe,4.21,1933110333,9781933110332,eng,240,942,26,2/1/2006,Bold Strokes Books,True,True,True,True,True,True,True,True
+12482,Amazing Disgrace (Gerald Samper #2),James Hamilton-Paterson,3.8,1933372192,9781933372198,eng,320,221,34,11/1/2006,Europa Editions,True,True,True,True,True,True,True,True
+38340,Syntactic Structures,Noam Chomsky/David W. Lightfoot,3.84,3110172798,9783110172799,eng,135,609,31,9/10/2012,Walter de Gruyter,True,True,True,True,True,True,True,True

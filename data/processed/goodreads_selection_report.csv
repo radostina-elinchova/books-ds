@@ -1,0 +1,7 @@
+rule,passing,not_passing
+english_edition,10541,586
+valid_isbn13,11099,28
+positive_integer_rating_count,11046,81
+usable_average_rating,11101,26
+title_and_authors_present,11127,0
+unique_isbn13,11127,0
